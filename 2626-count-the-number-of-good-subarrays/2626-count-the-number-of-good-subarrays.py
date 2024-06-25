@@ -9,8 +9,8 @@ class Solution:
                 r += 1
             if pair >= k:
                 res += (len(nums)-r+1)
-            else: 
-                break
+            # else: 
+            #     break
             count[nums[l]] -= 1
             pair -= count[nums[l]]
         return res
