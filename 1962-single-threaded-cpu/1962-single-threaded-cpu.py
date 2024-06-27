@@ -3,7 +3,7 @@ class Solution:
         for i in range(len(tasks)):
             tasks[i].append(i)
         tasks = sorted(tasks, key=lambda x: x[0])
-        print(tasks)
+
         endTime = tasks[0][0]
         i = 0
         heap,res = [], []
@@ -14,7 +14,6 @@ class Solution:
                 
                 heapq.heappush(heap, temp)
                 i += 1
-            # print(heap)
             if heap:
                 temp = heapq.heappop(heap)
                 endTime += temp[0]
