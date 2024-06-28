@@ -8,7 +8,6 @@ class Solution:
         for i, e in graph.items():
             temp.append([e, i])
         temp.sort(reverse=True)
-        print(temp)
         s = [0] * n
         for i in temp:
             s[i[1]] = n
