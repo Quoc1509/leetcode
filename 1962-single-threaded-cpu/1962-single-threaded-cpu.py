@@ -10,7 +10,7 @@ class Solution:
         while heap or i < len(tasks):
             while i < len(tasks) and tasks[i][0] <= endTime:
                 temp = [tasks[i][1], tasks[i][2]]
-                tasks[i].append(temp)
+                # tasks[i].append(temp)
                 
                 heapq.heappush(heap, temp)
                 i += 1
