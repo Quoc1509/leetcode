@@ -1,7 +1,6 @@
 class Solution:
     def maxEvents(self, events: List[List[int]]) -> int:
         events = sorted(events, key = lambda x: x[0])
-        print(events)
         heap = []
         d, res, i = 1, 0, 0
         while d <= 100000 and (heap or i < len(events)):
