@@ -19,12 +19,12 @@ class Solution:
                 a[0] += 1
                 if a[0] < 0:
                     heapq.heappush(heap, a)
-                heapq.heappush(heap, tmp)
+                # heapq.heappush(heap, tmp)
             else:
                 res += tmp[1]
                 tmp[0] += 1
-                if tmp[0] < 0:
-                    heapq.heappush(heap, tmp)
+            if tmp[0] < 0:
+                heapq.heappush(heap, tmp)
         
         return res
 
