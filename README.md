@@ -27,10 +27,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [1304-longest-happy-string](https://github.com/Quoc1509/leetcode/tree/master/1304-longest-happy-string) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Quoc1509/leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Quoc1509/leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1304-longest-happy-string](https://github.com/Quoc1509/leetcode/tree/master/1304-longest-happy-string) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Quoc1509/leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
+## String
+|  |
+| ------- |
+| [1304-longest-happy-string](https://github.com/Quoc1509/leetcode/tree/master/1304-longest-happy-string) |
 <!---LeetCode Topics End-->
