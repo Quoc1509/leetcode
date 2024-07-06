@@ -8,7 +8,6 @@ class Solution:
             if not visit[a]:
                 visit[a] = True
                 key.extend(rooms[a])
-        print(visit)
         for i in visit:
             if i == False: return False
         return True
