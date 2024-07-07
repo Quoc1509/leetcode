@@ -9,7 +9,7 @@ class Solution:
         res = [0]
         def dfs(node):
             res[0] += 1
-            print(node)
+           
             for i in graph[node]:
                 if i not in restricted:
                     restricted.add(i)
