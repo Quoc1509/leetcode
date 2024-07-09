@@ -6,7 +6,7 @@ class Solution:
         visited = set()
         def bfs(row, col):
             q = deque()
-            q.append([row, col])
+            q.append((row, col))
             visited.add((row, col))
             while q:
                 for _ in range(len(q)):
@@ -14,7 +14,7 @@ class Solution:
                     for x, y in surround:
                         r, c = a + x, b + y
                         if 0 <= r < size and 0 <= c < size and (r, c) not in visited and grid[r][c] == 1:
-                            q.append([r, c])
+                            q.append((r, c))
                             visited.add((r, c))
 
         for i in range(len(grid)):
@@ -23,7 +23,7 @@ class Solution:
                     bfs(i, j)
                     break
             if visited: break
-        land = deque(visited)
+        land = deque(list(visited))
         res = 0
         while land:
             for _ in range(len(land)):
@@ -33,7 +33,7 @@ class Solution:
                     if 0 <= r < size and 0 <= c < size and (r, c) not in visited:
                         if grid[r][c] == 1:
                             return res
-                        land.append([r, c])
+                        land.append((r, c))
                         visited.add((r, c))
             res += 1
         return res
