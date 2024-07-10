@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Quoc1509/leetcode/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/Quoc1509/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Quoc1509/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0695-max-area-of-island](https://github.com/Quoc1509/leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Quoc1509/leetcode/tree/master/0733-flood-fill) |
 | [0971-shortest-bridge](https://github.com/Quoc1509/leetcode/tree/master/0971-shortest-bridge) |
 | [1117-as-far-from-land-as-possible](https://github.com/Quoc1509/leetcode/tree/master/1117-as-far-from-land-as-possible) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Quoc1509/leetcode/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/Quoc1509/leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Quoc1509/leetcode/tree/master/0733-flood-fill) |
 | [0871-keys-and-rooms](https://github.com/Quoc1509/leetcode/tree/master/0871-keys-and-rooms) |
 | [0971-shortest-bridge](https://github.com/Quoc1509/leetcode/tree/master/0971-shortest-bridge) |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Quoc1509/leetcode/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/Quoc1509/leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Quoc1509/leetcode/tree/master/0733-flood-fill) |
 | [0871-keys-and-rooms](https://github.com/Quoc1509/leetcode/tree/master/0871-keys-and-rooms) |
 | [0971-shortest-bridge](https://github.com/Quoc1509/leetcode/tree/master/0971-shortest-bridge) |
@@ -111,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Quoc1509/leetcode/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/Quoc1509/leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Quoc1509/leetcode/tree/master/0733-flood-fill) |
 | [0971-shortest-bridge](https://github.com/Quoc1509/leetcode/tree/master/0971-shortest-bridge) |
 | [1117-as-far-from-land-as-possible](https://github.com/Quoc1509/leetcode/tree/master/1117-as-far-from-land-as-possible) |
@@ -118,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Quoc1509/leetcode/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/Quoc1509/leetcode/tree/master/0695-max-area-of-island) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Quoc1509/leetcode/tree/master/2121-find-if-path-exists-in-graph) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/Quoc1509/leetcode/tree/master/2445-reachable-nodes-with-restrictions) |
 ## Graph
