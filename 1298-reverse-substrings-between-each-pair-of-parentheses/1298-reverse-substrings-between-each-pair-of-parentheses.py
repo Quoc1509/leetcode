@@ -6,9 +6,9 @@ class Solution:
                 st.append("")
             elif i == ")":
                 st[-1] = st[-1][::-1]
-                if len(st) > 1:
-                    st[-2] = st[-2]+st[-1]
-                    st.pop()
+                # if len(st) > 1:
+                st[-2] = st[-2]+st[-1]
+                st.pop()
             else:
                 st[-1] += i
         # print(st)
