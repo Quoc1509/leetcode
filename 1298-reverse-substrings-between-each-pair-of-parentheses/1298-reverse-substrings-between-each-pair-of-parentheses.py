@@ -1,8 +1,6 @@
 class Solution:
     def reverseParentheses(self, s: str) -> str:
-        pa = 0
         st = [""]
-        temp = ""
         for i in s:
             if i == "(":
                 st.append("")
