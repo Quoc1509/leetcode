@@ -4,7 +4,7 @@ class Solution:
         for a, b in dislikes:
             graph[a].append(b)
             graph[b].append(a)
-        print(graph)
+
         q = deque()
         group = [set(), set()]
         for key, item in graph.items():
