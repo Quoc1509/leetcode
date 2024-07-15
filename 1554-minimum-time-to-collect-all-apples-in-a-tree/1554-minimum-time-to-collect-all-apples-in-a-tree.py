@@ -4,7 +4,7 @@ class Solution:
         for a, b in edges:
             graph[a].append(b)
             graph[b].append(a)
-        print(graph)
+        # print(graph)
         def dfs(node, prev):
             res, path = hasApple[node], 0
             for i in graph[node]:
