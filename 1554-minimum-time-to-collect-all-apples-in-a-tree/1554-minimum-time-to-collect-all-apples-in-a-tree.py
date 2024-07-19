@@ -4,18 +4,18 @@ class Solution:
         for a, b in edges:
             graph[a].append(b)
             graph[b].append(a)
-        # print(graph)
-        def dfs(node, prev):
-            res, path = hasApple[node], 0
+        
+        
+        def dfs(node, pre):
+            res = 0
+            apple = hasApple[node]
             for i in graph[node]:
-                if i != prev:
+                if i != pre:
                     temp = dfs(i, node)
-                    if temp[0]: 
-                        res = True
-                    path += temp[1]
-            # print(res, path)
-            if res == True:
-                return (res, path+1)
-            return (res, 0)
-        a = dfs(0, -1)[1]
-        return (a-1)*2 if a != 0 else 0
+                    if temp[1]: apple = True
+                    res += temp[0]
+            if apple:
+                return (res+1, apple)
+            return (res, apple)
+        ans = dfs(0, -1)
+        return (ans[0]-1)*2 if ans[1] else 0
