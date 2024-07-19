@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Quoc1509/leetcode/tree/master/0733-flood-fill) |
 | [0971-shortest-bridge](https://github.com/Quoc1509/leetcode/tree/master/0971-shortest-bridge) |
 | [1117-as-far-from-land-as-possible](https://github.com/Quoc1509/leetcode/tree/master/1117-as-far-from-land-as-possible) |
+| [1496-lucky-numbers-in-a-matrix](https://github.com/Quoc1509/leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Quoc1509/leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/Quoc1509/leetcode/tree/master/1663-detect-cycles-in-2d-grid) |
 | [1720-crawler-log-folder](https://github.com/Quoc1509/leetcode/tree/master/1720-crawler-log-folder) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Quoc1509/leetcode/tree/master/0733-flood-fill) |
 | [0971-shortest-bridge](https://github.com/Quoc1509/leetcode/tree/master/0971-shortest-bridge) |
 | [1117-as-far-from-land-as-possible](https://github.com/Quoc1509/leetcode/tree/master/1117-as-far-from-land-as-possible) |
+| [1496-lucky-numbers-in-a-matrix](https://github.com/Quoc1509/leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/Quoc1509/leetcode/tree/master/1663-detect-cycles-in-2d-grid) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/Quoc1509/leetcode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 ## Union Find
