@@ -14,4 +14,3 @@ class Solution:
         # print(st)
                 
         return "".join(st)
-                 
