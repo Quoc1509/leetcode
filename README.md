@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2445-reachable-nodes-with-restrictions](https://github.com/Quoc1509/leetcode/tree/master/2445-reachable-nodes-with-restrictions) |
 | [2483-task-scheduler-ii](https://github.com/Quoc1509/leetcode/tree/master/2483-task-scheduler-ii) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Quoc1509/leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [2727-number-of-senior-citizens](https://github.com/Quoc1509/leetcode/tree/master/2727-number-of-senior-citizens) |
 | [2730-maximum-or](https://github.com/Quoc1509/leetcode/tree/master/2730-maximum-or) |
 | [2915-count-of-interesting-subarrays](https://github.com/Quoc1509/leetcode/tree/master/2915-count-of-interesting-subarrays) |
 ## Hash Table
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1304-longest-happy-string](https://github.com/Quoc1509/leetcode/tree/master/1304-longest-happy-string) |
 | [1720-crawler-log-folder](https://github.com/Quoc1509/leetcode/tree/master/1720-crawler-log-folder) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Quoc1509/leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
+| [2727-number-of-senior-citizens](https://github.com/Quoc1509/leetcode/tree/master/2727-number-of-senior-citizens) |
 ## Linked List
 |  |
 | ------- |
