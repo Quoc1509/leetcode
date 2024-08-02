@@ -1,9 +1,6 @@
 class Solution:
     def minSwaps(self, nums: List[int]) -> int:
-        one = 0
-        for i in nums:
-            if i == 1:
-                one += 1
+        one = nums.count(1)   
         res = 0
         for i in range(-one, 0):
             if nums[i] == 0:
