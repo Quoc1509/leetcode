@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1803-average-waiting-time](https://github.com/Quoc1509/leetcode/tree/master/1803-average-waiting-time) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/Quoc1509/leetcode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2206-detonate-the-maximum-bombs](https://github.com/Quoc1509/leetcode/tree/master/2206-detonate-the-maximum-bombs) |
+| [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Quoc1509/leetcode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/Quoc1509/leetcode/tree/master/2445-reachable-nodes-with-restrictions) |
 | [2483-task-scheduler-ii](https://github.com/Quoc1509/leetcode/tree/master/2483-task-scheduler-ii) |
 | [2502-sort-the-people](https://github.com/Quoc1509/leetcode/tree/master/2502-sort-the-people) |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Quoc1509/leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Quoc1509/leetcode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 ## Backtracking
 |  |
 | ------- |
