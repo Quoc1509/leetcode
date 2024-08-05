@@ -1,16 +1,18 @@
 class Solution:
     def repairCars(self, ranks: List[int], cars: int) -> int:
-        l, r = 1, min(ranks) * pow(cars, 2)
-        def check(minutes):
-            car = 0
+        
+        l, r = min(ranks), cars*cars*max(ranks)
+
+        def check(mins):
+            res = 0
             for i in ranks:
-                car += floor(sqrt(minutes / i))
-            return car
+                res += floor(sqrt(mins / i))
+            return res >= cars
+
         while l <= r:
             m = (l+r)//2
-            temp = check(m)
-            if temp >= cars:
-                r = m - 1 
+            if check(m):
+                r = m - 1
             else:
                 l = m + 1
         return l
