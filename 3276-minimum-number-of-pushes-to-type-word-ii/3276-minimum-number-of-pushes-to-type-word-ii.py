@@ -5,7 +5,6 @@ class Solution:
         for key, item in count.items():
             tmp.append(item)
         tmp.sort(reverse=True)
-        print(tmp)
         c = 0
         for i in tmp:
             res += ((c // 8)+1)*i
