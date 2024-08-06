@@ -20,14 +20,15 @@ class Solution:
                             visited.add(j)
                             count += 1
                             q.append(j)
-            return (tmp, count)
+            return len(tmp) == 1 and list(tmp)[0] == count -1
         res = 0
         for i in range(n):
             if i not in visited:
-                a, c = bfs(i)
-                b = list(a)
-                print(len(b), b)
-                if len(b) == 1 and b[0] == c-1:
+                # a, c = bfs(i)
+                # b = list(a)
+                # print(len(b), b)
+                # if len(b) == 1 and b[0] == c-1:
+                if bfs(i):
                     res += 1
         return res
         
