@@ -15,6 +15,7 @@ class Solution:
                 for _ in range(len(q)):
                     n = q.popleft()
                     tmp.add(len(graph[n]))
+                    
                     for j in graph[n]:
                         if j not in visited:
                             visited.add(j)
@@ -24,10 +25,6 @@ class Solution:
         res = 0
         for i in range(n):
             if i not in visited:
-                # a, c = bfs(i)
-                # b = list(a)
-                # print(len(b), b)
-                # if len(b) == 1 and b[0] == c-1:
                 if bfs(i):
                     res += 1
         return res
