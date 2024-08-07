@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Quoc1509/leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1304-longest-happy-string](https://github.com/Quoc1509/leetcode/tree/master/1304-longest-happy-string) |
+| [1543-simplified-fractions](https://github.com/Quoc1509/leetcode/tree/master/1543-simplified-fractions) |
 | [1720-crawler-log-folder](https://github.com/Quoc1509/leetcode/tree/master/1720-crawler-log-folder) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Quoc1509/leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Quoc1509/leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1014-k-closest-points-to-origin](https://github.com/Quoc1509/leetcode/tree/master/1014-k-closest-points-to-origin) |
+| [1543-simplified-fractions](https://github.com/Quoc1509/leetcode/tree/master/1543-simplified-fractions) |
 | [1642-water-bottles](https://github.com/Quoc1509/leetcode/tree/master/1642-water-bottles) |
 | [2206-detonate-the-maximum-bombs](https://github.com/Quoc1509/leetcode/tree/master/2206-detonate-the-maximum-bombs) |
 | [2645-pass-the-pillow](https://github.com/Quoc1509/leetcode/tree/master/2645-pass-the-pillow) |
@@ -292,4 +294,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1985-maximum-subarray-min-product](https://github.com/Quoc1509/leetcode/tree/master/1985-maximum-subarray-min-product) |
+## Number Theory
+|  |
+| ------- |
+| [1543-simplified-fractions](https://github.com/Quoc1509/leetcode/tree/master/1543-simplified-fractions) |
 <!---LeetCode Topics End-->
