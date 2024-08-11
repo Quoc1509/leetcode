@@ -37,15 +37,14 @@ class Solution:
                     graph[p1].append((we2, k2))
                     graph[k2].append((we2, p1))
 
-        # print(graph)
         heap = []
         heapq.heappush(heap, (0, s))
         while heap:
             we, no = heapq.heappop(heap)
             if we > dis[no]: continue
+            if no == e: return we
             for w, n in graph[no]:
                 if w+we < dis[n]:
                     heapq.heappush(heap, (w+we, n))
                     dis[n] = w+we
-        # print(dis)
         return dis[e]
