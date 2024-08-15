@@ -2,8 +2,6 @@ class Solution:
     def smallestDistancePair(self, nums: List[int], k: int) -> int:
         n = len(nums)
         nums.sort()
-        print(nums)
-        pair = n*(n-1)//2
         l, r = 0, max(nums)-min(nums)
 
         def check(mid):
