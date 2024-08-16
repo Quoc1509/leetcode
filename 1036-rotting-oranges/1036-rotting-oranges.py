@@ -23,10 +23,10 @@ class Solution:
                     ro, co = q.popleft()
                     for x, y in surround:
                         row, col = ro + x, co + y
-                        if 0 <= row < m and 0 <= col < n and grid[row][col] != 0 and (row, col) not in visit:
+                        if 0 <= row < m and 0 <= col < n and grid[row][col] != 0 and grid[row][col] > count:
                             grid[row][col] = min(grid[row][col], count)
                             q.append((row, col))
-                            visit.add((row, col))
+                            # visit.add((row, col))
                 count += 1
 
 
