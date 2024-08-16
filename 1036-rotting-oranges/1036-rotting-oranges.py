@@ -13,10 +13,8 @@ class Solution:
         surround = [(-1, 0), (1, 0), (0, -1), (0, 1)]
 
         def bfs(r, c):
-            visit = set()
             q = deque()
             q.append((r, c))
-            visit.add((r, c))
             count = 1
             while q:
                 for _ in range(len(q)):
@@ -26,7 +24,6 @@ class Solution:
                         if 0 <= row < m and 0 <= col < n and grid[row][col] != 0 and grid[row][col] > count:
                             grid[row][col] = min(grid[row][col], count)
                             q.append((row, col))
-                            # visit.add((row, col))
                 count += 1
 
 
