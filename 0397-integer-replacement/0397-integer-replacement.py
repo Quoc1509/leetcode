@@ -10,7 +10,7 @@ class Solution:
                 temp = (n + 1) // 2
                 
                 if temp % 2 == 0:
-                    n = n+1
+                    n += 1
                 else: n -= 1
             count += 1
         return count + 1
