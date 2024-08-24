@@ -8,10 +8,8 @@ class Solution:
                 res.append(path[:])
                 return
             if total > target or i == N: return
-            t = i+1
-            while t < N and candidates[t] == candidates[i]:
-                t += 1
-            backTracking(t, path, total)
+
+            backTracking(i+1, path, total)
             backTracking(i, path+[candidates[i]], total + candidates[i])
         backTracking(0, [], 0)
         return res
