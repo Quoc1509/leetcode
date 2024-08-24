@@ -1,23 +1,19 @@
 class Solution:
     def combinationSum2(self, candidates: List[int], target: int) -> List[List[int]]:
         candidates.sort()
-        def backTracking(total, index):
-            
-            if total == target: return [[]]
-            if total > target: return None
-            
-            res = []
-            for i in range(index, len(candidates)):
-                if i > index and candidates[i] == candidates[i - 1]:
-                    continue
-                temp =  backTracking(total+candidates[i], i+1)
 
-                if temp is not None:
-                    for j in temp:
-                        cur = j
-                        cur.append(candidates[i])
-                        res.append(cur)
-                    
-            return res
-        return backTracking(0, 0)
-
+        res = []
+        N = len(candidates)
+        def backTracking(path, i, total):
+            if total == target: 
+                res.append(path[:])
+                return
+            if total > target or i == N: return
+            t = i+1
+            while t < N and candidates[t] == candidates[i]:
+                t += 1
+                
+            backTracking(path, t, total)
+            backTracking(path + [candidates[i]], i+1, total + candidates[i])
+        backTracking([], 0, 0)
+        return res 
