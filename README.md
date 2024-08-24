@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0040-combination-sum-ii](https://github.com/Quoc1509/leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Quoc1509/leetcode/tree/master/0046-permutations) |
+| [0078-subsets](https://github.com/Quoc1509/leetcode/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Quoc1509/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/Quoc1509/leetcode/tree/master/0162-find-peak-element) |
 | [0200-number-of-islands](https://github.com/Quoc1509/leetcode/tree/master/0200-number-of-islands) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Quoc1509/leetcode/tree/master/0078-subsets) |
 | [0397-integer-replacement](https://github.com/Quoc1509/leetcode/tree/master/0397-integer-replacement) |
 | [0476-number-complement](https://github.com/Quoc1509/leetcode/tree/master/0476-number-complement) |
 | [2478-longest-nice-subarray](https://github.com/Quoc1509/leetcode/tree/master/2478-longest-nice-subarray) |
@@ -295,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0040-combination-sum-ii](https://github.com/Quoc1509/leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Quoc1509/leetcode/tree/master/0046-permutations) |
+| [0078-subsets](https://github.com/Quoc1509/leetcode/tree/master/0078-subsets) |
 | [0113-path-sum-ii](https://github.com/Quoc1509/leetcode/tree/master/0113-path-sum-ii) |
 ## Binary Tree
 |  |
