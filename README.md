@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/Quoc1509/leetcode/tree/master/1036-rotting-oranges) |
 | [1117-as-far-from-land-as-possible](https://github.com/Quoc1509/leetcode/tree/master/1117-as-far-from-land-as-possible) |
 | [1333-sort-the-jumbled-numbers](https://github.com/Quoc1509/leetcode/tree/master/1333-sort-the-jumbled-numbers) |
+| [1380-number-of-closed-islands](https://github.com/Quoc1509/leetcode/tree/master/1380-number-of-closed-islands) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Quoc1509/leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Quoc1509/leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Quoc1509/leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0871-keys-and-rooms](https://github.com/Quoc1509/leetcode/tree/master/0871-keys-and-rooms) |
 | [0922-possible-bipartition](https://github.com/Quoc1509/leetcode/tree/master/0922-possible-bipartition) |
 | [0971-shortest-bridge](https://github.com/Quoc1509/leetcode/tree/master/0971-shortest-bridge) |
+| [1380-number-of-closed-islands](https://github.com/Quoc1509/leetcode/tree/master/1380-number-of-closed-islands) |
 | [1492-time-needed-to-inform-all-employees](https://github.com/Quoc1509/leetcode/tree/master/1492-time-needed-to-inform-all-employees) |
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/Quoc1509/leetcode/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/Quoc1509/leetcode/tree/master/1653-number-of-good-leaf-nodes-pairs) |
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1007-numbers-with-same-consecutive-differences](https://github.com/Quoc1509/leetcode/tree/master/1007-numbers-with-same-consecutive-differences) |
 | [1036-rotting-oranges](https://github.com/Quoc1509/leetcode/tree/master/1036-rotting-oranges) |
 | [1117-as-far-from-land-as-possible](https://github.com/Quoc1509/leetcode/tree/master/1117-as-far-from-land-as-possible) |
+| [1380-number-of-closed-islands](https://github.com/Quoc1509/leetcode/tree/master/1380-number-of-closed-islands) |
 | [1492-time-needed-to-inform-all-employees](https://github.com/Quoc1509/leetcode/tree/master/1492-time-needed-to-inform-all-employees) |
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/Quoc1509/leetcode/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/Quoc1509/leetcode/tree/master/1663-detect-cycles-in-2d-grid) |
@@ -232,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0971-shortest-bridge](https://github.com/Quoc1509/leetcode/tree/master/0971-shortest-bridge) |
 | [1036-rotting-oranges](https://github.com/Quoc1509/leetcode/tree/master/1036-rotting-oranges) |
 | [1117-as-far-from-land-as-possible](https://github.com/Quoc1509/leetcode/tree/master/1117-as-far-from-land-as-possible) |
+| [1380-number-of-closed-islands](https://github.com/Quoc1509/leetcode/tree/master/1380-number-of-closed-islands) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Quoc1509/leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/Quoc1509/leetcode/tree/master/1663-detect-cycles-in-2d-grid) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/Quoc1509/leetcode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
@@ -242,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/Quoc1509/leetcode/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/Quoc1509/leetcode/tree/master/0695-max-area-of-island) |
 | [0922-possible-bipartition](https://github.com/Quoc1509/leetcode/tree/master/0922-possible-bipartition) |
+| [1380-number-of-closed-islands](https://github.com/Quoc1509/leetcode/tree/master/1380-number-of-closed-islands) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/Quoc1509/leetcode/tree/master/1663-detect-cycles-in-2d-grid) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Quoc1509/leetcode/tree/master/2121-find-if-path-exists-in-graph) |
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/Quoc1509/leetcode/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
