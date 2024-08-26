@@ -1,15 +1,15 @@
 class Solution:
     def findDifferentBinaryString(self, nums: List[str]) -> str:
+        temp = set(nums)
         N = len(nums)
-        res = set()
+        res = ['']
         def dfs(s):
             if len(s) == N:
-                res.add(s)
+                if s not in temp: 
+                    res[0] = s
                 return
         
             dfs(s+'0')
             dfs(s+'1')
         dfs('')
-        for i in nums:
-            res.remove(i)
-        return list(res)[0]
+        return res[0]
