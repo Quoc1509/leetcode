@@ -15,8 +15,9 @@ class Solution:
                 return -w
             if w > dist[n]: continue
             for we, ne in graph[n]:
-                if -(we*w) < dist[ne]:
-                    heapq.heappush(q, (-(w*we), ne))
-                    dist[ne] = -(w*we)
+                cur = -(we*w)
+                if cur < dist[ne]:
+                    heapq.heappush(q, (cur, ne))
+                    dist[ne] = cur
 
-        return -dist[end_node]
+        return 0
