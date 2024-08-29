@@ -22,6 +22,4 @@ class Solution:
             count[0] = -1
             dfs(a, b)
             res += count[0]
-            
-            # res = max(res, count[0])
         return res
