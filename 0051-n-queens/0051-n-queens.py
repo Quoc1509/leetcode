@@ -1,8 +1,8 @@
 class Solution:
     def solveNQueens(self, n: int) -> List[List[str]]:
-        col = set()
-        dia1 = set()
-        dia2 = set()
+        col = [True] * n
+        dia1 = [True] * (2*n-1)
+        dia2 = [True] * (2*n-1)
         res = []
         def backTracking(rows, r):
             if r == n:
@@ -10,10 +10,10 @@ class Solution:
                 return
             row = ['.'] * n
             for c in range(n):
-                if c not in col and (r+c) not in dia1 and (r-c+n-1) not in dia2:
-                    col.add(c)
-                    dia1.add(r+c)
-                    dia2.add(r-c+n-1)
+                if col[c] and dia1[r+c] and dia2[r-c+n-1]:
+                    col[c] = False
+                    dia1[r+c] = False
+                    dia2[r-c+n-1] = False
 
                     row[c] = 'Q'
                     temp = ''.join(row)                   
@@ -24,8 +24,8 @@ class Solution:
                     rows.pop()
                     row[c] = "."
 
-                    col.remove(c)
-                    dia1.remove(r+c)
-                    dia2.remove(r-c+n-1)
+                    col[c] = True
+                    dia1[r+c] = True
+                    dia2[r-c+n-1] = True
         backTracking([], 0)
         return res
