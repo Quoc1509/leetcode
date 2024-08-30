@@ -340,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/Quoc1509/leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Quoc1509/leetcode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Quoc1509/leetcode/tree/master/0051-n-queens) |
+| [0052-n-queens-ii](https://github.com/Quoc1509/leetcode/tree/master/0052-n-queens-ii) |
 | [0078-subsets](https://github.com/Quoc1509/leetcode/tree/master/0078-subsets) |
 | [0093-restore-ip-addresses](https://github.com/Quoc1509/leetcode/tree/master/0093-restore-ip-addresses) |
 | [0113-path-sum-ii](https://github.com/Quoc1509/leetcode/tree/master/0113-path-sum-ii) |
