@@ -13,6 +13,8 @@ class Solution:
             if index >= len(toppingCosts): return
             for j in range(3):
                 backTracking(price+(j*toppingCosts[index]), total, index+1)
+                if res[0] == target:
+                    return
 
         for i in baseCosts:
             backTracking(i, target, 0)
