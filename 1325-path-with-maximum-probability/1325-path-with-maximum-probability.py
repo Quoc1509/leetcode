@@ -19,5 +19,5 @@ class Solution:
                 if cur < dist[ne]:
                     heapq.heappush(q, (cur, ne))
                     dist[ne] = cur
-
+        
         return 0
