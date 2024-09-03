@@ -6,10 +6,9 @@ class Solution:
             string += temp
         # print(string)
         res = 0
-        while k != 0:
+        for _ in range(k):
             res = 0
             for i in string:
                 res +=int(i)
             string = str(res)
-            k -= 1
         return res
