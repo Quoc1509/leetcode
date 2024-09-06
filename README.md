@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Quoc1509/leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2665-minimum-time-to-repair-cars](https://github.com/Quoc1509/leetcode/tree/master/2665-minimum-time-to-repair-cars) |
 | [2686-minimum-cost-of-a-path-with-special-roads](https://github.com/Quoc1509/leetcode/tree/master/2686-minimum-cost-of-a-path-with-special-roads) |
+| [2721-sum-of-distances](https://github.com/Quoc1509/leetcode/tree/master/2721-sum-of-distances) |
 | [2727-number-of-senior-citizens](https://github.com/Quoc1509/leetcode/tree/master/2727-number-of-senior-citizens) |
 | [2730-maximum-or](https://github.com/Quoc1509/leetcode/tree/master/2730-maximum-or) |
 | [2915-count-of-interesting-subarrays](https://github.com/Quoc1509/leetcode/tree/master/2915-count-of-interesting-subarrays) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2445-reachable-nodes-with-restrictions](https://github.com/Quoc1509/leetcode/tree/master/2445-reachable-nodes-with-restrictions) |
 | [2483-task-scheduler-ii](https://github.com/Quoc1509/leetcode/tree/master/2483-task-scheduler-ii) |
 | [2502-sort-the-people](https://github.com/Quoc1509/leetcode/tree/master/2502-sort-the-people) |
+| [2721-sum-of-distances](https://github.com/Quoc1509/leetcode/tree/master/2721-sum-of-distances) |
 | [2915-count-of-interesting-subarrays](https://github.com/Quoc1509/leetcode/tree/master/2915-count-of-interesting-subarrays) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Quoc1509/leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3363-most-frequent-ids](https://github.com/Quoc1509/leetcode/tree/master/3363-most-frequent-ids) |
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Quoc1509/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [1985-maximum-subarray-min-product](https://github.com/Quoc1509/leetcode/tree/master/1985-maximum-subarray-min-product) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Quoc1509/leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2721-sum-of-distances](https://github.com/Quoc1509/leetcode/tree/master/2721-sum-of-distances) |
 | [2730-maximum-or](https://github.com/Quoc1509/leetcode/tree/master/2730-maximum-or) |
 | [2915-count-of-interesting-subarrays](https://github.com/Quoc1509/leetcode/tree/master/2915-count-of-interesting-subarrays) |
 ## Math
