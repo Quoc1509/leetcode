@@ -7,7 +7,7 @@ class Solution:
             left[i] = max(nums[i], left[i-1])
         for i in range(len(nums)-2, -1, -1):
             right[i] = min(nums[i], right[i+1])
-        print(left, right)
+        # print(left, right)
         for i in range(len(nums)-1):
             if left[i] <= right[i+1]:
                 return i+1
