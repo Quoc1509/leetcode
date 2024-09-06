@@ -175,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0203-remove-linked-list-elements](https://github.com/Quoc1509/leetcode/tree/master/0203-remove-linked-list-elements) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Quoc1509/leetcode/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/Quoc1509/leetcode/tree/master/2299-merge-nodes-in-between-zeros) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Quoc1509/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -441,4 +442,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3363-most-frequent-ids](https://github.com/Quoc1509/leetcode/tree/master/3363-most-frequent-ids) |
+## Recursion
+|  |
+| ------- |
+| [0203-remove-linked-list-elements](https://github.com/Quoc1509/leetcode/tree/master/0203-remove-linked-list-elements) |
 <!---LeetCode Topics End-->
