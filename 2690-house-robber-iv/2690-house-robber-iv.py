@@ -8,9 +8,10 @@ class Solution:
             while i < len(nums):
                 if nums[i] <= m:
                     count += 1
+                    if count == k: return True
                     i += 1
                 i += 1
-            return count >= k
+            return False
 
         while l <= r:
             mid = (l+r)//2
