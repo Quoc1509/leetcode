@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/Quoc1509/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Quoc1509/leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Quoc1509/leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
+| [1307-ugly-number-iii](https://github.com/Quoc1509/leetcode/tree/master/1307-ugly-number-iii) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Quoc1509/leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Quoc1509/leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2665-minimum-time-to-repair-cars](https://github.com/Quoc1509/leetcode/tree/master/2665-minimum-time-to-repair-cars) |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0396-rotate-function](https://github.com/Quoc1509/leetcode/tree/master/0396-rotate-function) |
 | [1014-k-closest-points-to-origin](https://github.com/Quoc1509/leetcode/tree/master/1014-k-closest-points-to-origin) |
+| [1307-ugly-number-iii](https://github.com/Quoc1509/leetcode/tree/master/1307-ugly-number-iii) |
 | [1543-simplified-fractions](https://github.com/Quoc1509/leetcode/tree/master/1543-simplified-fractions) |
 | [1642-water-bottles](https://github.com/Quoc1509/leetcode/tree/master/1642-water-bottles) |
 | [2155-find-missing-observations](https://github.com/Quoc1509/leetcode/tree/master/2155-find-missing-observations) |
@@ -464,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [1307-ugly-number-iii](https://github.com/Quoc1509/leetcode/tree/master/1307-ugly-number-iii) |
 | [1543-simplified-fractions](https://github.com/Quoc1509/leetcode/tree/master/1543-simplified-fractions) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Quoc1509/leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Memoization
@@ -482,4 +485,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0310-minimum-height-trees](https://github.com/Quoc1509/leetcode/tree/master/0310-minimum-height-trees) |
+## Combinatorics
+|  |
+| ------- |
+| [1307-ugly-number-iii](https://github.com/Quoc1509/leetcode/tree/master/1307-ugly-number-iii) |
 <!---LeetCode Topics End-->
