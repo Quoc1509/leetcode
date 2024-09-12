@@ -236,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Quoc1509/leetcode/tree/master/0062-unique-paths) |
 | [0396-rotate-function](https://github.com/Quoc1509/leetcode/tree/master/0396-rotate-function) |
 | [1014-k-closest-points-to-origin](https://github.com/Quoc1509/leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1307-ugly-number-iii](https://github.com/Quoc1509/leetcode/tree/master/1307-ugly-number-iii) |
@@ -374,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Quoc1509/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/Quoc1509/leetcode/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/Quoc1509/leetcode/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/Quoc1509/leetcode/tree/master/0062-unique-paths) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Quoc1509/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Quoc1509/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0131-palindrome-partitioning](https://github.com/Quoc1509/leetcode/tree/master/0131-palindrome-partitioning) |
@@ -496,5 +498,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Quoc1509/leetcode/tree/master/0062-unique-paths) |
 | [1307-ugly-number-iii](https://github.com/Quoc1509/leetcode/tree/master/1307-ugly-number-iii) |
 <!---LeetCode Topics End-->
