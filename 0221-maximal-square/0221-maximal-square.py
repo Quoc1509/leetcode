@@ -11,7 +11,5 @@ class Solution:
                     length = min(dp[i-1][j], dp[i-1][j-1], dp[i][j-1])+1
                 dp[i][j] = length
                 res = max(res, length*length)
-        for r in dp:
-            print(r)
         return res
 
