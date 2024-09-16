@@ -9,9 +9,7 @@ class Solution:
                 temp = st[:l]
                 if i == temp:
                     if dfs(st[l:]):
-                        memo[st] = True
-
-                        return memo[st]
+                        return True
             memo[st] = False
             return memo[st]
         return dfs(s) 
