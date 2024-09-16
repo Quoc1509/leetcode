@@ -3,12 +3,8 @@ class Solution:
         temp = []
         for i in timePoints:
             if i[:2] == "00":
-                if i[3:] == 00:
-                    temp.append(24*60)
-                    temp.append(0)
-                else:
-                    temp.append(24*60 + int(i[3:]))
-                    temp.append(int(i[3:]))
+                temp.append(24*60 + int(i[3:]))
+                temp.append(int(i[3:]))
                 continue
             hour = int(i[:2])
             minute = int(i[3:])
