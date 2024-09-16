@@ -15,7 +15,6 @@ class Solution:
             temp.append(hour*60+minute)
         
         temp.sort()
-        print(temp)
         res = inf
         for i in range(1, len(temp)):
             res = min(res, temp[i]-temp[i-1])
