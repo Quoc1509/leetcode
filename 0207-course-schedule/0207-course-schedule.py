@@ -10,15 +10,15 @@ class Solution:
             if course[i] == 0:
                 q.append(i)
 
-        res = []
+        res = 0
         while q:
             for _ in range(len(q)):
                 n = q.popleft()
                 if course[n] == 0:
-                    res.append(n)
+                    res += 1
                 for node in graph[n]:
                     course[node] -= 1
                     if course[node] == 0:
                         q.append(node)
                         
-        return True if len(res) == numCourses else False
+        return True if res == numCourses else False
