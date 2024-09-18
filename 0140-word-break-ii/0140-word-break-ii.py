@@ -1,7 +1,6 @@
 class Solution:
     def wordBreak(self, s: str, wordDict: List[str]) -> List[str]:
         
-
         def backTracking(st):
             if st == '':
                 return ['']
@@ -17,10 +16,8 @@ class Solution:
                                 ans[j] = i
                             else:
                                 ans[j] = i + " " + ans[j]
-                        # print(st, i, ans)
                         res.extend(ans)
-                        
-                    
+                               
             if res:
                 return res
             return None
