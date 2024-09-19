@@ -1,16 +1,5 @@
 class Solution:
     def diffWaysToCompute(self, expression: str) -> List[int]:
-        # operating = []
-        # num = ""
-        # for i in expression:
-            
-        #     if not i.isdigit():
-        #         operating.append(num)
-        #         operating.append(i)
-        #         num = ""
-        #     else:
-        #         num += i
-        # operating.append(num)
 
         def compute(l, r, o):
             temp = []
