@@ -1,6 +1,6 @@
 class Solution:
     def findKthLargest(self, nums: List[int], k: int) -> int:
-
+        if len(nums) == 1: return nums[0]
         def check(mid):
             count = 0
             for i in nums:
@@ -8,7 +8,7 @@ class Solution:
                     count += 1
             return count >= k
 
-        l, r = 0, len(nums)-1
+        l, r = min(nums), max(nums)
         while l <= r:
             m = (r+l)//2
             if check(m):
