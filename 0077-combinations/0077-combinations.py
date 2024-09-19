@@ -4,7 +4,6 @@ class Solution:
 
         def dfs(i, path):
             if len(path) == k:
-                print(path)
                 res.append(path[:])
                 return
             if i > n: return
