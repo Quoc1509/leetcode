@@ -8,8 +8,8 @@ class Solution:
                 res.append(path[:])
                 return
             if i > n: return
-            dfs(i+1, path)
-            dfs(i+1, path+[i])
+            for j in range(i, n+1):
+                dfs(j+1, path+[j])
 
         dfs(1, [])
         return res
