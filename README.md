@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/Quoc1509/leetcode/tree/master/0695-max-area-of-island) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Quoc1509/leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0733-flood-fill](https://github.com/Quoc1509/leetcode/tree/master/0733-flood-fill) |
+| [0735-asteroid-collision](https://github.com/Quoc1509/leetcode/tree/master/0735-asteroid-collision) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Quoc1509/leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0876-hand-of-straights](https://github.com/Quoc1509/leetcode/tree/master/0876-hand-of-straights) |
 | [0883-car-fleet](https://github.com/Quoc1509/leetcode/tree/master/0883-car-fleet) |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/Quoc1509/leetcode/tree/master/0735-asteroid-collision) |
 | [0906-walking-robot-simulation](https://github.com/Quoc1509/leetcode/tree/master/0906-walking-robot-simulation) |
 | [1642-water-bottles](https://github.com/Quoc1509/leetcode/tree/master/1642-water-bottles) |
 | [1803-average-waiting-time](https://github.com/Quoc1509/leetcode/tree/master/1803-average-waiting-time) |
@@ -457,6 +459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/Quoc1509/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0227-basic-calculator-ii](https://github.com/Quoc1509/leetcode/tree/master/0227-basic-calculator-ii) |
 | [0503-next-greater-element-ii](https://github.com/Quoc1509/leetcode/tree/master/0503-next-greater-element-ii) |
+| [0735-asteroid-collision](https://github.com/Quoc1509/leetcode/tree/master/0735-asteroid-collision) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Quoc1509/leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0883-car-fleet](https://github.com/Quoc1509/leetcode/tree/master/0883-car-fleet) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Quoc1509/leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
