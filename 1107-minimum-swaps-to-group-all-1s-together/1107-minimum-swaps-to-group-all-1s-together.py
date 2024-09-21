@@ -1,11 +1,8 @@
 class Solution:
     def minSwaps(self, data: List[int]) -> int:
-        one = 0
-        for i in data:
-            if i == 1:
-                one += 1
+        one = data.count(1)
         if one < 2: return 0
-        print(one)
+        
         res = 0
         for i in range(one):
             if data[i] == 0:
