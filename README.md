@@ -319,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-possible-bipartition](https://github.com/Quoc1509/leetcode/tree/master/0922-possible-bipartition) |
 | [0971-shortest-bridge](https://github.com/Quoc1509/leetcode/tree/master/0971-shortest-bridge) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Quoc1509/leetcode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [1177-tree-diameter](https://github.com/Quoc1509/leetcode/tree/master/1177-tree-diameter) |
 | [1380-number-of-closed-islands](https://github.com/Quoc1509/leetcode/tree/master/1380-number-of-closed-islands) |
 | [1484-linked-list-in-binary-tree](https://github.com/Quoc1509/leetcode/tree/master/1484-linked-list-in-binary-tree) |
 | [1492-time-needed-to-inform-all-employees](https://github.com/Quoc1509/leetcode/tree/master/1492-time-needed-to-inform-all-employees) |
@@ -349,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1007-numbers-with-same-consecutive-differences](https://github.com/Quoc1509/leetcode/tree/master/1007-numbers-with-same-consecutive-differences) |
 | [1036-rotting-oranges](https://github.com/Quoc1509/leetcode/tree/master/1036-rotting-oranges) |
 | [1117-as-far-from-land-as-possible](https://github.com/Quoc1509/leetcode/tree/master/1117-as-far-from-land-as-possible) |
+| [1177-tree-diameter](https://github.com/Quoc1509/leetcode/tree/master/1177-tree-diameter) |
 | [1380-number-of-closed-islands](https://github.com/Quoc1509/leetcode/tree/master/1380-number-of-closed-islands) |
 | [1484-linked-list-in-binary-tree](https://github.com/Quoc1509/leetcode/tree/master/1484-linked-list-in-binary-tree) |
 | [1492-time-needed-to-inform-all-employees](https://github.com/Quoc1509/leetcode/tree/master/1492-time-needed-to-inform-all-employees) |
@@ -405,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0871-keys-and-rooms](https://github.com/Quoc1509/leetcode/tree/master/0871-keys-and-rooms) |
 | [0922-possible-bipartition](https://github.com/Quoc1509/leetcode/tree/master/0922-possible-bipartition) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Quoc1509/leetcode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [1177-tree-diameter](https://github.com/Quoc1509/leetcode/tree/master/1177-tree-diameter) |
 | [1325-path-with-maximum-probability](https://github.com/Quoc1509/leetcode/tree/master/1325-path-with-maximum-probability) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Quoc1509/leetcode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Quoc1509/leetcode/tree/master/2121-find-if-path-exists-in-graph) |
@@ -425,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0437-path-sum-iii](https://github.com/Quoc1509/leetcode/tree/master/0437-path-sum-iii) |
 | [0773-logical-or-of-two-binary-grids-represented-as-quad-trees](https://github.com/Quoc1509/leetcode/tree/master/0773-logical-or-of-two-binary-grids-represented-as-quad-trees) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Quoc1509/leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [1177-tree-diameter](https://github.com/Quoc1509/leetcode/tree/master/1177-tree-diameter) |
 | [1484-linked-list-in-binary-tree](https://github.com/Quoc1509/leetcode/tree/master/1484-linked-list-in-binary-tree) |
 | [1492-time-needed-to-inform-all-employees](https://github.com/Quoc1509/leetcode/tree/master/1492-time-needed-to-inform-all-employees) |
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/Quoc1509/leetcode/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
@@ -582,6 +586,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/Quoc1509/leetcode/tree/master/0207-course-schedule) |
 | [0310-minimum-height-trees](https://github.com/Quoc1509/leetcode/tree/master/0310-minimum-height-trees) |
+| [1177-tree-diameter](https://github.com/Quoc1509/leetcode/tree/master/1177-tree-diameter) |
 ## Combinatorics
 |  |
 | ------- |
