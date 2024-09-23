@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Quoc1509/leetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1014-k-closest-points-to-origin](https://github.com/Quoc1509/leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1036-rotting-oranges](https://github.com/Quoc1509/leetcode/tree/master/1036-rotting-oranges) |
+| [1056-capacity-to-ship-packages-within-d-days](https://github.com/Quoc1509/leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1107-minimum-swaps-to-group-all-1s-together](https://github.com/Quoc1509/leetcode/tree/master/1107-minimum-swaps-to-group-all-1s-together) |
 | [1117-as-far-from-land-as-possible](https://github.com/Quoc1509/leetcode/tree/master/1117-as-far-from-land-as-possible) |
 | [1325-path-with-maximum-probability](https://github.com/Quoc1509/leetcode/tree/master/1325-path-with-maximum-probability) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/Quoc1509/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Quoc1509/leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Quoc1509/leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
+| [1056-capacity-to-ship-packages-within-d-days](https://github.com/Quoc1509/leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1307-ugly-number-iii](https://github.com/Quoc1509/leetcode/tree/master/1307-ugly-number-iii) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Quoc1509/leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Quoc1509/leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
