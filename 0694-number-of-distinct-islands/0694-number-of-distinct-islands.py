@@ -32,26 +32,11 @@ class Solution:
             count = 0
             item = [sorted(i) for i in item]
             A = []
-            for i in range(len(item)):
-                land1 = item[i]
+            for land1 in item:
                 ok = 1
-                for j in range(len(A)):
-                    land2 = A[j]
-                    d1, d2 = -inf, -inf
-                    k = 0
-                    while k < len(land1):
-                        a, b = land1[k]
-                        c, d = land2[k]
-                        if d1 == -inf:
-                            d1 = a-c
-                        elif a-c != d1:
-                            break
-                        if d2 == -inf:
-                            d2 = b-d
-                        elif b-d != d2:
-                            break
-                        k += 1
-                    if k == len(land1):
+                for land2 in A:
+                    B = set([(a-c,b-d) for (a,b),(c,d) in zip(land1, land2)])
+                    if len(B) == 1:
                         ok = 0
                         break
                 if ok:
