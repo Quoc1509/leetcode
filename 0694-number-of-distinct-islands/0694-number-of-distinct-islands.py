@@ -30,7 +30,9 @@ class Solution:
 
         for key, item in counter.items():
             count = 0
-            item = [sorted(i) for i in item]
+            # item = [sorted(i) for i in item]
+            # item.sort()
+            print(item)
             A = []
             for land1 in item:
                 ok = 1
