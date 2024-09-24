@@ -8,8 +8,7 @@ class Trie:
         self.root = TrieNode()
 
     def insert(self, val):
-        cur = self.root
-        
+        cur = self.root        
         for c in val:
             if c not in cur.children:
                 cur.children[c] = TrieNode()
@@ -25,8 +24,6 @@ class Trie:
             count += 1
             cur = cur.children[c]
         return count
-
-
 
 class Solution:
     def longestCommonPrefix(self, arr1: List[int], arr2: List[int]) -> int:
