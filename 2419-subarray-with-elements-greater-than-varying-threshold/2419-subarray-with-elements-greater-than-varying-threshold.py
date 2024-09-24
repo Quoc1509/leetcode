@@ -7,8 +7,8 @@ class Solution:
             while stack and nums[stack[-1]] >= nums[i]:
                 ind = stack.pop()
                 if  nums[ind] > threshold/(i-(stack[-1]+1 if stack else 0)):
-                    # return i-(stack[-1]+1 if stack else 0)
-                    res = max(res, i-(stack[-1]+1 if stack else 0))
+                    return i-(stack[-1]+1 if stack else 0)
+                    # res = max(res, i-(stack[-1]+1 if stack else 0))
             stack.append(i)
         
         return res if res != -inf else -1
