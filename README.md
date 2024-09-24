@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2206-detonate-the-maximum-bombs](https://github.com/Quoc1509/leetcode/tree/master/2206-detonate-the-maximum-bombs) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Quoc1509/leetcode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2411-spiral-matrix-iv](https://github.com/Quoc1509/leetcode/tree/master/2411-spiral-matrix-iv) |
+| [2419-subarray-with-elements-greater-than-varying-threshold](https://github.com/Quoc1509/leetcode/tree/master/2419-subarray-with-elements-greater-than-varying-threshold) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/Quoc1509/leetcode/tree/master/2445-reachable-nodes-with-restrictions) |
 | [2478-longest-nice-subarray](https://github.com/Quoc1509/leetcode/tree/master/2478-longest-nice-subarray) |
 | [2483-task-scheduler-ii](https://github.com/Quoc1509/leetcode/tree/master/2483-task-scheduler-ii) |
@@ -414,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2035-count-sub-islands](https://github.com/Quoc1509/leetcode/tree/master/2035-count-sub-islands) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Quoc1509/leetcode/tree/master/2121-find-if-path-exists-in-graph) |
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/Quoc1509/leetcode/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
+| [2419-subarray-with-elements-greater-than-varying-threshold](https://github.com/Quoc1509/leetcode/tree/master/2419-subarray-with-elements-greater-than-varying-threshold) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/Quoc1509/leetcode/tree/master/2445-reachable-nodes-with-restrictions) |
 ## Graph
 |  |
@@ -501,6 +503,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1720-crawler-log-folder](https://github.com/Quoc1509/leetcode/tree/master/1720-crawler-log-folder) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Quoc1509/leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1985-maximum-subarray-min-product](https://github.com/Quoc1509/leetcode/tree/master/1985-maximum-subarray-min-product) |
+| [2419-subarray-with-elements-greater-than-varying-threshold](https://github.com/Quoc1509/leetcode/tree/master/2419-subarray-with-elements-greater-than-varying-threshold) |
 ## Sliding Window
 |  |
 | ------- |
@@ -583,6 +586,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/Quoc1509/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0883-car-fleet](https://github.com/Quoc1509/leetcode/tree/master/0883-car-fleet) |
 | [1985-maximum-subarray-min-product](https://github.com/Quoc1509/leetcode/tree/master/1985-maximum-subarray-min-product) |
+| [2419-subarray-with-elements-greater-than-varying-threshold](https://github.com/Quoc1509/leetcode/tree/master/2419-subarray-with-elements-greater-than-varying-threshold) |
 ## Number Theory
 |  |
 | ------- |
