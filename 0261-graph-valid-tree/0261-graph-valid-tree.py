@@ -7,12 +7,12 @@ class Solution:
             graph[b].append(a)
         visited = set()
         def dfs(prev, node):
-            
+            if node in visited: return False
             visited.add(node)
             
             for n in graph[node]:
                 if n != prev:
-                    if n in visited: return False
+                    
                     if not dfs(node, n):
                         return False
             # visited.remove(node)
