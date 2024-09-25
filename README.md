@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Quoc1509/leetcode/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/Quoc1509/leetcode/tree/master/0735-asteroid-collision) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Quoc1509/leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
+| [0817-design-hashmap](https://github.com/Quoc1509/leetcode/tree/master/0817-design-hashmap) |
 | [0876-hand-of-straights](https://github.com/Quoc1509/leetcode/tree/master/0876-hand-of-straights) |
 | [0883-car-fleet](https://github.com/Quoc1509/leetcode/tree/master/0883-car-fleet) |
 | [0890-lemonade-change](https://github.com/Quoc1509/leetcode/tree/master/0890-lemonade-change) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/Quoc1509/leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0694-number-of-distinct-islands](https://github.com/Quoc1509/leetcode/tree/master/0694-number-of-distinct-islands) |
 | [0778-reorganize-string](https://github.com/Quoc1509/leetcode/tree/master/0778-reorganize-string) |
+| [0817-design-hashmap](https://github.com/Quoc1509/leetcode/tree/master/0817-design-hashmap) |
 | [0876-hand-of-straights](https://github.com/Quoc1509/leetcode/tree/master/0876-hand-of-straights) |
 | [0906-walking-robot-simulation](https://github.com/Quoc1509/leetcode/tree/master/0906-walking-robot-simulation) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Quoc1509/leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -276,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/Quoc1509/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/Quoc1509/leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0725-split-linked-list-in-parts](https://github.com/Quoc1509/leetcode/tree/master/0725-split-linked-list-in-parts) |
+| [0817-design-hashmap](https://github.com/Quoc1509/leetcode/tree/master/0817-design-hashmap) |
 | [1484-linked-list-in-binary-tree](https://github.com/Quoc1509/leetcode/tree/master/1484-linked-list-in-binary-tree) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Quoc1509/leetcode/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/Quoc1509/leetcode/tree/master/2299-merge-nodes-in-between-zeros) |
@@ -692,6 +695,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0348-design-tic-tac-toe](https://github.com/Quoc1509/leetcode/tree/master/0348-design-tic-tac-toe) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Quoc1509/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
+| [0817-design-hashmap](https://github.com/Quoc1509/leetcode/tree/master/0817-design-hashmap) |
 ## Randomized
 |  |
 | ------- |
@@ -700,6 +704,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0694-number-of-distinct-islands](https://github.com/Quoc1509/leetcode/tree/master/0694-number-of-distinct-islands) |
+| [0817-design-hashmap](https://github.com/Quoc1509/leetcode/tree/master/0817-design-hashmap) |
 ## Bitmask
 |  |
 | ------- |
