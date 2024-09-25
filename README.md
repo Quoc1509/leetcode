@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Quoc1509/leetcode/tree/master/0012-integer-to-roman) |
 | [0139-word-break](https://github.com/Quoc1509/leetcode/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Quoc1509/leetcode/tree/master/0140-word-break-ii) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Quoc1509/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0347-top-k-frequent-elements](https://github.com/Quoc1509/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0348-design-tic-tac-toe](https://github.com/Quoc1509/leetcode/tree/master/0348-design-tic-tac-toe) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Quoc1509/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Quoc1509/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/Quoc1509/leetcode/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/Quoc1509/leetcode/tree/master/0042-trapping-rain-water) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Quoc1509/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0253-meeting-rooms-ii](https://github.com/Quoc1509/leetcode/tree/master/0253-meeting-rooms-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Quoc1509/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Quoc1509/leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
@@ -264,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/Quoc1509/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/Quoc1509/leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0725-split-linked-list-in-parts](https://github.com/Quoc1509/leetcode/tree/master/0725-split-linked-list-in-parts) |
 | [1484-linked-list-in-binary-tree](https://github.com/Quoc1509/leetcode/tree/master/1484-linked-list-in-binary-tree) |
