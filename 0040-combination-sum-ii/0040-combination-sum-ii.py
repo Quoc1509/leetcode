@@ -8,12 +8,11 @@ class Solution:
             if total == target: 
                 res.append(path[:])
                 return
-            if total > target or i == N: return
-            t = i+1
-            while t < N and candidates[t] == candidates[i]:
-                t += 1
+            if total > target: return
                 
-            backTracking(path, t, total)
-            backTracking(path + [candidates[i]], i+1, total + candidates[i])
+            for j in range(i,N):
+                if j > i and candidates[j] == candidates[j-1]:
+                    continue
+                backTracking(path+[candidates[j]], j+1, total + candidates[j])
         backTracking([], 0, 0)
         return res 
