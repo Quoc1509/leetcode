@@ -6,7 +6,7 @@ class Solution:
             if total == n and len(path) == k:
                 res.append(path[:])
                 return
-            if total > n : return
+            if total > n or len(path) > k: return
             for i in range(index, 10):
                 backTracking(total + i, i +1, path+[i])
 
