@@ -5,7 +5,7 @@ class Solution:
 
         def backTracking(index, path, total):
             if total == target: 
-                res.append(path[:])
+                res.append(path)
                 return
             if total > target: return
 
