@@ -17,11 +17,11 @@ class Solution:
 
                     row[c] = 'Q'
                     temp = ''.join(row)                   
-                    rows.append(temp)
+                    # rows.append(temp)
 
-                    backTracking(rows, r+1)
+                    backTracking(rows+[temp], r+1)
 
-                    rows.pop()
+                    # rows.pop()
                     row[c] = "."
 
                     col[c] = True
