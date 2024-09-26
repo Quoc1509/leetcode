@@ -1,7 +1,7 @@
 class Solution:
     def minWindow(self, s: str, t: str) -> str:
         if s == t: return s
-        res = ''
+        start, end = -1, len(s)
         temp = inf
         count = Counter(t)
         l = 0
@@ -17,12 +17,11 @@ class Solution:
             
             mp[s[r]] += 1
             while compare(mp):
-                if temp > (r-l+1):
-                    res = s[l:r+1]
-                    temp = len(res)
+                if end-start > (r-l):
+                    start, end = l, r
 
                 mp[s[l]] -= 1
                 l += 1
                 
-        return res
+        return s[start: end+1] if start > -1 else ''
 
