@@ -7,8 +7,8 @@ class Solution:
         if endWord not in wordList: return 0
         q = deque([beginWord])
         count = 1
-        visited = set()
-        visited.add(beginWord)
+        # visited = set()
+        # visited.add(beginWord)
         while q:
             for _ in range(len(q)):
                 word = q.popleft()  
@@ -17,9 +17,10 @@ class Solution:
                 for i in range(len(word)):
                     for w in alpha:
                         temp = word[:i] + w + word[i+1:]
-                        if temp in wordList and temp not in visited:
+                        if temp in wordList:
                             q.append(temp)
-                            visited.add(temp)
+                            wordList.remove(temp)
+                            # visited.add(temp)
 
             count += 1
         return 0
