@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Quoc1509/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0348-design-tic-tac-toe](https://github.com/Quoc1509/leetcode/tree/master/0348-design-tic-tac-toe) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Quoc1509/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0358-rearrange-string-k-distance-apart](https://github.com/Quoc1509/leetcode/tree/master/0358-rearrange-string-k-distance-apart) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Quoc1509/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Quoc1509/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0523-continuous-subarray-sum](https://github.com/Quoc1509/leetcode/tree/master/0523-continuous-subarray-sum) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0253-meeting-rooms-ii](https://github.com/Quoc1509/leetcode/tree/master/0253-meeting-rooms-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Quoc1509/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Quoc1509/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0358-rearrange-string-k-distance-apart](https://github.com/Quoc1509/leetcode/tree/master/0358-rearrange-string-k-distance-apart) |
 | [0539-minimum-time-difference](https://github.com/Quoc1509/leetcode/tree/master/0539-minimum-time-difference) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Quoc1509/leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0778-reorganize-string](https://github.com/Quoc1509/leetcode/tree/master/0778-reorganize-string) |
@@ -220,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Quoc1509/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/Quoc1509/leetcode/tree/master/0134-gas-station) |
 | [0253-meeting-rooms-ii](https://github.com/Quoc1509/leetcode/tree/master/0253-meeting-rooms-ii) |
+| [0358-rearrange-string-k-distance-apart](https://github.com/Quoc1509/leetcode/tree/master/0358-rearrange-string-k-distance-apart) |
 | [0397-integer-replacement](https://github.com/Quoc1509/leetcode/tree/master/0397-integer-replacement) |
 | [0624-maximum-distance-in-arrays](https://github.com/Quoc1509/leetcode/tree/master/0624-maximum-distance-in-arrays) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Quoc1509/leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -244,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/Quoc1509/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0253-meeting-rooms-ii](https://github.com/Quoc1509/leetcode/tree/master/0253-meeting-rooms-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Quoc1509/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0358-rearrange-string-k-distance-apart](https://github.com/Quoc1509/leetcode/tree/master/0358-rearrange-string-k-distance-apart) |
 | [0744-network-delay-time](https://github.com/Quoc1509/leetcode/tree/master/0744-network-delay-time) |
 | [0778-reorganize-string](https://github.com/Quoc1509/leetcode/tree/master/0778-reorganize-string) |
 | [1014-k-closest-points-to-origin](https://github.com/Quoc1509/leetcode/tree/master/1014-k-closest-points-to-origin) |
@@ -269,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0140-word-break-ii](https://github.com/Quoc1509/leetcode/tree/master/0140-word-break-ii) |
 | [0227-basic-calculator-ii](https://github.com/Quoc1509/leetcode/tree/master/0227-basic-calculator-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Quoc1509/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
+| [0358-rearrange-string-k-distance-apart](https://github.com/Quoc1509/leetcode/tree/master/0358-rearrange-string-k-distance-apart) |
 | [0539-minimum-time-difference](https://github.com/Quoc1509/leetcode/tree/master/0539-minimum-time-difference) |
 | [0778-reorganize-string](https://github.com/Quoc1509/leetcode/tree/master/0778-reorganize-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Quoc1509/leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -648,6 +653,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Quoc1509/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0358-rearrange-string-k-distance-apart](https://github.com/Quoc1509/leetcode/tree/master/0358-rearrange-string-k-distance-apart) |
 | [0778-reorganize-string](https://github.com/Quoc1509/leetcode/tree/master/0778-reorganize-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Quoc1509/leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Quoc1509/leetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
