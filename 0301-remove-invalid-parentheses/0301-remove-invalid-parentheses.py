@@ -11,11 +11,11 @@ class Solution:
                 extra += abs(o)
                 o = 0
         extra += o
-        res = set()
+        res = []
         def dfs(path, index, pair, k):
             if index == len(s): 
                 if pair == 0 and k == 0 and len(path) == len(s)-extra:
-                    res.add(path[:])
+                    res.append(path[:])
                 return
             if k < 0 or pair < 0:
                 return
@@ -33,5 +33,5 @@ class Solution:
                 dfs(path + s[index:index+a], j, npair, k-h)
 
         dfs('', 0, 0, extra)
-        res = list(res)
+        
         return res if res else [""]
