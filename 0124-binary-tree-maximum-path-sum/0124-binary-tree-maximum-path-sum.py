@@ -14,19 +14,17 @@ class Solution:
             right = dfs(node.right)
             total = left + right
             
-            if total < 0:
-
+            if left < 0 and right < 0:
                 res[0] = max(res[0], max(left, right, 0) + node.val)
                 return max(left, right, 0) + node.val
             elif left < 0:
-                # print(node.val, left, right)
                 res[0] = max(res[0], right+node.val)
                 return right+node.val
             elif right < 0:
                 
                 res[0] = max(res[0], left+node.val)
                 return left+node.val
-            res[0] = max(res[0], total+node.val)
+            res[0] = max(res[0], left+right+node.val)
             return max(left, right) + node.val
 
         dfs(root)
