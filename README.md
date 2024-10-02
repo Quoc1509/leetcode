@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0396-rotate-function](https://github.com/Quoc1509/leetcode/tree/master/0396-rotate-function) |
 | [0419-battleships-in-a-board](https://github.com/Quoc1509/leetcode/tree/master/0419-battleships-in-a-board) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Quoc1509/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0456-132-pattern](https://github.com/Quoc1509/leetcode/tree/master/0456-132-pattern) |
 | [0473-matchsticks-to-square](https://github.com/Quoc1509/leetcode/tree/master/0473-matchsticks-to-square) |
 | [0503-next-greater-element-ii](https://github.com/Quoc1509/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0523-continuous-subarray-sum](https://github.com/Quoc1509/leetcode/tree/master/0523-continuous-subarray-sum) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/Quoc1509/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Quoc1509/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0374-guess-number-higher-or-lower](https://github.com/Quoc1509/leetcode/tree/master/0374-guess-number-higher-or-lower) |
+| [0456-132-pattern](https://github.com/Quoc1509/leetcode/tree/master/0456-132-pattern) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Quoc1509/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Quoc1509/leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Quoc1509/leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
@@ -580,6 +582,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Quoc1509/leetcode/tree/master/0042-trapping-rain-water) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Quoc1509/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0227-basic-calculator-ii](https://github.com/Quoc1509/leetcode/tree/master/0227-basic-calculator-ii) |
+| [0456-132-pattern](https://github.com/Quoc1509/leetcode/tree/master/0456-132-pattern) |
 | [0503-next-greater-element-ii](https://github.com/Quoc1509/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/Quoc1509/leetcode/tree/master/0735-asteroid-collision) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Quoc1509/leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
@@ -677,6 +680,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Quoc1509/leetcode/tree/master/0042-trapping-rain-water) |
+| [0456-132-pattern](https://github.com/Quoc1509/leetcode/tree/master/0456-132-pattern) |
 | [0503-next-greater-element-ii](https://github.com/Quoc1509/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0883-car-fleet](https://github.com/Quoc1509/leetcode/tree/master/0883-car-fleet) |
 | [1305-number-of-visible-people-in-a-queue](https://github.com/Quoc1509/leetcode/tree/master/1305-number-of-visible-people-in-a-queue) |
@@ -700,6 +704,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Ordered Set
 |  |
 | ------- |
+| [0456-132-pattern](https://github.com/Quoc1509/leetcode/tree/master/0456-132-pattern) |
 | [3363-most-frequent-ids](https://github.com/Quoc1509/leetcode/tree/master/3363-most-frequent-ids) |
 ## Recursion
 |  |
