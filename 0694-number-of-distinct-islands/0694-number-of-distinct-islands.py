@@ -13,13 +13,14 @@ class Solution:
             while q:
                 for _ in range(len(q)):
                     x, y = q.popleft()
+                    island.append((x, y))  
                     for a, b in surround:
                         ro, co = x+a, y+b
                         
                         if 0 <= ro < M and 0 <= co < N and grid[ro][co] == 1:
                             q.append((ro, co))
                             grid[ro][co] = 0
-                            island.append((ro, co))  
+                            
         for i in range(M):
             for j in range(N):
                 if grid[i][j] == 1:
@@ -30,9 +31,6 @@ class Solution:
 
         for key, item in counter.items():
             count = 0
-            # item = [sorted(i) for i in item]
-            # item.sort()
-            print(item)
             A = []
             for land1 in item:
                 ok = 1
