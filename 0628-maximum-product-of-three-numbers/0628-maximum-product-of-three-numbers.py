@@ -1,7 +1,7 @@
 class Solution:
     def maximumProduct(self, nums: List[int]) -> int:
         maxF = maxS = maxT = -inf
-        minF = minS = minT = inf
+        minF = minS = inf
         for i in nums:
             if i > maxF:
                 maxT = maxS
@@ -19,8 +19,5 @@ class Solution:
             elif i < minS:
                 minT = minS
                 minS = i
-            elif i < minT:
-                minT = i
-        print(maxF, maxS, maxT)
-        print(minF, minS, minT)
+ 
         return max(maxF*maxS*maxT, minF*minS*maxF)
