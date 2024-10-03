@@ -274,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Quoc1509/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0012-integer-to-roman](https://github.com/Quoc1509/leetcode/tree/master/0012-integer-to-roman) |
 | [0022-generate-parentheses](https://github.com/Quoc1509/leetcode/tree/master/0022-generate-parentheses) |
+| [0072-edit-distance](https://github.com/Quoc1509/leetcode/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/Quoc1509/leetcode/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/Quoc1509/leetcode/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/Quoc1509/leetcode/tree/master/0091-decode-ways) |
@@ -556,6 +557,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Quoc1509/leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Quoc1509/leetcode/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/Quoc1509/leetcode/tree/master/0062-unique-paths) |
+| [0072-edit-distance](https://github.com/Quoc1509/leetcode/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/Quoc1509/leetcode/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/Quoc1509/leetcode/tree/master/0097-interleaving-string) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Quoc1509/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
