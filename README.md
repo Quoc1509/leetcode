@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0253-meeting-rooms-ii](https://github.com/Quoc1509/leetcode/tree/master/0253-meeting-rooms-ii) |
 | [0286-walls-and-gates](https://github.com/Quoc1509/leetcode/tree/master/0286-walls-and-gates) |
 | [0300-longest-increasing-subsequence](https://github.com/Quoc1509/leetcode/tree/master/0300-longest-increasing-subsequence) |
+| [0305-number-of-islands-ii](https://github.com/Quoc1509/leetcode/tree/master/0305-number-of-islands-ii) |
 | [0322-coin-change](https://github.com/Quoc1509/leetcode/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Quoc1509/leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0347-top-k-frequent-elements](https://github.com/Quoc1509/leetcode/tree/master/0347-top-k-frequent-elements) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/Quoc1509/leetcode/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Quoc1509/leetcode/tree/master/0140-word-break-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Quoc1509/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0305-number-of-islands-ii](https://github.com/Quoc1509/leetcode/tree/master/0305-number-of-islands-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Quoc1509/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0348-design-tic-tac-toe](https://github.com/Quoc1509/leetcode/tree/master/0348-design-tic-tac-toe) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Quoc1509/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -488,6 +490,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/Quoc1509/leetcode/tree/master/0200-number-of-islands) |
 | [0261-graph-valid-tree](https://github.com/Quoc1509/leetcode/tree/master/0261-graph-valid-tree) |
+| [0305-number-of-islands-ii](https://github.com/Quoc1509/leetcode/tree/master/0305-number-of-islands-ii) |
 | [0547-number-of-provinces](https://github.com/Quoc1509/leetcode/tree/master/0547-number-of-provinces) |
 | [0694-number-of-distinct-islands](https://github.com/Quoc1509/leetcode/tree/master/0694-number-of-distinct-islands) |
 | [0695-max-area-of-island](https://github.com/Quoc1509/leetcode/tree/master/0695-max-area-of-island) |
