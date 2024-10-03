@@ -1,26 +1,22 @@
 class Solution:
     def wordBreak(self, s: str, wordDict: List[str]) -> List[str]:
-        
-        def backTracking(st):
-            if st == '':
+        word = set(wordDict)
+        memo = {}
+        def backTracking(i):
+            if i == len(s):
                 return ['']
+            if i in memo: return memo[i]
             res = []
-            for i in wordDict:
-                l = len(i)
-                temp = st[:l]
-                if i == temp:
-                    ans = backTracking(st[l:])
-                    if ans is not None:
-                        for j in range(len(ans)):
-                            if len(ans[j]) == 0:
-                                ans[j] = i
-                            else:
-                                ans[j] = i + " " + ans[j]
-                        res.extend(ans)
-                               
-            if res:
-                return res
-            return None
-        return backTracking(s)
+            cur = ''
+            for j in range(i, len(s)):
+                cur += s[j]
+                if cur in word:
+                    temp = backTracking(j+1)
+                    for t in temp:
+                        a = cur + (' ' + t if t else '')
+                        res.append(a)
+            memo[i] = res
+            return memo[i]
+        return backTracking(0)
 
                 
