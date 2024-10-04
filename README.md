@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2665-minimum-time-to-repair-cars](https://github.com/Quoc1509/leetcode/tree/master/2665-minimum-time-to-repair-cars) |
 | [2686-minimum-cost-of-a-path-with-special-roads](https://github.com/Quoc1509/leetcode/tree/master/2686-minimum-cost-of-a-path-with-special-roads) |
 | [2690-house-robber-iv](https://github.com/Quoc1509/leetcode/tree/master/2690-house-robber-iv) |
+| [2718-minimum-operations-to-make-all-array-elements-equal](https://github.com/Quoc1509/leetcode/tree/master/2718-minimum-operations-to-make-all-array-elements-equal) |
 | [2721-sum-of-distances](https://github.com/Quoc1509/leetcode/tree/master/2721-sum-of-distances) |
 | [2727-number-of-senior-citizens](https://github.com/Quoc1509/leetcode/tree/master/2727-number-of-senior-citizens) |
 | [2730-maximum-or](https://github.com/Quoc1509/leetcode/tree/master/2730-maximum-or) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Quoc1509/leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2665-minimum-time-to-repair-cars](https://github.com/Quoc1509/leetcode/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/Quoc1509/leetcode/tree/master/2690-house-robber-iv) |
+| [2718-minimum-operations-to-make-all-array-elements-equal](https://github.com/Quoc1509/leetcode/tree/master/2718-minimum-operations-to-make-all-array-elements-equal) |
 ## Sorting
 |  |
 | ------- |
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1741-sort-array-by-increasing-frequency](https://github.com/Quoc1509/leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2479-meeting-rooms-iii](https://github.com/Quoc1509/leetcode/tree/master/2479-meeting-rooms-iii) |
 | [2502-sort-the-people](https://github.com/Quoc1509/leetcode/tree/master/2502-sort-the-people) |
+| [2718-minimum-operations-to-make-all-array-elements-equal](https://github.com/Quoc1509/leetcode/tree/master/2718-minimum-operations-to-make-all-array-elements-equal) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Quoc1509/leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Greedy
 |  |
@@ -365,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1435-xor-queries-of-a-subarray](https://github.com/Quoc1509/leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1985-maximum-subarray-min-product](https://github.com/Quoc1509/leetcode/tree/master/1985-maximum-subarray-min-product) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Quoc1509/leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2718-minimum-operations-to-make-all-array-elements-equal](https://github.com/Quoc1509/leetcode/tree/master/2718-minimum-operations-to-make-all-array-elements-equal) |
 | [2721-sum-of-distances](https://github.com/Quoc1509/leetcode/tree/master/2721-sum-of-distances) |
 | [2730-maximum-or](https://github.com/Quoc1509/leetcode/tree/master/2730-maximum-or) |
 | [2915-count-of-interesting-subarrays](https://github.com/Quoc1509/leetcode/tree/master/2915-count-of-interesting-subarrays) |
