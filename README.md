@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1016-subarray-sums-divisible-by-k](https://github.com/Quoc1509/leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1036-rotting-oranges](https://github.com/Quoc1509/leetcode/tree/master/1036-rotting-oranges) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Quoc1509/leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1085-the-earliest-moment-when-everyone-become-friends](https://github.com/Quoc1509/leetcode/tree/master/1085-the-earliest-moment-when-everyone-become-friends) |
 | [1107-minimum-swaps-to-group-all-1s-together](https://github.com/Quoc1509/leetcode/tree/master/1107-minimum-swaps-to-group-all-1s-together) |
 | [1117-as-far-from-land-as-possible](https://github.com/Quoc1509/leetcode/tree/master/1117-as-far-from-land-as-possible) |
 | [1305-number-of-visible-people-in-a-queue](https://github.com/Quoc1509/leetcode/tree/master/1305-number-of-visible-people-in-a-queue) |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0883-car-fleet](https://github.com/Quoc1509/leetcode/tree/master/0883-car-fleet) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Quoc1509/leetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1014-k-closest-points-to-origin](https://github.com/Quoc1509/leetcode/tree/master/1014-k-closest-points-to-origin) |
+| [1085-the-earliest-moment-when-everyone-become-friends](https://github.com/Quoc1509/leetcode/tree/master/1085-the-earliest-moment-when-everyone-become-friends) |
 | [1333-sort-the-jumbled-numbers](https://github.com/Quoc1509/leetcode/tree/master/1333-sort-the-jumbled-numbers) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Quoc1509/leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Quoc1509/leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
@@ -526,6 +528,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/Quoc1509/leetcode/tree/master/0695-max-area-of-island) |
 | [0922-possible-bipartition](https://github.com/Quoc1509/leetcode/tree/master/0922-possible-bipartition) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Quoc1509/leetcode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [1085-the-earliest-moment-when-everyone-become-friends](https://github.com/Quoc1509/leetcode/tree/master/1085-the-earliest-moment-when-everyone-become-friends) |
 | [1380-number-of-closed-islands](https://github.com/Quoc1509/leetcode/tree/master/1380-number-of-closed-islands) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/Quoc1509/leetcode/tree/master/1663-detect-cycles-in-2d-grid) |
 | [2035-count-sub-islands](https://github.com/Quoc1509/leetcode/tree/master/2035-count-sub-islands) |
