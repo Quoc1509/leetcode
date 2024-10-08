@@ -7,13 +7,10 @@ class Solution:
         return self.arr
 
     def shuffle(self) -> List[int]:
-        temp = set()
-        res = []
-        while len(temp) != len(self.arr):
-            ind = random.randint(0, len(self.arr)-1)
-            if ind not in temp:
-                temp.add(ind)
-                res.append(self.arr[ind])
+        res = self.arr.copy()
+        for i in range(len(self.arr)):
+            ind = random.randint(i, len(self.arr)-1)
+            res[i], res[ind] = res[ind], res[i]
         return res
 
 
