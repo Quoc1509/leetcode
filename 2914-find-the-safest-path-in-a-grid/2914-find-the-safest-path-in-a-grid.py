@@ -2,7 +2,6 @@ class Solution:
     def maximumSafenessFactor(self, grid: List[List[int]]) -> int:
         q = deque()
         M, N = len(grid), len(grid[0])
-        thierf = set()
         if grid[0][0] == 1 or grid[-1][-1] == 1: return 0
         surround = [(1,0), (0,1), (-1,0), (0,-1)]
         for i in range(M):
@@ -32,6 +31,8 @@ class Solution:
                 r, c = i+a, j+b
                 if 0 <= r < M and 0 <= c < N:
                     newDist = min(d, grid[r][c])
+                    if dist[r][c] > newDist:
+                        continue
                     if dist[r][c] < newDist:
                         heappush(heap, (-newDist, r, c))
                         dist[r][c] = newDist
