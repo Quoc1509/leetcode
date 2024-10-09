@@ -9,7 +9,7 @@ class Solution:
             for j in range(N):
                 if grid[i][j] == 1:
                     q.append((i, j))
-                    thierf.add((i, j))
+                    grid[i][j] = -1
         count = 1
         while q:
             for _ in range(len(q)):
@@ -30,11 +30,10 @@ class Solution:
             d = -d
             for a, b in surround:
                 r, c = i+a, j+b
-                if 0 <= r < M and 0 <= c < N and (r, c) not in thierf:
+                if 0 <= r < M and 0 <= c < N:
                     newDist = min(d, grid[r][c])
                     if dist[r][c] < newDist:
                         heappush(heap, (-newDist, r, c))
                         dist[r][c] = newDist
-
         return dist[-1][-1]
         
