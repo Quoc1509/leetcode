@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/Quoc1509/leetcode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Quoc1509/leetcode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Quoc1509/leetcode/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/Quoc1509/leetcode/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/Quoc1509/leetcode/tree/master/0056-merge-intervals) |
 | [0078-subsets](https://github.com/Quoc1509/leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Quoc1509/leetcode/tree/master/0079-word-search) |
@@ -359,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Quoc1509/leetcode/tree/master/0054-spiral-matrix) |
 | [0348-design-tic-tac-toe](https://github.com/Quoc1509/leetcode/tree/master/0348-design-tic-tac-toe) |
 | [0735-asteroid-collision](https://github.com/Quoc1509/leetcode/tree/master/0735-asteroid-collision) |
 | [0906-walking-robot-simulation](https://github.com/Quoc1509/leetcode/tree/master/0906-walking-robot-simulation) |
@@ -512,6 +514,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Quoc1509/leetcode/tree/master/0054-spiral-matrix) |
 | [0079-word-search](https://github.com/Quoc1509/leetcode/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/Quoc1509/leetcode/tree/master/0200-number-of-islands) |
 | [0221-maximal-square](https://github.com/Quoc1509/leetcode/tree/master/0221-maximal-square) |
