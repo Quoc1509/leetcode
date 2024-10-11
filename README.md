@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Quoc1509/leetcode/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/Quoc1509/leetcode/tree/master/0015-3sum) |
 | [0039-combination-sum](https://github.com/Quoc1509/leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Quoc1509/leetcode/tree/master/0040-combination-sum-ii) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Quoc1509/leetcode/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/Quoc1509/leetcode/tree/master/0012-integer-to-roman) |
 | [0076-minimum-window-substring](https://github.com/Quoc1509/leetcode/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/Quoc1509/leetcode/tree/master/0127-word-ladder) |
