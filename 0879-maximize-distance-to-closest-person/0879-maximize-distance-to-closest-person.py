@@ -20,10 +20,5 @@ class Solution:
         for i in range(len(stack)-1):
             if stack[i+1] - stack[i] > r-l:
                 l, r = stack[i], stack[i+1]
-        if maxLeft > maxRight and maxLeft > (r-l)//2:
-            return maxLeft
-        elif maxRight > maxLeft and maxRight > (r-l)//2:
-            return maxRight
-        else:
-            return (r-l)// 2        
+        return max(maxLeft, maxRight, (r-l)//2)       
         
