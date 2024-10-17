@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Quoc1509/leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0817-design-hashmap](https://github.com/Quoc1509/leetcode/tree/master/0817-design-hashmap) |
 | [0876-hand-of-straights](https://github.com/Quoc1509/leetcode/tree/master/0876-hand-of-straights) |
+| [0879-maximize-distance-to-closest-person](https://github.com/Quoc1509/leetcode/tree/master/0879-maximize-distance-to-closest-person) |
 | [0883-car-fleet](https://github.com/Quoc1509/leetcode/tree/master/0883-car-fleet) |
 | [0890-lemonade-change](https://github.com/Quoc1509/leetcode/tree/master/0890-lemonade-change) |
 | [0906-walking-robot-simulation](https://github.com/Quoc1509/leetcode/tree/master/0906-walking-robot-simulation) |
