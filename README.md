@@ -361,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1304-longest-happy-string](https://github.com/Quoc1509/leetcode/tree/master/1304-longest-happy-string) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Quoc1509/leetcode/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [1543-simplified-fractions](https://github.com/Quoc1509/leetcode/tree/master/1543-simplified-fractions) |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/Quoc1509/leetcode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1720-crawler-log-folder](https://github.com/Quoc1509/leetcode/tree/master/1720-crawler-log-folder) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Quoc1509/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Quoc1509/leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -400,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/Quoc1509/leetcode/tree/master/0735-asteroid-collision) |
 | [0906-walking-robot-simulation](https://github.com/Quoc1509/leetcode/tree/master/0906-walking-robot-simulation) |
 | [1642-water-bottles](https://github.com/Quoc1509/leetcode/tree/master/1642-water-bottles) |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/Quoc1509/leetcode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1803-average-waiting-time](https://github.com/Quoc1509/leetcode/tree/master/1803-average-waiting-time) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Quoc1509/leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Quoc1509/leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
@@ -848,6 +850,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/Quoc1509/leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Quoc1509/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/Quoc1509/leetcode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 ## Topological Sort
 |  |
 | ------- |
