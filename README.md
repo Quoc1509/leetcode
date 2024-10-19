@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0348-design-tic-tac-toe](https://github.com/Quoc1509/leetcode/tree/master/0348-design-tic-tac-toe) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Quoc1509/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0377-combination-sum-iv](https://github.com/Quoc1509/leetcode/tree/master/0377-combination-sum-iv) |
+| [0379-design-phone-directory](https://github.com/Quoc1509/leetcode/tree/master/0379-design-phone-directory) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Quoc1509/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0384-shuffle-an-array](https://github.com/Quoc1509/leetcode/tree/master/0384-shuffle-an-array) |
 | [0396-rotate-function](https://github.com/Quoc1509/leetcode/tree/master/0396-rotate-function) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Quoc1509/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0358-rearrange-string-k-distance-apart](https://github.com/Quoc1509/leetcode/tree/master/0358-rearrange-string-k-distance-apart) |
 | [0359-logger-rate-limiter](https://github.com/Quoc1509/leetcode/tree/master/0359-logger-rate-limiter) |
+| [0379-design-phone-directory](https://github.com/Quoc1509/leetcode/tree/master/0379-design-phone-directory) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Quoc1509/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Quoc1509/leetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Quoc1509/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -388,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/Quoc1509/leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Quoc1509/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/Quoc1509/leetcode/tree/master/0203-remove-linked-list-elements) |
+| [0379-design-phone-directory](https://github.com/Quoc1509/leetcode/tree/master/0379-design-phone-directory) |
 | [0725-split-linked-list-in-parts](https://github.com/Quoc1509/leetcode/tree/master/0725-split-linked-list-in-parts) |
 | [0817-design-hashmap](https://github.com/Quoc1509/leetcode/tree/master/0817-design-hashmap) |
 | [1484-linked-list-in-binary-tree](https://github.com/Quoc1509/leetcode/tree/master/1484-linked-list-in-binary-tree) |
@@ -890,6 +893,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Quoc1509/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0348-design-tic-tac-toe](https://github.com/Quoc1509/leetcode/tree/master/0348-design-tic-tac-toe) |
 | [0359-logger-rate-limiter](https://github.com/Quoc1509/leetcode/tree/master/0359-logger-rate-limiter) |
+| [0379-design-phone-directory](https://github.com/Quoc1509/leetcode/tree/master/0379-design-phone-directory) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Quoc1509/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0588-design-in-memory-file-system](https://github.com/Quoc1509/leetcode/tree/master/0588-design-in-memory-file-system) |
 | [0817-design-hashmap](https://github.com/Quoc1509/leetcode/tree/master/0817-design-hashmap) |
@@ -917,6 +921,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Quoc1509/leetcode/tree/master/0239-sliding-window-maximum) |
+| [0379-design-phone-directory](https://github.com/Quoc1509/leetcode/tree/master/0379-design-phone-directory) |
 ## Monotonic Queue
 |  |
 | ------- |
