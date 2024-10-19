@@ -1,30 +1,23 @@
 class Solution:
     def licenseKeyFormatting(self, s: str, k: int) -> str:
         sr = ''
-        for i in range(len(s)):
-            if s[i].isalpha():
-                sr += s[i].upper()
+        for i in s:
+            if i == '-':
+                continue
+            if i.isalpha():
+                sr += i.upper()
             else:
-                sr += s[i]
-        res = []
+                sr += i
+        res = ''
+        if len(sr) <= k: return sr
+        r = len(sr)
+        for l in range(len(sr)-k, -1, -k):
+            if len(res) == 0:
+                res += sr[l:r]
+            else:
+                res = sr[l:r] + '-' + res
+            r = l
 
-        temp = sr.split('-')
-        
-        cur = ''
-        while temp:
-            st = temp.pop()
-            if len(cur) + len(st) == k:
-                res.append(st+cur)
-                cur = ''
-            elif len(cur) + len(st) < k:
-                cur = st + cur
-            else:
-                extra = len(cur) + len(st) - k
-                cur = st[extra:] + cur
-                res.append(cur)
-                cur = ''
-                temp.append(st[:extra])
-        if cur:
-            res.append(cur)
-        
-        return '-'.join(reversed(res))
+        if r > 0:
+            res = sr[:r] + '-' + res
+        return res
