@@ -188,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-delete-nodes-and-return-forest](https://github.com/Quoc1509/leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/Quoc1509/leetcode/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Quoc1509/leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+| [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Quoc1509/leetcode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Quoc1509/leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Quoc1509/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Quoc1509/leetcode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
@@ -369,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Quoc1509/leetcode/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [1543-simplified-fractions](https://github.com/Quoc1509/leetcode/tree/master/1543-simplified-fractions) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Quoc1509/leetcode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
+| [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Quoc1509/leetcode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1720-crawler-log-folder](https://github.com/Quoc1509/leetcode/tree/master/1720-crawler-log-folder) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Quoc1509/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Quoc1509/leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -760,6 +762,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0473-matchsticks-to-square](https://github.com/Quoc1509/leetcode/tree/master/0473-matchsticks-to-square) |
 | [1007-numbers-with-same-consecutive-differences](https://github.com/Quoc1509/leetcode/tree/master/1007-numbers-with-same-consecutive-differences) |
 | [1067-campus-bikes-ii](https://github.com/Quoc1509/leetcode/tree/master/1067-campus-bikes-ii) |
+| [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Quoc1509/leetcode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1900-closest-dessert-cost](https://github.com/Quoc1509/leetcode/tree/master/1900-closest-dessert-cost) |
 | [2107-find-unique-binary-string](https://github.com/Quoc1509/leetcode/tree/master/2107-find-unique-binary-string) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Quoc1509/leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
