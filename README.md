@@ -375,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Quoc1509/leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1304-longest-happy-string](https://github.com/Quoc1509/leetcode/tree/master/1304-longest-happy-string) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Quoc1509/leetcode/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
+| [1443-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Quoc1509/leetcode/tree/master/1443-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1543-simplified-fractions](https://github.com/Quoc1509/leetcode/tree/master/1543-simplified-fractions) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Quoc1509/leetcode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Quoc1509/leetcode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
@@ -706,6 +707,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0943-sum-of-subarray-minimums](https://github.com/Quoc1509/leetcode/tree/master/0943-sum-of-subarray-minimums) |
 | [1067-campus-bikes-ii](https://github.com/Quoc1509/leetcode/tree/master/1067-campus-bikes-ii) |
 | [1117-as-far-from-land-as-possible](https://github.com/Quoc1509/leetcode/tree/master/1117-as-far-from-land-as-possible) |
+| [1443-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Quoc1509/leetcode/tree/master/1443-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Quoc1509/leetcode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1457-minimum-difficulty-of-a-job-schedule](https://github.com/Quoc1509/leetcode/tree/master/1457-minimum-difficulty-of-a-job-schedule) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Quoc1509/leetcode/tree/master/1628-count-submatrices-with-all-ones) |
