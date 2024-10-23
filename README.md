@@ -366,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0301-remove-invalid-parentheses](https://github.com/Quoc1509/leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0358-rearrange-string-k-distance-apart](https://github.com/Quoc1509/leetcode/tree/master/0358-rearrange-string-k-distance-apart) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Quoc1509/leetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [0459-repeated-substring-pattern](https://github.com/Quoc1509/leetcode/tree/master/0459-repeated-substring-pattern) |
 | [0482-license-key-formatting](https://github.com/Quoc1509/leetcode/tree/master/0482-license-key-formatting) |
 | [0539-minimum-time-difference](https://github.com/Quoc1509/leetcode/tree/master/0539-minimum-time-difference) |
 | [0588-design-in-memory-file-system](https://github.com/Quoc1509/leetcode/tree/master/0588-design-in-memory-file-system) |
@@ -968,4 +969,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Quoc1509/leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+## String Matching
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/Quoc1509/leetcode/tree/master/0459-repeated-substring-pattern) |
 <!---LeetCode Topics End-->
