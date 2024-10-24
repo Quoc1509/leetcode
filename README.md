@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Quoc1509/leetcode/tree/master/0015-3sum) |
 | [0039-combination-sum](https://github.com/Quoc1509/leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Quoc1509/leetcode/tree/master/0040-combination-sum-ii) |
+| [0041-first-missing-positive](https://github.com/Quoc1509/leetcode/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/Quoc1509/leetcode/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/Quoc1509/leetcode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Quoc1509/leetcode/tree/master/0051-n-queens) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Quoc1509/leetcode/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/Quoc1509/leetcode/tree/master/0012-integer-to-roman) |
+| [0041-first-missing-positive](https://github.com/Quoc1509/leetcode/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/Quoc1509/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/Quoc1509/leetcode/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/Quoc1509/leetcode/tree/master/0127-word-ladder) |
