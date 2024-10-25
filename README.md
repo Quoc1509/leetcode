@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Quoc1509/leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Quoc1509/leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Quoc1509/leetcode/tree/master/1628-count-submatrices-with-all-ones) |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Quoc1509/leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1658-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Quoc1509/leetcode/tree/master/1658-minimum-swaps-to-arrange-a-binary-grid) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/Quoc1509/leetcode/tree/master/1663-detect-cycles-in-2d-grid) |
 | [1720-crawler-log-folder](https://github.com/Quoc1509/leetcode/tree/master/1720-crawler-log-folder) |
@@ -323,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Quoc1509/leetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1304-longest-happy-string](https://github.com/Quoc1509/leetcode/tree/master/1304-longest-happy-string) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Quoc1509/leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Quoc1509/leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1658-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Quoc1509/leetcode/tree/master/1658-minimum-swaps-to-arrange-a-binary-grid) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Quoc1509/leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1929-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/Quoc1509/leetcode/tree/master/1929-maximum-value-at-a-given-index-in-a-bounded-array) |
@@ -738,6 +740,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Quoc1509/leetcode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1457-minimum-difficulty-of-a-job-schedule](https://github.com/Quoc1509/leetcode/tree/master/1457-minimum-difficulty-of-a-job-schedule) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Quoc1509/leetcode/tree/master/1628-count-submatrices-with-all-ones) |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Quoc1509/leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1900-closest-dessert-cost](https://github.com/Quoc1509/leetcode/tree/master/1900-closest-dessert-cost) |
 | [2755-extra-characters-in-a-string](https://github.com/Quoc1509/leetcode/tree/master/2755-extra-characters-in-a-string) |
 ## Geometry
@@ -767,6 +770,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Quoc1509/leetcode/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Quoc1509/leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Quoc1509/leetcode/tree/master/1628-count-submatrices-with-all-ones) |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Quoc1509/leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1720-crawler-log-folder](https://github.com/Quoc1509/leetcode/tree/master/1720-crawler-log-folder) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Quoc1509/leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1985-maximum-subarray-min-product](https://github.com/Quoc1509/leetcode/tree/master/1985-maximum-subarray-min-product) |
@@ -881,6 +885,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1002-maximum-width-ramp](https://github.com/Quoc1509/leetcode/tree/master/1002-maximum-width-ramp) |
 | [1305-number-of-visible-people-in-a-queue](https://github.com/Quoc1509/leetcode/tree/master/1305-number-of-visible-people-in-a-queue) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Quoc1509/leetcode/tree/master/1628-count-submatrices-with-all-ones) |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Quoc1509/leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1985-maximum-subarray-min-product](https://github.com/Quoc1509/leetcode/tree/master/1985-maximum-subarray-min-product) |
 | [2419-subarray-with-elements-greater-than-varying-threshold](https://github.com/Quoc1509/leetcode/tree/master/2419-subarray-with-elements-greater-than-varying-threshold) |
 ## Number Theory
