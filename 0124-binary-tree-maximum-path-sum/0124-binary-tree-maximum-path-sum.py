@@ -15,7 +15,7 @@ class Solution:
             total = left + right
             
             if left < 0 and right < 0:
-                res[0] = max(res[0], max(left, right, 0) + node.val)
+                res[0] = max(res[0], node.val)
                 return max(left, right, 0) + node.val
             elif left < 0:
                 res[0] = max(res[0], right+node.val)
