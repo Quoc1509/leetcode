@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2502-sort-the-people](https://github.com/Quoc1509/leetcode/tree/master/2502-sort-the-people) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Quoc1509/leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Quoc1509/leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2586-longest-square-streak-in-an-array](https://github.com/Quoc1509/leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Quoc1509/leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2651-count-ways-to-group-overlapping-ranges](https://github.com/Quoc1509/leetcode/tree/master/2651-count-ways-to-group-overlapping-ranges) |
 | [2665-minimum-time-to-repair-cars](https://github.com/Quoc1509/leetcode/tree/master/2665-minimum-time-to-repair-cars) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2483-task-scheduler-ii](https://github.com/Quoc1509/leetcode/tree/master/2483-task-scheduler-ii) |
 | [2502-sort-the-people](https://github.com/Quoc1509/leetcode/tree/master/2502-sort-the-people) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Quoc1509/leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2586-longest-square-streak-in-an-array](https://github.com/Quoc1509/leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Quoc1509/leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
 | [2721-sum-of-distances](https://github.com/Quoc1509/leetcode/tree/master/2721-sum-of-distances) |
 | [2755-extra-characters-in-a-string](https://github.com/Quoc1509/leetcode/tree/master/2755-extra-characters-in-a-string) |
@@ -262,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Quoc1509/leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1929-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/Quoc1509/leetcode/tree/master/1929-maximum-value-at-a-given-index-in-a-bounded-array) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Quoc1509/leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2586-longest-square-streak-in-an-array](https://github.com/Quoc1509/leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2665-minimum-time-to-repair-cars](https://github.com/Quoc1509/leetcode/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/Quoc1509/leetcode/tree/master/2690-house-robber-iv) |
 | [2718-minimum-operations-to-make-all-array-elements-equal](https://github.com/Quoc1509/leetcode/tree/master/2718-minimum-operations-to-make-all-array-elements-equal) |
@@ -302,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2479-meeting-rooms-iii](https://github.com/Quoc1509/leetcode/tree/master/2479-meeting-rooms-iii) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Quoc1509/leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2502-sort-the-people](https://github.com/Quoc1509/leetcode/tree/master/2502-sort-the-people) |
+| [2586-longest-square-streak-in-an-array](https://github.com/Quoc1509/leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Quoc1509/leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2651-count-ways-to-group-overlapping-ranges](https://github.com/Quoc1509/leetcode/tree/master/2651-count-ways-to-group-overlapping-ranges) |
 | [2718-minimum-operations-to-make-all-array-elements-equal](https://github.com/Quoc1509/leetcode/tree/master/2718-minimum-operations-to-make-all-array-elements-equal) |
@@ -745,6 +749,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1628-count-submatrices-with-all-ones](https://github.com/Quoc1509/leetcode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Quoc1509/leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1900-closest-dessert-cost](https://github.com/Quoc1509/leetcode/tree/master/1900-closest-dessert-cost) |
+| [2586-longest-square-streak-in-an-array](https://github.com/Quoc1509/leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2755-extra-characters-in-a-string](https://github.com/Quoc1509/leetcode/tree/master/2755-extra-characters-in-a-string) |
 ## Geometry
 |  |
