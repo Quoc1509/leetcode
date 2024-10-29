@@ -9,7 +9,6 @@ class Solution:
             count = -1
             for x, y in moves:
                 ro, co = r+x, c+y
-                print(ro, co, r, c)
                 if 0 <= ro < M and 0 <= co < N and grid[r][c] < grid[ro][co]:
                     count = max(count, dfs(ro, co))
             memo[(r, c)] = count+1
