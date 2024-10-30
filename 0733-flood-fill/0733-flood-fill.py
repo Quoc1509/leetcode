@@ -1,19 +1,18 @@
 class Solution:
     def floodFill(self, image: List[List[int]], sr: int, sc: int, color: int) -> List[List[int]]:
-        origin = image[sr][sc]
-
         visit = set()
-        def dfs(row, col):
-            if (row < 0 or row >= len(image)) or (col < 0 or col >= len(image[row])):
-                return
-            if image[row][col] != origin or (row, col) in visit:
-                # print(image[row][col])
-                return
-            visit.add((row, col))
-            image[row][col] = color
-            dfs(row-1, col)
-            dfs(row+1, col)
-            dfs(row, col-1)
-            dfs(row, col+1)
-        dfs(sr, sc)
+        pix = image[sr][sc]
+        q = deque()
+        q.append((sr, sc))
+        visit.add((sr, sc))
+        surround = [(1,0), (0, 1), (-1, 0), (0, -1)]
+        while q:
+            for _ in range(len(q)):
+                r, c = q.popleft()
+                image[r][c] = color
+                for x, y in surround:
+                    ro, co = r+x, c+y
+                    if 0 <= ro < len(image) and 0 <= co < len(image[0]) and (ro, co) not in visit and image[ro][co] == pix:
+                        q.append((ro, co))
+                        visit.add((ro, co))
         return image
