@@ -15,12 +15,10 @@ class Solution:
                 if 0 <= r < M and 0 <= c < N and (r, c) not in visit:
                     if grid[r][c] == 1:
                         k -= 1
-                        if dfs(r, c, k):
+                    if dfs(r, c, k):
                             return True
+                    if grid[r][c] == 1:
                         k += 1
-                    elif grid[r][c] == 0:
-                        if dfs(r, c, k):
-                            return True
             visit.remove((row, col))
             return False
         if grid[0][0] == 1:
