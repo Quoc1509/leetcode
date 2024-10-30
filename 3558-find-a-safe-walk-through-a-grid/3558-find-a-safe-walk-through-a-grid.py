@@ -13,7 +13,7 @@ class Solution:
             for x, y in surround:
                 r, c = row+x, col+y
                 if 0 <= r < M and 0 <= c < N and (r, c) not in visit:
-                    if grid[r][c] == 1 and k > 1:
+                    if grid[r][c] == 1:
                         k -= 1
                         if dfs(r, c, k):
                             check = True
@@ -22,8 +22,6 @@ class Solution:
                         if dfs(r, c, k):
                             check = True
             visit.remove((row, col))
-            if check:
-                return True
             return check
         if grid[0][0] == 1:
             health -= 1
