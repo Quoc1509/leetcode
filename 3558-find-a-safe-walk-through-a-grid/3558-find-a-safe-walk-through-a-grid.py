@@ -22,6 +22,8 @@ class Solution:
                         if dfs(r, c, k):
                             check = True
             visit.remove((row, col))
+            if check:
+                return True
             return check
         if grid[0][0] == 1:
             health -= 1
