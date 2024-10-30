@@ -1,30 +1,29 @@
 class Solution:
     def findSafeWalk(self, grid: List[List[int]], health: int) -> bool:
-        n, m = len(grid), len(grid[0])
-        if health == 1 and (grid[0][0] == 1 or grid[n - 1][m - 1] == 1):
+        M, N = len(grid), len(grid[0])
+        visit = set()
+        surround = [(1,0),(0,1),(-1,0),(0,-1)]
+        @cache
+        def dfs(row, col, k):
+            if k == 0:
+                return False
+            if row == M-1 and col == N-1: return True
+            # check = False
+            visit.add((row, col)) 
+            for x, y in surround:
+                r, c = row+x, col+y
+                if 0 <= r < M and 0 <= c < N and (r, c) not in visit:
+                    if grid[r][c] == 1:
+                        k -= 1
+                    if dfs(r, c, k):
+                            return True
+                    if grid[r][c] == 1:
+                        k += 1
+            visit.remove((row, col))
             return False
+        if grid[0][0] == 1:
+            health -= 1
+        return dfs(0, 0, health)
 
-        def isValid(x, y):
-            return 0 <= x < n and 0 <= y < m and grid[x][y] != 2
-
-        direction = [(-1, 0), (1, 0), (0, -1), (0, 1)]
-        q = [(-(health - grid[0][0]), 0, 0)]
-        grid[0][0] = 2
-
-        while q:
-            safe, r, c = heapq.heappop(q)
-            safe = abs(safe)
-
-            if r == n - 1 and c == m - 1 and safe > 0:
-                return True
-
-
-            for dx, dy in direction:
-                x, y = r + dx, c + dy
-                if isValid(x, y) and safe - grid[x][y] > 0:
-                    heapq.heappush(q, (-(safe - grid[x][y]), x, y))
-                    grid[x][y] = 2  # Mark as visited
-
-        return False
 
                     
