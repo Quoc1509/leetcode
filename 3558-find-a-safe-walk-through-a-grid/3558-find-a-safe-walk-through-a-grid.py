@@ -8,7 +8,7 @@ class Solution:
             if k == 0:
                 return False
             if row == M-1 and col == N-1: return True
-            check = False
+            # check = False
             visit.add((row, col)) 
             for x, y in surround:
                 r, c = row+x, col+y
@@ -16,13 +16,13 @@ class Solution:
                     if grid[r][c] == 1:
                         k -= 1
                         if dfs(r, c, k):
-                            check = True
+                            return True
                         k += 1
                     elif grid[r][c] == 0:
                         if dfs(r, c, k):
-                            check = True
+                            return True
             visit.remove((row, col))
-            return check
+            return False
         if grid[0][0] == 1:
             health -= 1
         return dfs(0, 0, health)
