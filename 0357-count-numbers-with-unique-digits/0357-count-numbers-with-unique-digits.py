@@ -2,7 +2,6 @@ class Solution:
     def countNumbersWithUniqueDigits(self, n: int) -> int:
         @cache
         def dfs(visit, num):
-            print(num)
             if num == n:
                 return 1
             count = 0
