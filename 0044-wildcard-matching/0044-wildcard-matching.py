@@ -3,7 +3,6 @@ class Solution:
 
         @cache
         def dfs(i1, i2):
-            print(i1, i2)
             if i1 == len(s) and i2 == len(p):
                 return True
             if i1 >= len(s) and p[i2].isalpha():
