@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Quoc1509/leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Quoc1509/leetcode/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/Quoc1509/leetcode/tree/master/0056-merge-intervals) |
+| [0064-minimum-path-sum](https://github.com/Quoc1509/leetcode/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Quoc1509/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/Quoc1509/leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Quoc1509/leetcode/tree/master/0079-word-search) |
@@ -643,6 +644,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Quoc1509/leetcode/tree/master/0054-spiral-matrix) |
+| [0064-minimum-path-sum](https://github.com/Quoc1509/leetcode/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Quoc1509/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/Quoc1509/leetcode/tree/master/0079-word-search) |
 | [0174-dungeon-game](https://github.com/Quoc1509/leetcode/tree/master/0174-dungeon-game) |
@@ -751,6 +753,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/Quoc1509/leetcode/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/Quoc1509/leetcode/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/Quoc1509/leetcode/tree/master/0062-unique-paths) |
+| [0064-minimum-path-sum](https://github.com/Quoc1509/leetcode/tree/master/0064-minimum-path-sum) |
 | [0072-edit-distance](https://github.com/Quoc1509/leetcode/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/Quoc1509/leetcode/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/Quoc1509/leetcode/tree/master/0097-interleaving-string) |
