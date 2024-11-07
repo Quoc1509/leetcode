@@ -1,7 +1,7 @@
 class Solution:
     def largestCombination(self, candidates: List[int]) -> int:
         res = 0
-        for i in range(33):
+        for i in range(24):
             count = 0
             for num in candidates:
                 if (1 << i)&num:
