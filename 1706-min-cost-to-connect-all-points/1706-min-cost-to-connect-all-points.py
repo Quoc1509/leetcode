@@ -48,12 +48,15 @@ class Solution:
                 father[b] = a
                 rank[a] += 1
         res = 0
+        e = 0
         for w, a, b in edges:
             rootA = root(a)
             rootB = root(b)
             if rootA == rootB: continue
-
+            e += 1
             union(rootA, rootB)
             res += w
+            if e  == N-1:
+                return res
         return res
         
