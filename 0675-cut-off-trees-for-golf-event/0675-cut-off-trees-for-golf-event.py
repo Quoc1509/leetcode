@@ -2,7 +2,6 @@ class Solution:
     def cutOffTree(self, forest: List[List[int]]) -> int:
         trees = sorted((v, r, c) for r, row in enumerate(forest)
                        for c, v in enumerate(row) if v > 1)
-        print(trees)
         r = c = res = 0
         M, N = len(forest), len(forest[0])
         surround = [(1,0), (0,1), (-1,0), (0,-1)]
