@@ -15,9 +15,10 @@ class Solution:
         while heap:
             if len(visit) == N: return res
             w, node = heappop(heap)
-            if node not in visit:
-                res += w        
-                visit.add(node)
+            if node in visit:
+                continue
+            res += w        
+            visit.add(node)
             for we, n in graph[node]:
                 if n not in visit:
                     heappush(heap, (we, n))
