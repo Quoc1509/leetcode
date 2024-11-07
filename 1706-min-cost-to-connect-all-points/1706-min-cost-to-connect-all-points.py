@@ -1,32 +1,62 @@
 class Solution:
     def minCostConnectPoints(self, points: List[List[int]]) -> int:
         N = len(points)
-        min_cost = [math.inf] * N  # to track the minimum connection cost to MST for each point
-        min_cost[0] = 0  # starting from the first point
-        connected = set()
-        total_cost = 0
+        # graph = defaultdict(list)
+        # for i in range(N-1):
+        #     a, b = points[i]
+        #     for j in range(i+1, N):
+        #         c, d = points[j]
+        #         d = abs(a-c)+abs(b-d)
+        #         graph[i].append((d, j))
+        #         graph[j].append((d, i))
+        # res = 0
+        # visit = set()
+        # heap = [(0, 0)]
+        # while heap:
+        #     if len(visit) == N: return res
+        #     w, node = heappop(heap)
+        #     if node in visit:
+        #         continue
+        #     res += w        
+        #     visit.add(node)
+        #     for we, n in graph[node]:
+        #         if n not in visit:
+        #             heappush(heap, (we, n))
+        # return res
 
-        for _ in range(N):
-            curr_min_cost = math.inf
-            curr_point = -1
+        edges = []
+        for i in range(N-1):
+            a, b = points[i]
+            for j in range(i+1, N):
+                c, d = points[j]
+                d = abs(a-c)+abs(b-d)
+                edges.append([d, i, j])
+        rank = [0] * N
+        father = [i for i in range(N)]
+        edges.sort()
+        def root(x):
+            if father[x] == x:
+                return x
+            return root(father[x])
 
-            # Find the next point to connect to the MST
-            for i in range(N):
-                if i not in connected and min_cost[i] < curr_min_cost:
-                    curr_min_cost = min_cost[i]
-                    curr_point = i
-
-            # Add the selected point to MST
-            total_cost += curr_min_cost
-            connected.add(curr_point)
-
-            # Update the cost array with paths from the current point
-            curr_x, curr_y = points[curr_point]
-            for j in range(N):
-                if j not in connected:
-                    x, y = points[j]
-                    manh_dist = abs(x - curr_x) + abs(y - curr_y)
-                    if manh_dist < min_cost[j]:
-                        min_cost[j] = manh_dist
-
-        return total_cost
+        def union(a, b):
+            if rank[a] < rank[b]:
+                father[a] = b
+            elif rank[a] > rank[b]:
+                father[b] = a
+            else:
+                father[b] = a
+                rank[a] += 1
+        res = 0
+        e = 0
+        for w, a, b in edges:
+            rootA = root(a)
+            rootB = root(b)
+            if rootA == rootB: continue
+            e += 1
+            union(rootA, rootB)
+            res += w
+            if e  == N-1:
+                return res
+        return res
+        
