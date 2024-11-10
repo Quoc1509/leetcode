@@ -176,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Quoc1509/leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3334-apple-redistribution-into-boxes](https://github.com/Quoc1509/leetcode/tree/master/3334-apple-redistribution-into-boxes) |
 | [3363-most-frequent-ids](https://github.com/Quoc1509/leetcode/tree/master/3363-most-frequent-ids) |
+| [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Quoc1509/leetcode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Quoc1509/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/Quoc1509/leetcode/tree/master/3558-find-a-safe-walk-through-a-grid) |
 ## Hash Table
@@ -521,6 +522,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Quoc1509/leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2730-maximum-or](https://github.com/Quoc1509/leetcode/tree/master/2730-maximum-or) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Quoc1509/leetcode/tree/master/3291-find-if-array-can-be-sorted) |
+| [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Quoc1509/leetcode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -881,6 +883,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Quoc1509/leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/Quoc1509/leetcode/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Quoc1509/leetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
+| [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Quoc1509/leetcode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 ## Backtracking
 |  |
 | ------- |
