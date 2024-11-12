@@ -624,6 +624,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2652-count-number-of-possible-root-nodes](https://github.com/Quoc1509/leetcode/tree/master/2652-count-number-of-possible-root-nodes) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Quoc1509/leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
 | [2793-count-the-number-of-complete-components](https://github.com/Quoc1509/leetcode/tree/master/2793-count-the-number-of-complete-components) |
+| [3532-time-taken-to-mark-all-nodes](https://github.com/Quoc1509/leetcode/tree/master/3532-time-taken-to-mark-all-nodes) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -753,6 +754,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2686-minimum-cost-of-a-path-with-special-roads](https://github.com/Quoc1509/leetcode/tree/master/2686-minimum-cost-of-a-path-with-special-roads) |
 | [2793-count-the-number-of-complete-components](https://github.com/Quoc1509/leetcode/tree/master/2793-count-the-number-of-complete-components) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Quoc1509/leetcode/tree/master/3235-minimum-cost-to-convert-string-i) |
+| [3532-time-taken-to-mark-all-nodes](https://github.com/Quoc1509/leetcode/tree/master/3532-time-taken-to-mark-all-nodes) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/Quoc1509/leetcode/tree/master/3558-find-a-safe-walk-through-a-grid) |
 ## Tree
 |  |
@@ -781,6 +783,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Quoc1509/leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2652-count-number-of-possible-root-nodes](https://github.com/Quoc1509/leetcode/tree/master/2652-count-number-of-possible-root-nodes) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Quoc1509/leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
+| [3532-time-taken-to-mark-all-nodes](https://github.com/Quoc1509/leetcode/tree/master/3532-time-taken-to-mark-all-nodes) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -836,6 +839,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2652-count-number-of-possible-root-nodes](https://github.com/Quoc1509/leetcode/tree/master/2652-count-number-of-possible-root-nodes) |
 | [2755-extra-characters-in-a-string](https://github.com/Quoc1509/leetcode/tree/master/2755-extra-characters-in-a-string) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Quoc1509/leetcode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
+| [3532-time-taken-to-mark-all-nodes](https://github.com/Quoc1509/leetcode/tree/master/3532-time-taken-to-mark-all-nodes) |
 ## Geometry
 |  |
 | ------- |
