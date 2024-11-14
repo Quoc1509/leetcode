@@ -1,14 +1,11 @@
 class Solution:
     def minimizedMaximum(self, n: int, quantities: List[int]) -> int:
         l, r = 1, max(quantities)
-
         def check(mid):
-            res = 0
-            for i in quantities:
-                res += ceil(i/mid)
-            if res > n:
-                return True
-            return False
+            count = 0
+            for num in quantities:
+                count += ceil(num / mid)           
+            return count > n
 
         while l <= r:
             m = (l+r)//2
