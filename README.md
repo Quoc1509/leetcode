@@ -192,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Quoc1509/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Quoc1509/leetcode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/Quoc1509/leetcode/tree/master/3558-find-a-safe-walk-through-a-grid) |
+| [3607-minimum-division-operations-to-make-array-non-decreasing](https://github.com/Quoc1509/leetcode/tree/master/3607-minimum-division-operations-to-make-array-non-decreasing) |
 ## Hash Table
 |  |
 | ------- |
@@ -398,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3195-separate-black-and-white-balls](https://github.com/Quoc1509/leetcode/tree/master/3195-separate-black-and-white-balls) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Quoc1509/leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3334-apple-redistribution-into-boxes](https://github.com/Quoc1509/leetcode/tree/master/3334-apple-redistribution-into-boxes) |
+| [3607-minimum-division-operations-to-make-array-non-decreasing](https://github.com/Quoc1509/leetcode/tree/master/3607-minimum-division-operations-to-make-array-non-decreasing) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -607,6 +609,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2645-pass-the-pillow](https://github.com/Quoc1509/leetcode/tree/master/2645-pass-the-pillow) |
 | [2716-prime-subtraction-operation](https://github.com/Quoc1509/leetcode/tree/master/2716-prime-subtraction-operation) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Quoc1509/leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+| [3607-minimum-division-operations-to-make-array-non-decreasing](https://github.com/Quoc1509/leetcode/tree/master/3607-minimum-division-operations-to-make-array-non-decreasing) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -1045,6 +1048,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2610-closest-prime-numbers-in-range](https://github.com/Quoc1509/leetcode/tree/master/2610-closest-prime-numbers-in-range) |
 | [2716-prime-subtraction-operation](https://github.com/Quoc1509/leetcode/tree/master/2716-prime-subtraction-operation) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Quoc1509/leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+| [3607-minimum-division-operations-to-make-array-non-decreasing](https://github.com/Quoc1509/leetcode/tree/master/3607-minimum-division-operations-to-make-array-non-decreasing) |
 ## Memoization
 |  |
 | ------- |
