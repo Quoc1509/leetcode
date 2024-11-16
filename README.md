@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Quoc1509/leetcode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Quoc1509/leetcode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Quoc1509/leetcode/tree/master/0200-number-of-islands) |
+| [0204-count-primes](https://github.com/Quoc1509/leetcode/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/Quoc1509/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/Quoc1509/leetcode/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Quoc1509/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -571,6 +572,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Quoc1509/leetcode/tree/master/0012-integer-to-roman) |
 | [0062-unique-paths](https://github.com/Quoc1509/leetcode/tree/master/0062-unique-paths) |
 | [0189-rotate-array](https://github.com/Quoc1509/leetcode/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/Quoc1509/leetcode/tree/master/0204-count-primes) |
 | [0227-basic-calculator-ii](https://github.com/Quoc1509/leetcode/tree/master/0227-basic-calculator-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Quoc1509/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Quoc1509/leetcode/tree/master/0357-count-numbers-with-unique-digits) |
@@ -1021,6 +1023,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Quoc1509/leetcode/tree/master/0204-count-primes) |
 | [1307-ugly-number-iii](https://github.com/Quoc1509/leetcode/tree/master/1307-ugly-number-iii) |
 | [1543-simplified-fractions](https://github.com/Quoc1509/leetcode/tree/master/1543-simplified-fractions) |
 | [2610-closest-prime-numbers-in-range](https://github.com/Quoc1509/leetcode/tree/master/2610-closest-prime-numbers-in-range) |
@@ -1135,6 +1138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Quoc1509/leetcode/tree/master/0204-count-primes) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Quoc1509/leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [3299-find-the-maximum-number-of-elements-in-subset](https://github.com/Quoc1509/leetcode/tree/master/3299-find-the-maximum-number-of-elements-in-subset) |
 ## String Matching
