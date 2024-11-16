@@ -10,6 +10,5 @@ class Solution:
                 if nums[i] > nums[i+1]:
                     return -1
                 res += 1
-        print(nums)
         return res
             
