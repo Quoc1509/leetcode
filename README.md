@@ -211,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/Quoc1509/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0246-strobogrammatic-number](https://github.com/Quoc1509/leetcode/tree/master/0246-strobogrammatic-number) |
 | [0305-number-of-islands-ii](https://github.com/Quoc1509/leetcode/tree/master/0305-number-of-islands-ii) |
+| [0340-longest-substring-with-at-most-k-distinct-characters](https://github.com/Quoc1509/leetcode/tree/master/0340-longest-substring-with-at-most-k-distinct-characters) |
 | [0347-top-k-frequent-elements](https://github.com/Quoc1509/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0348-design-tic-tac-toe](https://github.com/Quoc1509/leetcode/tree/master/0348-design-tic-tac-toe) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Quoc1509/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -455,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0246-strobogrammatic-number](https://github.com/Quoc1509/leetcode/tree/master/0246-strobogrammatic-number) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Quoc1509/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0301-remove-invalid-parentheses](https://github.com/Quoc1509/leetcode/tree/master/0301-remove-invalid-parentheses) |
+| [0340-longest-substring-with-at-most-k-distinct-characters](https://github.com/Quoc1509/leetcode/tree/master/0340-longest-substring-with-at-most-k-distinct-characters) |
 | [0358-rearrange-string-k-distance-apart](https://github.com/Quoc1509/leetcode/tree/master/0358-rearrange-string-k-distance-apart) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Quoc1509/leetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0459-repeated-substring-pattern](https://github.com/Quoc1509/leetcode/tree/master/0459-repeated-substring-pattern) |
@@ -929,6 +931,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/Quoc1509/leetcode/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/Quoc1509/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/Quoc1509/leetcode/tree/master/0239-sliding-window-maximum) |
+| [0340-longest-substring-with-at-most-k-distinct-characters](https://github.com/Quoc1509/leetcode/tree/master/0340-longest-substring-with-at-most-k-distinct-characters) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Quoc1509/leetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [1046-max-consecutive-ones-iii](https://github.com/Quoc1509/leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1084-find-k-length-substrings-with-no-repeated-characters](https://github.com/Quoc1509/leetcode/tree/master/1084-find-k-length-substrings-with-no-repeated-characters) |
