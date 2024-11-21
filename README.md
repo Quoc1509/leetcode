@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Quoc1509/leetcode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2294-minimum-time-to-complete-trips](https://github.com/Quoc1509/leetcode/tree/master/2294-minimum-time-to-complete-trips) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Quoc1509/leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/Quoc1509/leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Quoc1509/leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2367-minimum-lines-to-represent-a-line-chart](https://github.com/Quoc1509/leetcode/tree/master/2367-minimum-lines-to-represent-a-line-chart) |
 | [2411-spiral-matrix-iv](https://github.com/Quoc1509/leetcode/tree/master/2411-spiral-matrix-iv) |
@@ -539,6 +540,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2132-convert-1d-array-into-2d-array](https://github.com/Quoc1509/leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/Quoc1509/leetcode/tree/master/2155-find-missing-observations) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/Quoc1509/leetcode/tree/master/2299-merge-nodes-in-between-zeros) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/Quoc1509/leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2411-spiral-matrix-iv](https://github.com/Quoc1509/leetcode/tree/master/2411-spiral-matrix-iv) |
 | [2479-meeting-rooms-iii](https://github.com/Quoc1509/leetcode/tree/master/2479-meeting-rooms-iii) |
 | [2483-task-scheduler-ii](https://github.com/Quoc1509/leetcode/tree/master/2483-task-scheduler-ii) |
@@ -751,6 +753,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2035-count-sub-islands](https://github.com/Quoc1509/leetcode/tree/master/2035-count-sub-islands) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/Quoc1509/leetcode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Quoc1509/leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/Quoc1509/leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2411-spiral-matrix-iv](https://github.com/Quoc1509/leetcode/tree/master/2411-spiral-matrix-iv) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Quoc1509/leetcode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/Quoc1509/leetcode/tree/master/2914-find-the-safest-path-in-a-grid) |
