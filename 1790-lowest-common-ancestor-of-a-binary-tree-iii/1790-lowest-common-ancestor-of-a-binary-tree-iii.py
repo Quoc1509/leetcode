@@ -27,7 +27,6 @@ class Solution:
         def dfs3(root):
             if not root:
                 return
-            print(root.val)
             if root in visit:
                 res[0] = root
                 return
