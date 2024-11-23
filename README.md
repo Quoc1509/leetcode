@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1325-path-with-maximum-probability](https://github.com/Quoc1509/leetcode/tree/master/1325-path-with-maximum-probability) |
 | [1333-sort-the-jumbled-numbers](https://github.com/Quoc1509/leetcode/tree/master/1333-sort-the-jumbled-numbers) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Quoc1509/leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1372-check-if-it-is-a-good-array](https://github.com/Quoc1509/leetcode/tree/master/1372-check-if-it-is-a-good-array) |
 | [1380-number-of-closed-islands](https://github.com/Quoc1509/leetcode/tree/master/1380-number-of-closed-islands) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Quoc1509/leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Quoc1509/leetcode/tree/master/1435-xor-queries-of-a-subarray) |
@@ -619,6 +620,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1014-k-closest-points-to-origin](https://github.com/Quoc1509/leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Quoc1509/leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1307-ugly-number-iii](https://github.com/Quoc1509/leetcode/tree/master/1307-ugly-number-iii) |
+| [1372-check-if-it-is-a-good-array](https://github.com/Quoc1509/leetcode/tree/master/1372-check-if-it-is-a-good-array) |
 | [1543-simplified-fractions](https://github.com/Quoc1509/leetcode/tree/master/1543-simplified-fractions) |
 | [1642-water-bottles](https://github.com/Quoc1509/leetcode/tree/master/1642-water-bottles) |
 | [2155-find-missing-observations](https://github.com/Quoc1509/leetcode/tree/master/2155-find-missing-observations) |
@@ -1074,6 +1076,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/Quoc1509/leetcode/tree/master/0204-count-primes) |
 | [1307-ugly-number-iii](https://github.com/Quoc1509/leetcode/tree/master/1307-ugly-number-iii) |
+| [1372-check-if-it-is-a-good-array](https://github.com/Quoc1509/leetcode/tree/master/1372-check-if-it-is-a-good-array) |
 | [1543-simplified-fractions](https://github.com/Quoc1509/leetcode/tree/master/1543-simplified-fractions) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Quoc1509/leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2367-minimum-lines-to-represent-a-line-chart](https://github.com/Quoc1509/leetcode/tree/master/2367-minimum-lines-to-represent-a-line-chart) |
