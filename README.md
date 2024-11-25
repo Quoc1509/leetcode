@@ -217,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/Quoc1509/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0246-strobogrammatic-number](https://github.com/Quoc1509/leetcode/tree/master/0246-strobogrammatic-number) |
 | [0305-number-of-islands-ii](https://github.com/Quoc1509/leetcode/tree/master/0305-number-of-islands-ii) |
+| [0314-binary-tree-vertical-order-traversal](https://github.com/Quoc1509/leetcode/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0340-longest-substring-with-at-most-k-distinct-characters](https://github.com/Quoc1509/leetcode/tree/master/0340-longest-substring-with-at-most-k-distinct-characters) |
 | [0347-top-k-frequent-elements](https://github.com/Quoc1509/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0348-design-tic-tac-toe](https://github.com/Quoc1509/leetcode/tree/master/0348-design-tic-tac-toe) |
@@ -346,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Quoc1509/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0253-meeting-rooms-ii](https://github.com/Quoc1509/leetcode/tree/master/0253-meeting-rooms-ii) |
 | [0295-find-median-from-data-stream](https://github.com/Quoc1509/leetcode/tree/master/0295-find-median-from-data-stream) |
+| [0314-binary-tree-vertical-order-traversal](https://github.com/Quoc1509/leetcode/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0347-top-k-frequent-elements](https://github.com/Quoc1509/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Quoc1509/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0354-russian-doll-envelopes](https://github.com/Quoc1509/leetcode/tree/master/0354-russian-doll-envelopes) |
@@ -649,6 +651,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0261-graph-valid-tree](https://github.com/Quoc1509/leetcode/tree/master/0261-graph-valid-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Quoc1509/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0310-minimum-height-trees](https://github.com/Quoc1509/leetcode/tree/master/0310-minimum-height-trees) |
+| [0314-binary-tree-vertical-order-traversal](https://github.com/Quoc1509/leetcode/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Quoc1509/leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0386-lexicographical-numbers](https://github.com/Quoc1509/leetcode/tree/master/0386-lexicographical-numbers) |
 | [0419-battleships-in-a-board](https://github.com/Quoc1509/leetcode/tree/master/0419-battleships-in-a-board) |
@@ -699,6 +702,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Quoc1509/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0301-remove-invalid-parentheses](https://github.com/Quoc1509/leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0310-minimum-height-trees](https://github.com/Quoc1509/leetcode/tree/master/0310-minimum-height-trees) |
+| [0314-binary-tree-vertical-order-traversal](https://github.com/Quoc1509/leetcode/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0322-coin-change](https://github.com/Quoc1509/leetcode/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Quoc1509/leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0547-number-of-provinces](https://github.com/Quoc1509/leetcode/tree/master/0547-number-of-provinces) |
@@ -831,6 +835,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/Quoc1509/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Quoc1509/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Quoc1509/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0314-binary-tree-vertical-order-traversal](https://github.com/Quoc1509/leetcode/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0437-path-sum-iii](https://github.com/Quoc1509/leetcode/tree/master/0437-path-sum-iii) |
 | [0773-logical-or-of-two-binary-grids-represented-as-quad-trees](https://github.com/Quoc1509/leetcode/tree/master/0773-logical-or-of-two-binary-grids-represented-as-quad-trees) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Quoc1509/leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
@@ -1002,6 +1007,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/Quoc1509/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Quoc1509/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Quoc1509/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0314-binary-tree-vertical-order-traversal](https://github.com/Quoc1509/leetcode/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0437-path-sum-iii](https://github.com/Quoc1509/leetcode/tree/master/0437-path-sum-iii) |
 | [0988-flip-equivalent-binary-trees](https://github.com/Quoc1509/leetcode/tree/master/0988-flip-equivalent-binary-trees) |
 | [1157-insufficient-nodes-in-root-to-leaf-paths](https://github.com/Quoc1509/leetcode/tree/master/1157-insufficient-nodes-in-root-to-leaf-paths) |
