@@ -8,7 +8,6 @@ class Solution:
         visit.add((0, 0))
         while q:
             d, x, y = heappop(q)
-            print(d, x, y)
             if x == M-1 and y == N-1:
                 return d
             for a, b in surround:
