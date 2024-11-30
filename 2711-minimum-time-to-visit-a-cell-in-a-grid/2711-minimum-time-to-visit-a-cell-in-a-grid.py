@@ -8,7 +8,6 @@ class Solution:
         visit = set()
         visit.add((0, 0))
         while heap:
-            print(heap[0])
             time, x, y = heappop(heap)
             if x == M-1 and y == N-1:
                 return time
