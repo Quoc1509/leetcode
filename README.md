@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1117-as-far-from-land-as-possible](https://github.com/Quoc1509/leetcode/tree/master/1117-as-far-from-land-as-possible) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Quoc1509/leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1210-mean-of-array-after-removing-some-elements](https://github.com/Quoc1509/leetcode/tree/master/1210-mean-of-array-after-removing-some-elements) |
+| [1286-constrained-subsequence-sum](https://github.com/Quoc1509/leetcode/tree/master/1286-constrained-subsequence-sum) |
 | [1305-number-of-visible-people-in-a-queue](https://github.com/Quoc1509/leetcode/tree/master/1305-number-of-visible-people-in-a-queue) |
 | [1325-path-with-maximum-probability](https://github.com/Quoc1509/leetcode/tree/master/1325-path-with-maximum-probability) |
 | [1333-sort-the-jumbled-numbers](https://github.com/Quoc1509/leetcode/tree/master/1333-sort-the-jumbled-numbers) |
@@ -447,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-network-delay-time](https://github.com/Quoc1509/leetcode/tree/master/0744-network-delay-time) |
 | [0778-reorganize-string](https://github.com/Quoc1509/leetcode/tree/master/0778-reorganize-string) |
 | [1014-k-closest-points-to-origin](https://github.com/Quoc1509/leetcode/tree/master/1014-k-closest-points-to-origin) |
+| [1286-constrained-subsequence-sum](https://github.com/Quoc1509/leetcode/tree/master/1286-constrained-subsequence-sum) |
 | [1304-longest-happy-string](https://github.com/Quoc1509/leetcode/tree/master/1304-longest-happy-string) |
 | [1325-path-with-maximum-probability](https://github.com/Quoc1509/leetcode/tree/master/1325-path-with-maximum-probability) |
 | [1622-max-value-of-equation](https://github.com/Quoc1509/leetcode/tree/master/1622-max-value-of-equation) |
@@ -927,6 +929,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0943-sum-of-subarray-minimums](https://github.com/Quoc1509/leetcode/tree/master/0943-sum-of-subarray-minimums) |
 | [1067-campus-bikes-ii](https://github.com/Quoc1509/leetcode/tree/master/1067-campus-bikes-ii) |
 | [1117-as-far-from-land-as-possible](https://github.com/Quoc1509/leetcode/tree/master/1117-as-far-from-land-as-possible) |
+| [1286-constrained-subsequence-sum](https://github.com/Quoc1509/leetcode/tree/master/1286-constrained-subsequence-sum) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Quoc1509/leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1443-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Quoc1509/leetcode/tree/master/1443-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Quoc1509/leetcode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
@@ -990,6 +993,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/Quoc1509/leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1084-find-k-length-substrings-with-no-repeated-characters](https://github.com/Quoc1509/leetcode/tree/master/1084-find-k-length-substrings-with-no-repeated-characters) |
 | [1107-minimum-swaps-to-group-all-1s-together](https://github.com/Quoc1509/leetcode/tree/master/1107-minimum-swaps-to-group-all-1s-together) |
+| [1286-constrained-subsequence-sum](https://github.com/Quoc1509/leetcode/tree/master/1286-constrained-subsequence-sum) |
 | [1622-max-value-of-equation](https://github.com/Quoc1509/leetcode/tree/master/1622-max-value-of-equation) |
 | [1755-defuse-the-bomb](https://github.com/Quoc1509/leetcode/tree/master/1755-defuse-the-bomb) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Quoc1509/leetcode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
@@ -1218,6 +1222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Quoc1509/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0379-design-phone-directory](https://github.com/Quoc1509/leetcode/tree/master/0379-design-phone-directory) |
+| [1286-constrained-subsequence-sum](https://github.com/Quoc1509/leetcode/tree/master/1286-constrained-subsequence-sum) |
 | [1622-max-value-of-equation](https://github.com/Quoc1509/leetcode/tree/master/1622-max-value-of-equation) |
 | [1814-jump-game-vi](https://github.com/Quoc1509/leetcode/tree/master/1814-jump-game-vi) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/Quoc1509/leetcode/tree/master/2618-maximize-the-minimum-powered-city) |
@@ -1225,6 +1230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Quoc1509/leetcode/tree/master/0239-sliding-window-maximum) |
+| [1286-constrained-subsequence-sum](https://github.com/Quoc1509/leetcode/tree/master/1286-constrained-subsequence-sum) |
 | [1622-max-value-of-equation](https://github.com/Quoc1509/leetcode/tree/master/1622-max-value-of-equation) |
 | [1814-jump-game-vi](https://github.com/Quoc1509/leetcode/tree/master/1814-jump-game-vi) |
 ## Database
