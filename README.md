@@ -517,6 +517,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0482-license-key-formatting](https://github.com/Quoc1509/leetcode/tree/master/0482-license-key-formatting) |
 | [0539-minimum-time-difference](https://github.com/Quoc1509/leetcode/tree/master/0539-minimum-time-difference) |
 | [0588-design-in-memory-file-system](https://github.com/Quoc1509/leetcode/tree/master/0588-design-in-memory-file-system) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Quoc1509/leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0720-longest-word-in-dictionary](https://github.com/Quoc1509/leetcode/tree/master/0720-longest-word-in-dictionary) |
 | [0778-reorganize-string](https://github.com/Quoc1509/leetcode/tree/master/0778-reorganize-string) |
 | [0837-most-common-word](https://github.com/Quoc1509/leetcode/tree/master/0837-most-common-word) |
@@ -954,6 +955,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/Quoc1509/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0473-matchsticks-to-square](https://github.com/Quoc1509/leetcode/tree/master/0473-matchsticks-to-square) |
 | [0552-student-attendance-record-ii](https://github.com/Quoc1509/leetcode/tree/master/0552-student-attendance-record-ii) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Quoc1509/leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Quoc1509/leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0863-sum-of-distances-in-tree](https://github.com/Quoc1509/leetcode/tree/master/0863-sum-of-distances-in-tree) |
 | [0943-sum-of-subarray-minimums](https://github.com/Quoc1509/leetcode/tree/master/0943-sum-of-subarray-minimums) |
