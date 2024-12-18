@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1497-design-a-stack-with-increment-operation](https://github.com/Quoc1509/leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Quoc1509/leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1559-cherry-pickup-ii](https://github.com/Quoc1509/leetcode/tree/master/1559-cherry-pickup-ii) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Quoc1509/leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Quoc1509/leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Quoc1509/leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1622-max-value-of-equation](https://github.com/Quoc1509/leetcode/tree/master/1622-max-value-of-equation) |
@@ -1036,6 +1037,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1305-number-of-visible-people-in-a-queue](https://github.com/Quoc1509/leetcode/tree/master/1305-number-of-visible-people-in-a-queue) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Quoc1509/leetcode/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Quoc1509/leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Quoc1509/leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Quoc1509/leetcode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Quoc1509/leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Quoc1509/leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
@@ -1179,6 +1181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0943-sum-of-subarray-minimums](https://github.com/Quoc1509/leetcode/tree/master/0943-sum-of-subarray-minimums) |
 | [1002-maximum-width-ramp](https://github.com/Quoc1509/leetcode/tree/master/1002-maximum-width-ramp) |
 | [1305-number-of-visible-people-in-a-queue](https://github.com/Quoc1509/leetcode/tree/master/1305-number-of-visible-people-in-a-queue) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Quoc1509/leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Quoc1509/leetcode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Quoc1509/leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Quoc1509/leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
