@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/Quoc1509/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0384-shuffle-an-array](https://github.com/Quoc1509/leetcode/tree/master/0384-shuffle-an-array) |
 | [0396-rotate-function](https://github.com/Quoc1509/leetcode/tree/master/0396-rotate-function) |
+| [0399-evaluate-division](https://github.com/Quoc1509/leetcode/tree/master/0399-evaluate-division) |
 | [0403-frog-jump](https://github.com/Quoc1509/leetcode/tree/master/0403-frog-jump) |
 | [0413-arithmetic-slices](https://github.com/Quoc1509/leetcode/tree/master/0413-arithmetic-slices) |
 | [0416-partition-equal-subset-sum](https://github.com/Quoc1509/leetcode/tree/master/0416-partition-equal-subset-sum) |
@@ -538,6 +539,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0340-longest-substring-with-at-most-k-distinct-characters](https://github.com/Quoc1509/leetcode/tree/master/0340-longest-substring-with-at-most-k-distinct-characters) |
 | [0358-rearrange-string-k-distance-apart](https://github.com/Quoc1509/leetcode/tree/master/0358-rearrange-string-k-distance-apart) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Quoc1509/leetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [0399-evaluate-division](https://github.com/Quoc1509/leetcode/tree/master/0399-evaluate-division) |
 | [0459-repeated-substring-pattern](https://github.com/Quoc1509/leetcode/tree/master/0459-repeated-substring-pattern) |
 | [0482-license-key-formatting](https://github.com/Quoc1509/leetcode/tree/master/0482-license-key-formatting) |
 | [0539-minimum-time-difference](https://github.com/Quoc1509/leetcode/tree/master/0539-minimum-time-difference) |
@@ -731,6 +733,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0314-binary-tree-vertical-order-traversal](https://github.com/Quoc1509/leetcode/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Quoc1509/leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0386-lexicographical-numbers](https://github.com/Quoc1509/leetcode/tree/master/0386-lexicographical-numbers) |
+| [0399-evaluate-division](https://github.com/Quoc1509/leetcode/tree/master/0399-evaluate-division) |
 | [0419-battleships-in-a-board](https://github.com/Quoc1509/leetcode/tree/master/0419-battleships-in-a-board) |
 | [0437-path-sum-iii](https://github.com/Quoc1509/leetcode/tree/master/0437-path-sum-iii) |
 | [0547-number-of-provinces](https://github.com/Quoc1509/leetcode/tree/master/0547-number-of-provinces) |
@@ -783,6 +786,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0314-binary-tree-vertical-order-traversal](https://github.com/Quoc1509/leetcode/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0322-coin-change](https://github.com/Quoc1509/leetcode/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Quoc1509/leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0399-evaluate-division](https://github.com/Quoc1509/leetcode/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/Quoc1509/leetcode/tree/master/0547-number-of-provinces) |
 | [0675-cut-off-trees-for-golf-event](https://github.com/Quoc1509/leetcode/tree/master/0675-cut-off-trees-for-golf-event) |
 | [0684-redundant-connection](https://github.com/Quoc1509/leetcode/tree/master/0684-redundant-connection) |
@@ -864,6 +868,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Quoc1509/leetcode/tree/master/0200-number-of-islands) |
 | [0261-graph-valid-tree](https://github.com/Quoc1509/leetcode/tree/master/0261-graph-valid-tree) |
 | [0305-number-of-islands-ii](https://github.com/Quoc1509/leetcode/tree/master/0305-number-of-islands-ii) |
+| [0399-evaluate-division](https://github.com/Quoc1509/leetcode/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/Quoc1509/leetcode/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/Quoc1509/leetcode/tree/master/0684-redundant-connection) |
 | [0694-number-of-distinct-islands](https://github.com/Quoc1509/leetcode/tree/master/0694-number-of-distinct-islands) |
@@ -889,6 +894,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0261-graph-valid-tree](https://github.com/Quoc1509/leetcode/tree/master/0261-graph-valid-tree) |
 | [0310-minimum-height-trees](https://github.com/Quoc1509/leetcode/tree/master/0310-minimum-height-trees) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Quoc1509/leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0399-evaluate-division](https://github.com/Quoc1509/leetcode/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/Quoc1509/leetcode/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/Quoc1509/leetcode/tree/master/0684-redundant-connection) |
 | [0744-network-delay-time](https://github.com/Quoc1509/leetcode/tree/master/0744-network-delay-time) |
@@ -1147,6 +1153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Shortest Path
 |  |
 | ------- |
+| [0399-evaluate-division](https://github.com/Quoc1509/leetcode/tree/master/0399-evaluate-division) |
 | [0744-network-delay-time](https://github.com/Quoc1509/leetcode/tree/master/0744-network-delay-time) |
 | [1325-path-with-maximum-probability](https://github.com/Quoc1509/leetcode/tree/master/1325-path-with-maximum-probability) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Quoc1509/leetcode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
