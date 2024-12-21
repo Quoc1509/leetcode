@@ -772,6 +772,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2652-count-number-of-possible-root-nodes](https://github.com/Quoc1509/leetcode/tree/master/2652-count-number-of-possible-root-nodes) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Quoc1509/leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
 | [2793-count-the-number-of-complete-components](https://github.com/Quoc1509/leetcode/tree/master/2793-count-the-number-of-complete-components) |
+| [3058-maximum-number-of-k-divisible-components](https://github.com/Quoc1509/leetcode/tree/master/3058-maximum-number-of-k-divisible-components) |
 | [3532-time-taken-to-mark-all-nodes](https://github.com/Quoc1509/leetcode/tree/master/3532-time-taken-to-mark-all-nodes) |
 ## Breadth-First Search
 |  |
@@ -954,6 +955,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Quoc1509/leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2652-count-number-of-possible-root-nodes](https://github.com/Quoc1509/leetcode/tree/master/2652-count-number-of-possible-root-nodes) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Quoc1509/leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
+| [3058-maximum-number-of-k-divisible-components](https://github.com/Quoc1509/leetcode/tree/master/3058-maximum-number-of-k-divisible-components) |
 | [3532-time-taken-to-mark-all-nodes](https://github.com/Quoc1509/leetcode/tree/master/3532-time-taken-to-mark-all-nodes) |
 ## Dynamic Programming
 |  |
