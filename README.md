@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Quoc1509/leetcode/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/Quoc1509/leetcode/tree/master/0015-3sum) |
+| [0036-valid-sudoku](https://github.com/Quoc1509/leetcode/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/Quoc1509/leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Quoc1509/leetcode/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/Quoc1509/leetcode/tree/master/0041-first-missing-positive) |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Quoc1509/leetcode/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/Quoc1509/leetcode/tree/master/0012-integer-to-roman) |
+| [0036-valid-sudoku](https://github.com/Quoc1509/leetcode/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/Quoc1509/leetcode/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/Quoc1509/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/Quoc1509/leetcode/tree/master/0076-minimum-window-substring) |
@@ -826,6 +828,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/Quoc1509/leetcode/tree/master/0036-valid-sudoku) |
 | [0054-spiral-matrix](https://github.com/Quoc1509/leetcode/tree/master/0054-spiral-matrix) |
 | [0064-minimum-path-sum](https://github.com/Quoc1509/leetcode/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Quoc1509/leetcode/tree/master/0073-set-matrix-zeroes) |
