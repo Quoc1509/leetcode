@@ -23,7 +23,6 @@ class Solution:
                     index = temp[correct[i]]
                     temp[ar[i]] = temp[correct[i]]
                     ar[index] = ar[i] 
-            print(ar)
         while q:
             check(arr)
             arr = []
