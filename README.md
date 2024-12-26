@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/Quoc1509/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0456-132-pattern](https://github.com/Quoc1509/leetcode/tree/master/0456-132-pattern) |
 | [0473-matchsticks-to-square](https://github.com/Quoc1509/leetcode/tree/master/0473-matchsticks-to-square) |
+| [0494-target-sum](https://github.com/Quoc1509/leetcode/tree/master/0494-target-sum) |
 | [0503-next-greater-element-ii](https://github.com/Quoc1509/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0523-continuous-subarray-sum](https://github.com/Quoc1509/leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Quoc1509/leetcode/tree/master/0525-contiguous-array) |
@@ -1007,6 +1008,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0413-arithmetic-slices](https://github.com/Quoc1509/leetcode/tree/master/0413-arithmetic-slices) |
 | [0416-partition-equal-subset-sum](https://github.com/Quoc1509/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0473-matchsticks-to-square](https://github.com/Quoc1509/leetcode/tree/master/0473-matchsticks-to-square) |
+| [0494-target-sum](https://github.com/Quoc1509/leetcode/tree/master/0494-target-sum) |
 | [0552-student-attendance-record-ii](https://github.com/Quoc1509/leetcode/tree/master/0552-student-attendance-record-ii) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Quoc1509/leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Quoc1509/leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -1121,6 +1123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0301-remove-invalid-parentheses](https://github.com/Quoc1509/leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Quoc1509/leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0473-matchsticks-to-square](https://github.com/Quoc1509/leetcode/tree/master/0473-matchsticks-to-square) |
+| [0494-target-sum](https://github.com/Quoc1509/leetcode/tree/master/0494-target-sum) |
 | [1007-numbers-with-same-consecutive-differences](https://github.com/Quoc1509/leetcode/tree/master/1007-numbers-with-same-consecutive-differences) |
 | [1067-campus-bikes-ii](https://github.com/Quoc1509/leetcode/tree/master/1067-campus-bikes-ii) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Quoc1509/leetcode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
