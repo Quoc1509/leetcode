@@ -193,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Quoc1509/leetcode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Quoc1509/leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Quoc1509/leetcode/tree/master/2586-longest-square-streak-in-an-array) |
+| [2587-design-memory-allocator](https://github.com/Quoc1509/leetcode/tree/master/2587-design-memory-allocator) |
 | [2609-distinct-prime-factors-of-product-of-array](https://github.com/Quoc1509/leetcode/tree/master/2609-distinct-prime-factors-of-product-of-array) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Quoc1509/leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/Quoc1509/leetcode/tree/master/2618-maximize-the-minimum-powered-city) |
@@ -300,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2505-number-of-good-paths](https://github.com/Quoc1509/leetcode/tree/master/2505-number-of-good-paths) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Quoc1509/leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Quoc1509/leetcode/tree/master/2586-longest-square-streak-in-an-array) |
+| [2587-design-memory-allocator](https://github.com/Quoc1509/leetcode/tree/master/2587-design-memory-allocator) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/Quoc1509/leetcode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2609-distinct-prime-factors-of-product-of-array](https://github.com/Quoc1509/leetcode/tree/master/2609-distinct-prime-factors-of-product-of-array) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Quoc1509/leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -638,6 +640,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2411-spiral-matrix-iv](https://github.com/Quoc1509/leetcode/tree/master/2411-spiral-matrix-iv) |
 | [2479-meeting-rooms-iii](https://github.com/Quoc1509/leetcode/tree/master/2479-meeting-rooms-iii) |
 | [2483-task-scheduler-ii](https://github.com/Quoc1509/leetcode/tree/master/2483-task-scheduler-ii) |
+| [2587-design-memory-allocator](https://github.com/Quoc1509/leetcode/tree/master/2587-design-memory-allocator) |
 | [2645-pass-the-pillow](https://github.com/Quoc1509/leetcode/tree/master/2645-pass-the-pillow) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Quoc1509/leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Quoc1509/leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
@@ -1317,6 +1320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0588-design-in-memory-file-system](https://github.com/Quoc1509/leetcode/tree/master/0588-design-in-memory-file-system) |
 | [0817-design-hashmap](https://github.com/Quoc1509/leetcode/tree/master/0817-design-hashmap) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Quoc1509/leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
+| [2587-design-memory-allocator](https://github.com/Quoc1509/leetcode/tree/master/2587-design-memory-allocator) |
 ## Randomized
 |  |
 | ------- |
