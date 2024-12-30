@@ -1051,6 +1051,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2291-maximum-and-sum-of-array](https://github.com/Quoc1509/leetcode/tree/master/2291-maximum-and-sum-of-array) |
 | [2348-count-number-of-texts](https://github.com/Quoc1509/leetcode/tree/master/2348-count-number-of-texts) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/Quoc1509/leetcode/tree/master/2408-number-of-people-aware-of-a-secret) |
+| [2562-count-ways-to-build-good-strings](https://github.com/Quoc1509/leetcode/tree/master/2562-count-ways-to-build-good-strings) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Quoc1509/leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2652-count-number-of-possible-root-nodes](https://github.com/Quoc1509/leetcode/tree/master/2652-count-number-of-possible-root-nodes) |
 | [2755-extra-characters-in-a-string](https://github.com/Quoc1509/leetcode/tree/master/2755-extra-characters-in-a-string) |
