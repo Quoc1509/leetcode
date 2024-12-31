@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1002-maximum-width-ramp](https://github.com/Quoc1509/leetcode/tree/master/1002-maximum-width-ramp) |
 | [1014-k-closest-points-to-origin](https://github.com/Quoc1509/leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Quoc1509/leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1025-minimum-cost-for-tickets](https://github.com/Quoc1509/leetcode/tree/master/1025-minimum-cost-for-tickets) |
 | [1036-rotting-oranges](https://github.com/Quoc1509/leetcode/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/Quoc1509/leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Quoc1509/leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -1031,6 +1032,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0911-profitable-schemes](https://github.com/Quoc1509/leetcode/tree/master/0911-profitable-schemes) |
 | [0943-sum-of-subarray-minimums](https://github.com/Quoc1509/leetcode/tree/master/0943-sum-of-subarray-minimums) |
 | [0993-tallest-billboard](https://github.com/Quoc1509/leetcode/tree/master/0993-tallest-billboard) |
+| [1025-minimum-cost-for-tickets](https://github.com/Quoc1509/leetcode/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/Quoc1509/leetcode/tree/master/1063-best-sightseeing-pair) |
 | [1067-campus-bikes-ii](https://github.com/Quoc1509/leetcode/tree/master/1067-campus-bikes-ii) |
 | [1117-as-far-from-land-as-possible](https://github.com/Quoc1509/leetcode/tree/master/1117-as-far-from-land-as-possible) |
