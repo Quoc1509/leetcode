@@ -1,8 +1,8 @@
 class Solution:
     def maxScore(self, s: str) -> int:
         one = s.count('1')
-        if one == len(s) or one == 0:
-            return len(s)-1
+        # if one == len(s) or one == 0:
+        #     return len(s)-1
         zero = 0
         res = 0
         for i in range(len(s)-1):
