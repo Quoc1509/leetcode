@@ -187,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2419-subarray-with-elements-greater-than-varying-threshold](https://github.com/Quoc1509/leetcode/tree/master/2419-subarray-with-elements-greater-than-varying-threshold) |
 | [2423-minimum-deletions-to-make-array-divisible](https://github.com/Quoc1509/leetcode/tree/master/2423-minimum-deletions-to-make-array-divisible) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/Quoc1509/leetcode/tree/master/2445-reachable-nodes-with-restrictions) |
+| [2465-shifting-letters-ii](https://github.com/Quoc1509/leetcode/tree/master/2465-shifting-letters-ii) |
 | [2478-longest-nice-subarray](https://github.com/Quoc1509/leetcode/tree/master/2478-longest-nice-subarray) |
 | [2479-meeting-rooms-iii](https://github.com/Quoc1509/leetcode/tree/master/2479-meeting-rooms-iii) |
 | [2483-task-scheduler-ii](https://github.com/Quoc1509/leetcode/tree/master/2483-task-scheduler-ii) |
@@ -594,6 +595,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2300-construct-string-with-repeat-limit](https://github.com/Quoc1509/leetcode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2348-count-number-of-texts](https://github.com/Quoc1509/leetcode/tree/master/2348-count-number-of-texts) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/Quoc1509/leetcode/tree/master/2414-move-pieces-to-obtain-a-string) |
+| [2465-shifting-letters-ii](https://github.com/Quoc1509/leetcode/tree/master/2465-shifting-letters-ii) |
 | [2502-sort-the-people](https://github.com/Quoc1509/leetcode/tree/master/2502-sort-the-people) |
 | [2580-circular-sentence](https://github.com/Quoc1509/leetcode/tree/master/2580-circular-sentence) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/Quoc1509/leetcode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
@@ -698,6 +700,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Quoc1509/leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Quoc1509/leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2358-number-of-ways-to-split-array](https://github.com/Quoc1509/leetcode/tree/master/2358-number-of-ways-to-split-array) |
+| [2465-shifting-letters-ii](https://github.com/Quoc1509/leetcode/tree/master/2465-shifting-letters-ii) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Quoc1509/leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/Quoc1509/leetcode/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Quoc1509/leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
