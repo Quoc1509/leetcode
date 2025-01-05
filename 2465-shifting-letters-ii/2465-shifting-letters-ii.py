@@ -10,14 +10,11 @@ class Solution:
                 pre[a] += 1
                 pre[b+1] += -1
         
-        convert = (ord(s[0])-97+pre[0])%26
-        res = chr(97+convert)
-        for i in range(1, len(pre)-1):
+        for i in range(1, len(pre)):
             pre[i] += pre[i-1]
+
+        res = ''
+        for i in range(len(pre)-1):
             convert = (ord(s[i])-97+pre[i])%26
             res += chr(97+convert)
-        # res = ''
-        # for i in range(len(pre)-1):
-        #     convert = (ord(s[i])-97+pre[i])%26
-        #     res += 
         return res
