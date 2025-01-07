@@ -7,12 +7,10 @@ class Solution:
                     continue
                 check = False
                 for k in range(len(words[j])):
-                    # print(words[j], words[j][k:k+len(words[i])])
                     if words[j][k:k+len(words[i])] == words[i]:
                         res.append(words[i])
                         check = True
                         break
                 if check:
                     break
-        # print(res)
         return res
