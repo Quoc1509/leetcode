@@ -3,9 +3,8 @@ class Solution:
         if len(s) < k: return False    
         if len(s)==k: return True
         count  = Counter(s)
-        one, two = 0, 0
+        one = 0
         for key, elem in count.items():
-            two += (elem//2)
             if elem % 2 == 1:
                 one += 1
         if one > k:
