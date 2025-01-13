@@ -1,10 +1,10 @@
 class Solution:
     def minimumLength(self, s: str) -> int:
-        count = Counter(s)
+        mp = defaultdict(int)
         res = len(s)
-        for key, item in count.items():
-            while item > 2:
-                item -= 2
+        for c in s:
+            mp[c] += 1
+            if mp[c] >= 3:
+                mp[c] -= 2
                 res -= 2
-        # print(res)
         return res
