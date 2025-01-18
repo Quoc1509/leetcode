@@ -11,8 +11,7 @@ class Solution:
             
             if x == M-1 and y == N-1:
                 return cost
-            if cost > visit[x][y]:
-                continue
+
             for r, c in surround:
                 ro, co = x+r, y+c
                 change = 1
