@@ -18,7 +18,7 @@ class Solution:
             return check
 
         for i in range(len(graph)):
-            if i not in safe and i not in visit:
+            if i not in visit:
                 dfs(i)
                         
         return sorted(list(safe))
