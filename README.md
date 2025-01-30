@@ -1012,6 +1012,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0871-keys-and-rooms](https://github.com/Quoc1509/leetcode/tree/master/0871-keys-and-rooms) |
 | [0922-possible-bipartition](https://github.com/Quoc1509/leetcode/tree/master/0922-possible-bipartition) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Quoc1509/leetcode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [1101-parallel-courses](https://github.com/Quoc1509/leetcode/tree/master/1101-parallel-courses) |
 | [1177-tree-diameter](https://github.com/Quoc1509/leetcode/tree/master/1177-tree-diameter) |
 | [1325-path-with-maximum-probability](https://github.com/Quoc1509/leetcode/tree/master/1325-path-with-maximum-probability) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Quoc1509/leetcode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
@@ -1386,6 +1387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Quoc1509/leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0511-all-paths-from-source-lead-to-destination](https://github.com/Quoc1509/leetcode/tree/master/0511-all-paths-from-source-lead-to-destination) |
 | [0820-find-eventual-safe-states](https://github.com/Quoc1509/leetcode/tree/master/0820-find-eventual-safe-states) |
+| [1101-parallel-courses](https://github.com/Quoc1509/leetcode/tree/master/1101-parallel-courses) |
 | [1177-tree-diameter](https://github.com/Quoc1509/leetcode/tree/master/1177-tree-diameter) |
 | [1558-course-schedule-iv](https://github.com/Quoc1509/leetcode/tree/master/1558-course-schedule-iv) |
 ## Combinatorics
