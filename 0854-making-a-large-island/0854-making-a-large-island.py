@@ -3,15 +3,17 @@ class Solution:
         M, N = len(grid), len(grid[0])
         surround = [(1,0), (0,1), (-1,0), (0,-1)]
         visit = set()
+        count = [1]
         def bfs(r, c):
             q = deque()
             q.append((r, c))
             visit.add((r, c))
-            land = []
+            land = 0
             while q:
+                land += len(q)
                 for _ in range(len(q)):
                     x, y = q.popleft()
-                    land.append((x, y))
+                    grid[x][y] = count[0]
                     for ro, co in surround:
                         row, col = x+ro, y+co
                         if 0 <= row < M and 0 <= col < N and (row, col) not in visit and grid[row][col] != 0:
@@ -20,22 +22,17 @@ class Solution:
             return land
         size = defaultdict(int)
         size[0] = 0
-        lands = []
+        res = 0
         for i in range(M):
             for j in range(N):
                 if grid[i][j] == 1 and (i, j) not in visit:
                     temp = bfs(i, j)
-                    lands.append(temp)
-        res = 0
-        for i in range(len(lands)):
-            for a, b in lands[i]:
-                grid[a][b] = (i+1)
-                res = max(res, len(lands[i]))
-            size[i+1] = len(lands[i])
+                    size[count[0]] = temp
+                    count[0] += 1
+                    res = max(res, temp)
 
         for i in range(M):
-            for j in range(N):
-                
+            for j in range(N):        
                 temp = 1
                 s = set()
                 if grid[i][j] == 0:
@@ -45,5 +42,4 @@ class Solution:
                             temp += size[grid[row][col]]
                             s.add(grid[row][col])
                     res = max(res, temp)
-        # print(grid)
         return res
