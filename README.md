@@ -817,6 +817,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0310-minimum-height-trees](https://github.com/Quoc1509/leetcode/tree/master/0310-minimum-height-trees) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/Quoc1509/leetcode/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Quoc1509/leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0333-largest-bst-subtree](https://github.com/Quoc1509/leetcode/tree/master/0333-largest-bst-subtree) |
 | [0386-lexicographical-numbers](https://github.com/Quoc1509/leetcode/tree/master/0386-lexicographical-numbers) |
 | [0399-evaluate-division](https://github.com/Quoc1509/leetcode/tree/master/0399-evaluate-division) |
 | [0419-battleships-in-a-board](https://github.com/Quoc1509/leetcode/tree/master/0419-battleships-in-a-board) |
@@ -1052,6 +1053,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Quoc1509/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Quoc1509/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/Quoc1509/leetcode/tree/master/0314-binary-tree-vertical-order-traversal) |
+| [0333-largest-bst-subtree](https://github.com/Quoc1509/leetcode/tree/master/0333-largest-bst-subtree) |
 | [0437-path-sum-iii](https://github.com/Quoc1509/leetcode/tree/master/0437-path-sum-iii) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Quoc1509/leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0773-logical-or-of-two-binary-grids-represented-as-quad-trees](https://github.com/Quoc1509/leetcode/tree/master/0773-logical-or-of-two-binary-grids-represented-as-quad-trees) |
@@ -1109,6 +1111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/Quoc1509/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Quoc1509/leetcode/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Quoc1509/leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0333-largest-bst-subtree](https://github.com/Quoc1509/leetcode/tree/master/0333-largest-bst-subtree) |
 | [0354-russian-doll-envelopes](https://github.com/Quoc1509/leetcode/tree/master/0354-russian-doll-envelopes) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Quoc1509/leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/Quoc1509/leetcode/tree/master/0375-guess-number-higher-or-lower-ii) |
@@ -1261,6 +1264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Quoc1509/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Quoc1509/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/Quoc1509/leetcode/tree/master/0314-binary-tree-vertical-order-traversal) |
+| [0333-largest-bst-subtree](https://github.com/Quoc1509/leetcode/tree/master/0333-largest-bst-subtree) |
 | [0437-path-sum-iii](https://github.com/Quoc1509/leetcode/tree/master/0437-path-sum-iii) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Quoc1509/leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0988-flip-equivalent-binary-trees](https://github.com/Quoc1509/leetcode/tree/master/0988-flip-equivalent-binary-trees) |
@@ -1517,4 +1521,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Quoc1509/leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0333-largest-bst-subtree](https://github.com/Quoc1509/leetcode/tree/master/0333-largest-bst-subtree) |
 <!---LeetCode Topics End-->
