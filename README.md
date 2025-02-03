@@ -251,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Quoc1509/leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3334-apple-redistribution-into-boxes](https://github.com/Quoc1509/leetcode/tree/master/3334-apple-redistribution-into-boxes) |
 | [3363-most-frequent-ids](https://github.com/Quoc1509/leetcode/tree/master/3363-most-frequent-ids) |
+| [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Quoc1509/leetcode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Quoc1509/leetcode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3427-special-array-ii](https://github.com/Quoc1509/leetcode/tree/master/3427-special-array-ii) |
 | [3429-special-array-i](https://github.com/Quoc1509/leetcode/tree/master/3429-special-array-i) |
