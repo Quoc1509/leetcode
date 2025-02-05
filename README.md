@@ -322,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1741-sort-array-by-increasing-frequency](https://github.com/Quoc1509/leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Quoc1509/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1790-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/Quoc1509/leetcode/tree/master/1790-lowest-common-ancestor-of-a-binary-tree-iii) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Quoc1509/leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Quoc1509/leetcode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Quoc1509/leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2107-find-unique-binary-string](https://github.com/Quoc1509/leetcode/tree/master/2107-find-unique-binary-string) |
@@ -631,6 +632,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1818-maximum-score-from-removing-substrings](https://github.com/Quoc1509/leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1894-merge-strings-alternately](https://github.com/Quoc1509/leetcode/tree/master/1894-merge-strings-alternately) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Quoc1509/leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Quoc1509/leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Quoc1509/leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Quoc1509/leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2107-find-unique-binary-string](https://github.com/Quoc1509/leetcode/tree/master/2107-find-unique-binary-string) |
@@ -1337,6 +1339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Quoc1509/leetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1502-construct-k-palindrome-strings](https://github.com/Quoc1509/leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Quoc1509/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Quoc1509/leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Quoc1509/leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Quoc1509/leetcode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Quoc1509/leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
