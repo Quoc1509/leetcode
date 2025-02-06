@@ -32,6 +32,5 @@ class Solution:
             r = devide(arr[N:])
         
             return conquer(l, r)
-        
-        res = devide(nums)
-        return res
+
+        return devide(nums)
