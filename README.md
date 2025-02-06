@@ -204,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2411-spiral-matrix-iv](https://github.com/Quoc1509/leetcode/tree/master/2411-spiral-matrix-iv) |
 | [2419-subarray-with-elements-greater-than-varying-threshold](https://github.com/Quoc1509/leetcode/tree/master/2419-subarray-with-elements-greater-than-varying-threshold) |
 | [2423-minimum-deletions-to-make-array-divisible](https://github.com/Quoc1509/leetcode/tree/master/2423-minimum-deletions-to-make-array-divisible) |
+| [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Quoc1509/leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/Quoc1509/leetcode/tree/master/2445-reachable-nodes-with-restrictions) |
 | [2465-shifting-letters-ii](https://github.com/Quoc1509/leetcode/tree/master/2465-shifting-letters-ii) |
 | [2478-longest-nice-subarray](https://github.com/Quoc1509/leetcode/tree/master/2478-longest-nice-subarray) |
@@ -333,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2300-construct-string-with-repeat-limit](https://github.com/Quoc1509/leetcode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2348-count-number-of-texts](https://github.com/Quoc1509/leetcode/tree/master/2348-count-number-of-texts) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Quoc1509/leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Quoc1509/leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/Quoc1509/leetcode/tree/master/2445-reachable-nodes-with-restrictions) |
 | [2479-meeting-rooms-iii](https://github.com/Quoc1509/leetcode/tree/master/2479-meeting-rooms-iii) |
 | [2483-task-scheduler-ii](https://github.com/Quoc1509/leetcode/tree/master/2483-task-scheduler-ii) |
@@ -480,6 +482,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2179-most-beautiful-item-for-each-query](https://github.com/Quoc1509/leetcode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2367-minimum-lines-to-represent-a-line-chart](https://github.com/Quoc1509/leetcode/tree/master/2367-minimum-lines-to-represent-a-line-chart) |
 | [2423-minimum-deletions-to-make-array-divisible](https://github.com/Quoc1509/leetcode/tree/master/2423-minimum-deletions-to-make-array-divisible) |
+| [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Quoc1509/leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2479-meeting-rooms-iii](https://github.com/Quoc1509/leetcode/tree/master/2479-meeting-rooms-iii) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Quoc1509/leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2502-sort-the-people](https://github.com/Quoc1509/leetcode/tree/master/2502-sort-the-people) |
@@ -525,6 +528,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/Quoc1509/leetcode/tree/master/1929-maximum-value-at-a-given-index-in-a-bounded-array) |
 | [2084-maximum-number-of-weeks-for-which-you-can-work](https://github.com/Quoc1509/leetcode/tree/master/2084-maximum-number-of-weeks-for-which-you-can-work) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Quoc1509/leetcode/tree/master/2300-construct-string-with-repeat-limit) |
+| [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Quoc1509/leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Quoc1509/leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2509-minimize-xor](https://github.com/Quoc1509/leetcode/tree/master/2509-minimize-xor) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Quoc1509/leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
@@ -563,6 +567,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2300-construct-string-with-repeat-limit](https://github.com/Quoc1509/leetcode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Quoc1509/leetcode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2423-minimum-deletions-to-make-array-divisible](https://github.com/Quoc1509/leetcode/tree/master/2423-minimum-deletions-to-make-array-divisible) |
+| [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Quoc1509/leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2479-meeting-rooms-iii](https://github.com/Quoc1509/leetcode/tree/master/2479-meeting-rooms-iii) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Quoc1509/leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Quoc1509/leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
@@ -707,6 +712,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Quoc1509/leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/Quoc1509/leetcode/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2411-spiral-matrix-iv](https://github.com/Quoc1509/leetcode/tree/master/2411-spiral-matrix-iv) |
+| [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Quoc1509/leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2479-meeting-rooms-iii](https://github.com/Quoc1509/leetcode/tree/master/2479-meeting-rooms-iii) |
 | [2483-task-scheduler-ii](https://github.com/Quoc1509/leetcode/tree/master/2483-task-scheduler-ii) |
 | [2587-design-memory-allocator](https://github.com/Quoc1509/leetcode/tree/master/2587-design-memory-allocator) |
