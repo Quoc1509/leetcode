@@ -808,6 +808,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1372-check-if-it-is-a-good-array](https://github.com/Quoc1509/leetcode/tree/master/1372-check-if-it-is-a-good-array) |
 | [1543-simplified-fractions](https://github.com/Quoc1509/leetcode/tree/master/1543-simplified-fractions) |
 | [1571-allocate-mailboxes](https://github.com/Quoc1509/leetcode/tree/master/1571-allocate-mailboxes) |
+| [1585-the-kth-factor-of-n](https://github.com/Quoc1509/leetcode/tree/master/1585-the-kth-factor-of-n) |
 | [1642-water-bottles](https://github.com/Quoc1509/leetcode/tree/master/1642-water-bottles) |
 | [2155-find-missing-observations](https://github.com/Quoc1509/leetcode/tree/master/2155-find-missing-observations) |
 | [2206-detonate-the-maximum-bombs](https://github.com/Quoc1509/leetcode/tree/master/2206-detonate-the-maximum-bombs) |
@@ -1389,6 +1390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1307-ugly-number-iii](https://github.com/Quoc1509/leetcode/tree/master/1307-ugly-number-iii) |
 | [1372-check-if-it-is-a-good-array](https://github.com/Quoc1509/leetcode/tree/master/1372-check-if-it-is-a-good-array) |
 | [1543-simplified-fractions](https://github.com/Quoc1509/leetcode/tree/master/1543-simplified-fractions) |
+| [1585-the-kth-factor-of-n](https://github.com/Quoc1509/leetcode/tree/master/1585-the-kth-factor-of-n) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Quoc1509/leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2367-minimum-lines-to-represent-a-line-chart](https://github.com/Quoc1509/leetcode/tree/master/2367-minimum-lines-to-represent-a-line-chart) |
 | [2423-minimum-deletions-to-make-array-divisible](https://github.com/Quoc1509/leetcode/tree/master/2423-minimum-deletions-to-make-array-divisible) |
