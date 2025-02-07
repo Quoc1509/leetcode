@@ -11,5 +11,4 @@ class Solution:
             ball[a] = b
             color[b] += 1
             res.append(len(color))
-        # print(res)
         return res
