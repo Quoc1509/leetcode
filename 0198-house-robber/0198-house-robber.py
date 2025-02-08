@@ -16,9 +16,11 @@ class Solution:
         #     dp[i] = max(dp[i+1], dp[i+2]+nums[i])
         # return dp[0]
         @cache
-        def dfs(i):
+        def dfs(i, rob):
             if i >= len(nums):
                 return 0
-
-            return max(dfs(i+1), dfs(i+2)+nums[i])
-        return dfs(0)
+            if rob:
+                return dfs(i+1, False)
+            else:
+                return max(dfs(i+1, False), dfs(i+1, True)+nums[i])
+        return dfs(0, False)
