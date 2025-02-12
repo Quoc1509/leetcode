@@ -1,6 +1,5 @@
 class Solution:
     def maximumSum(self, nums: List[int]) -> int:
-        nums.sort()
         res = -1
         mp = defaultdict(int)
         for num in nums:
@@ -11,5 +10,5 @@ class Solution:
                 c //= 10
             if temp in mp:
                 res = max(res, num+mp[temp])
-            mp[temp] = num
+            mp[temp] = max(num, mp[temp])
         return res
