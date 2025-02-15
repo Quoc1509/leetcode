@@ -634,6 +634,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0482-license-key-formatting](https://github.com/Quoc1509/leetcode/tree/master/0482-license-key-formatting) |
 | [0539-minimum-time-difference](https://github.com/Quoc1509/leetcode/tree/master/0539-minimum-time-difference) |
 | [0588-design-in-memory-file-system](https://github.com/Quoc1509/leetcode/tree/master/0588-design-in-memory-file-system) |
+| [0606-construct-string-from-binary-tree](https://github.com/Quoc1509/leetcode/tree/master/0606-construct-string-from-binary-tree) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Quoc1509/leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0720-longest-word-in-dictionary](https://github.com/Quoc1509/leetcode/tree/master/0720-longest-word-in-dictionary) |
 | [0778-reorganize-string](https://github.com/Quoc1509/leetcode/tree/master/0778-reorganize-string) |
@@ -880,6 +881,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0437-path-sum-iii](https://github.com/Quoc1509/leetcode/tree/master/0437-path-sum-iii) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Quoc1509/leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0547-number-of-provinces](https://github.com/Quoc1509/leetcode/tree/master/0547-number-of-provinces) |
+| [0606-construct-string-from-binary-tree](https://github.com/Quoc1509/leetcode/tree/master/0606-construct-string-from-binary-tree) |
 | [0684-redundant-connection](https://github.com/Quoc1509/leetcode/tree/master/0684-redundant-connection) |
 | [0694-number-of-distinct-islands](https://github.com/Quoc1509/leetcode/tree/master/0694-number-of-distinct-islands) |
 | [0695-max-area-of-island](https://github.com/Quoc1509/leetcode/tree/master/0695-max-area-of-island) |
@@ -1124,6 +1126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0333-largest-bst-subtree](https://github.com/Quoc1509/leetcode/tree/master/0333-largest-bst-subtree) |
 | [0437-path-sum-iii](https://github.com/Quoc1509/leetcode/tree/master/0437-path-sum-iii) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Quoc1509/leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0606-construct-string-from-binary-tree](https://github.com/Quoc1509/leetcode/tree/master/0606-construct-string-from-binary-tree) |
 | [0773-logical-or-of-two-binary-grids-represented-as-quad-trees](https://github.com/Quoc1509/leetcode/tree/master/0773-logical-or-of-two-binary-grids-represented-as-quad-trees) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Quoc1509/leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0863-sum-of-distances-in-tree](https://github.com/Quoc1509/leetcode/tree/master/0863-sum-of-distances-in-tree) |
@@ -1345,6 +1348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0333-largest-bst-subtree](https://github.com/Quoc1509/leetcode/tree/master/0333-largest-bst-subtree) |
 | [0437-path-sum-iii](https://github.com/Quoc1509/leetcode/tree/master/0437-path-sum-iii) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Quoc1509/leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0606-construct-string-from-binary-tree](https://github.com/Quoc1509/leetcode/tree/master/0606-construct-string-from-binary-tree) |
 | [0988-flip-equivalent-binary-trees](https://github.com/Quoc1509/leetcode/tree/master/0988-flip-equivalent-binary-trees) |
 | [1157-insufficient-nodes-in-root-to-leaf-paths](https://github.com/Quoc1509/leetcode/tree/master/1157-insufficient-nodes-in-root-to-leaf-paths) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Quoc1509/leetcode/tree/master/1207-delete-nodes-and-return-forest) |
