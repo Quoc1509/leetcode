@@ -851,6 +851,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2610-closest-prime-numbers-in-range](https://github.com/Quoc1509/leetcode/tree/master/2610-closest-prime-numbers-in-range) |
 | [2645-pass-the-pillow](https://github.com/Quoc1509/leetcode/tree/master/2645-pass-the-pillow) |
 | [2716-prime-subtraction-operation](https://github.com/Quoc1509/leetcode/tree/master/2716-prime-subtraction-operation) |
+| [2802-find-the-punishment-number-of-an-integer](https://github.com/Quoc1509/leetcode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Quoc1509/leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Quoc1509/leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3607-minimum-division-operations-to-make-array-non-decreasing](https://github.com/Quoc1509/leetcode/tree/master/3607-minimum-division-operations-to-make-array-non-decreasing) |
@@ -1327,6 +1328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1900-closest-dessert-cost](https://github.com/Quoc1509/leetcode/tree/master/1900-closest-dessert-cost) |
 | [2107-find-unique-binary-string](https://github.com/Quoc1509/leetcode/tree/master/2107-find-unique-binary-string) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Quoc1509/leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2802-find-the-punishment-number-of-an-integer](https://github.com/Quoc1509/leetcode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Binary Tree
 |  |
 | ------- |
