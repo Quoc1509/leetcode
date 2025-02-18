@@ -674,6 +674,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Quoc1509/leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Quoc1509/leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2107-find-unique-binary-string](https://github.com/Quoc1509/leetcode/tree/master/2107-find-unique-binary-string) |
+| [2130-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/Quoc1509/leetcode/tree/master/2130-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Quoc1509/leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2165-plates-between-candles](https://github.com/Quoc1509/leetcode/tree/master/2165-plates-between-candles) |
 | [2232-adding-spaces-to-a-string](https://github.com/Quoc1509/leetcode/tree/master/2232-adding-spaces-to-a-string) |
@@ -773,6 +774,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1786-count-the-number-of-consistent-strings](https://github.com/Quoc1509/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1940-maximum-xor-for-each-query](https://github.com/Quoc1509/leetcode/tree/master/1940-maximum-xor-for-each-query) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Quoc1509/leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2130-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/Quoc1509/leetcode/tree/master/2130-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Quoc1509/leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2291-maximum-and-sum-of-array](https://github.com/Quoc1509/leetcode/tree/master/2291-maximum-and-sum-of-array) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Quoc1509/leetcode/tree/master/2323-minimum-bit-flips-to-convert-number) |
@@ -1233,6 +1235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Quoc1509/leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1814-jump-game-vi](https://github.com/Quoc1509/leetcode/tree/master/1814-jump-game-vi) |
 | [1900-closest-dessert-cost](https://github.com/Quoc1509/leetcode/tree/master/1900-closest-dessert-cost) |
+| [2130-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/Quoc1509/leetcode/tree/master/2130-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 | [2164-two-best-non-overlapping-events](https://github.com/Quoc1509/leetcode/tree/master/2164-two-best-non-overlapping-events) |
 | [2291-maximum-and-sum-of-array](https://github.com/Quoc1509/leetcode/tree/master/2291-maximum-and-sum-of-array) |
 | [2348-count-number-of-texts](https://github.com/Quoc1509/leetcode/tree/master/2348-count-number-of-texts) |
@@ -1342,6 +1345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Quoc1509/leetcode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1900-closest-dessert-cost](https://github.com/Quoc1509/leetcode/tree/master/1900-closest-dessert-cost) |
 | [2107-find-unique-binary-string](https://github.com/Quoc1509/leetcode/tree/master/2107-find-unique-binary-string) |
+| [2130-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/Quoc1509/leetcode/tree/master/2130-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Quoc1509/leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Quoc1509/leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Quoc1509/leetcode/tree/master/2802-find-the-punishment-number-of-an-integer) |
@@ -1569,6 +1573,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0473-matchsticks-to-square](https://github.com/Quoc1509/leetcode/tree/master/0473-matchsticks-to-square) |
 | [1067-campus-bikes-ii](https://github.com/Quoc1509/leetcode/tree/master/1067-campus-bikes-ii) |
+| [2130-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/Quoc1509/leetcode/tree/master/2130-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 | [2291-maximum-and-sum-of-array](https://github.com/Quoc1509/leetcode/tree/master/2291-maximum-and-sum-of-array) |
 ## Merge Sort
 |  |
