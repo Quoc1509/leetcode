@@ -1,17 +1,17 @@
 class Solution:
     def findDifferentBinaryString(self, nums: List[str]) -> str:
         temp = set(nums)
-        N = len(nums)
-        def dfs(s):
-            if len(s) == N:
-                if s not in temp:        
+        # res = ['']
+        @cache
+        def BT(s):
+            if len(s) == len(nums[0]):
+                if s not in nums:
                     return s
+            if len(s) > len(nums[0]):
                 return None
+            return BT(s+'1') or BT(s+'0')
 
-            a = dfs(s+'0')
-            if a: return a
-            b = dfs(s+'1')
-            if b: return b
-            return None
-        res = dfs('')
-        return res if res else ''
+        res = BT('')
+        print(res)
+        return res
+        
