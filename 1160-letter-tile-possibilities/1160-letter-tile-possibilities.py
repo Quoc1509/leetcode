@@ -5,13 +5,17 @@ class Solution:
 
         def backtrack(used):
             res[0] += 1 
-            for i in range(len(s)):
+            i = 0
+            while i < len(s):
                 if (1 << i) & used: 
+                    i += 1
                     continue
-                if i > 0 and s[i] == s[i - 1] and not ((1 << (i - 1)) & used):
-                    continue 
-                
-                backtrack(used | (1 << i)) 
+                backtrack(used|(1<<i)) 
+                j = i+1
+                while j < len(s) and s[i] == s[j]:
+                    j += 1
+                i = j
+               
         
         backtrack(0)
         return res[0] - 1 
