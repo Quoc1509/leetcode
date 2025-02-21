@@ -9,13 +9,13 @@ class FindElements:
     def __init__(self, root: Optional[TreeNode]):
         self.root = root
         self.exists = set()
-        self.FindElements(self.root, 0)
+        self.recorver(self.root, 0)
 
-    def FindElements(self, node, val):
+    def recorver(self, node, val):
         if not node: return
         self.exists.add(val)
-        self.FindElements(node.left, val*2+1)
-        self.FindElements(node.right, val*2+2)
+        self.recorver(node.left, val*2+1)
+        self.recorver(node.right, val*2+2)
 
 
     def find(self, target: int) -> bool:
