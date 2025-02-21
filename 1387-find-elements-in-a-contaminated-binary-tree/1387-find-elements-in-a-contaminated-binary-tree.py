@@ -7,9 +7,8 @@
 class FindElements:
 
     def __init__(self, root: Optional[TreeNode]):
-        self.root = root
         self.exists = set()
-        self.recorver(self.root, 0)
+        self.recorver(root, 0)
 
     def recorver(self, node, val):
         if not node: return
