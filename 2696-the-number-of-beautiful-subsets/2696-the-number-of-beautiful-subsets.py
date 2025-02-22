@@ -20,15 +20,15 @@ class Solution:
         #     res *= dp0 + dp1
         # return res - 1
         res = [0]
-    
-        def BT(idx, visit):
+        visit = defaultdict(int)
+        def BT(idx):
             res[0] += 1
             for i in range(idx, len(nums)):
                 if visit[nums[i]-k] > 0:
                     continue
                 visit[nums[i]] += 1
-                BT(i+1, visit)
+                BT(i+1)
                 visit[nums[i]] -= 1
                 
-        BT(0, defaultdict(int))
+        BT(0)
         return res[0]-1
