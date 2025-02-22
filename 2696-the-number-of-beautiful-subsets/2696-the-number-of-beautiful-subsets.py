@@ -20,7 +20,7 @@ class Solution:
         #     res *= dp0 + dp1
         # return res - 1
         res = [0]
-        visit = defaultdict(int)
+    
         def BT(idx, visit):
             res[0] += 1
             for i in range(idx, len(nums)):
