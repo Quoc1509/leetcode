@@ -238,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2691-count-vowel-strings-in-ranges](https://github.com/Quoc1509/leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Quoc1509/leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Quoc1509/leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
+| [2696-the-number-of-beautiful-subsets](https://github.com/Quoc1509/leetcode/tree/master/2696-the-number-of-beautiful-subsets) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Quoc1509/leetcode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2716-prime-subtraction-operation](https://github.com/Quoc1509/leetcode/tree/master/2716-prime-subtraction-operation) |
 | [2718-minimum-operations-to-make-all-array-elements-equal](https://github.com/Quoc1509/leetcode/tree/master/2718-minimum-operations-to-make-all-array-elements-equal) |
@@ -366,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2677-cousins-in-binary-tree-ii](https://github.com/Quoc1509/leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Quoc1509/leetcode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Quoc1509/leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
+| [2696-the-number-of-beautiful-subsets](https://github.com/Quoc1509/leetcode/tree/master/2696-the-number-of-beautiful-subsets) |
 | [2721-sum-of-distances](https://github.com/Quoc1509/leetcode/tree/master/2721-sum-of-distances) |
 | [2755-extra-characters-in-a-string](https://github.com/Quoc1509/leetcode/tree/master/2755-extra-characters-in-a-string) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Quoc1509/leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
@@ -513,6 +515,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Quoc1509/leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2651-count-ways-to-group-overlapping-ranges](https://github.com/Quoc1509/leetcode/tree/master/2651-count-ways-to-group-overlapping-ranges) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Quoc1509/leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
+| [2696-the-number-of-beautiful-subsets](https://github.com/Quoc1509/leetcode/tree/master/2696-the-number-of-beautiful-subsets) |
 | [2718-minimum-operations-to-make-all-array-elements-equal](https://github.com/Quoc1509/leetcode/tree/master/2718-minimum-operations-to-make-all-array-elements-equal) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Quoc1509/leetcode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Quoc1509/leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
@@ -861,6 +864,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2609-distinct-prime-factors-of-product-of-array](https://github.com/Quoc1509/leetcode/tree/master/2609-distinct-prime-factors-of-product-of-array) |
 | [2610-closest-prime-numbers-in-range](https://github.com/Quoc1509/leetcode/tree/master/2610-closest-prime-numbers-in-range) |
 | [2645-pass-the-pillow](https://github.com/Quoc1509/leetcode/tree/master/2645-pass-the-pillow) |
+| [2696-the-number-of-beautiful-subsets](https://github.com/Quoc1509/leetcode/tree/master/2696-the-number-of-beautiful-subsets) |
 | [2716-prime-subtraction-operation](https://github.com/Quoc1509/leetcode/tree/master/2716-prime-subtraction-operation) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Quoc1509/leetcode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Quoc1509/leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
@@ -1248,6 +1252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2562-count-ways-to-build-good-strings](https://github.com/Quoc1509/leetcode/tree/master/2562-count-ways-to-build-good-strings) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Quoc1509/leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2652-count-number-of-possible-root-nodes](https://github.com/Quoc1509/leetcode/tree/master/2652-count-number-of-possible-root-nodes) |
+| [2696-the-number-of-beautiful-subsets](https://github.com/Quoc1509/leetcode/tree/master/2696-the-number-of-beautiful-subsets) |
 | [2755-extra-characters-in-a-string](https://github.com/Quoc1509/leetcode/tree/master/2755-extra-characters-in-a-string) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Quoc1509/leetcode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3178-minimum-increment-operations-to-make-array-beautiful](https://github.com/Quoc1509/leetcode/tree/master/3178-minimum-increment-operations-to-make-array-beautiful) |
@@ -1354,6 +1359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2130-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/Quoc1509/leetcode/tree/master/2130-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Quoc1509/leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Quoc1509/leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
+| [2696-the-number-of-beautiful-subsets](https://github.com/Quoc1509/leetcode/tree/master/2696-the-number-of-beautiful-subsets) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Quoc1509/leetcode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Binary Tree
 |  |
@@ -1520,6 +1526,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0062-unique-paths](https://github.com/Quoc1509/leetcode/tree/master/0062-unique-paths) |
 | [1307-ugly-number-iii](https://github.com/Quoc1509/leetcode/tree/master/1307-ugly-number-iii) |
+| [2696-the-number-of-beautiful-subsets](https://github.com/Quoc1509/leetcode/tree/master/2696-the-number-of-beautiful-subsets) |
 ## Brainteaser
 |  |
 | ------- |
