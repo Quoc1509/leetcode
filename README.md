@@ -223,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Quoc1509/leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Quoc1509/leetcode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Quoc1509/leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2564-most-profitable-path-in-a-tree](https://github.com/Quoc1509/leetcode/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Quoc1509/leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2587-design-memory-allocator](https://github.com/Quoc1509/leetcode/tree/master/2587-design-memory-allocator) |
 | [2609-distinct-prime-factors-of-product-of-array](https://github.com/Quoc1509/leetcode/tree/master/2609-distinct-prime-factors-of-product-of-array) |
@@ -934,6 +935,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Quoc1509/leetcode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Quoc1509/leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Quoc1509/leetcode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
+| [2564-most-profitable-path-in-a-tree](https://github.com/Quoc1509/leetcode/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2652-count-number-of-possible-root-nodes](https://github.com/Quoc1509/leetcode/tree/master/2652-count-number-of-possible-root-nodes) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Quoc1509/leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Quoc1509/leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
@@ -1000,6 +1002,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Quoc1509/leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Quoc1509/leetcode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/Quoc1509/leetcode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
+| [2564-most-profitable-path-in-a-tree](https://github.com/Quoc1509/leetcode/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Quoc1509/leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Quoc1509/leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Quoc1509/leetcode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
@@ -1118,6 +1121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/Quoc1509/leetcode/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/Quoc1509/leetcode/tree/master/2445-reachable-nodes-with-restrictions) |
 | [2505-number-of-good-paths](https://github.com/Quoc1509/leetcode/tree/master/2505-number-of-good-paths) |
+| [2564-most-profitable-path-in-a-tree](https://github.com/Quoc1509/leetcode/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2686-minimum-cost-of-a-path-with-special-roads](https://github.com/Quoc1509/leetcode/tree/master/2686-minimum-cost-of-a-path-with-special-roads) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Quoc1509/leetcode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2793-count-the-number-of-complete-components](https://github.com/Quoc1509/leetcode/tree/master/2793-count-the-number-of-complete-components) |
@@ -1166,6 +1170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2505-number-of-good-paths](https://github.com/Quoc1509/leetcode/tree/master/2505-number-of-good-paths) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Quoc1509/leetcode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/Quoc1509/leetcode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
+| [2564-most-profitable-path-in-a-tree](https://github.com/Quoc1509/leetcode/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Quoc1509/leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2652-count-number-of-possible-root-nodes](https://github.com/Quoc1509/leetcode/tree/master/2652-count-number-of-possible-root-nodes) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Quoc1509/leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
