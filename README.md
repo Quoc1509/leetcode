@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-delete-nodes-and-return-forest](https://github.com/Quoc1509/leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1210-mean-of-array-after-removing-some-elements](https://github.com/Quoc1509/leetcode/tree/master/1210-mean-of-array-after-removing-some-elements) |
 | [1286-constrained-subsequence-sum](https://github.com/Quoc1509/leetcode/tree/master/1286-constrained-subsequence-sum) |
+| [1288-maximum-subarray-sum-with-one-deletion](https://github.com/Quoc1509/leetcode/tree/master/1288-maximum-subarray-sum-with-one-deletion) |
 | [1305-number-of-visible-people-in-a-queue](https://github.com/Quoc1509/leetcode/tree/master/1305-number-of-visible-people-in-a-queue) |
 | [1325-path-with-maximum-probability](https://github.com/Quoc1509/leetcode/tree/master/1325-path-with-maximum-probability) |
 | [1333-sort-the-jumbled-numbers](https://github.com/Quoc1509/leetcode/tree/master/1333-sort-the-jumbled-numbers) |
@@ -1255,6 +1256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1129-longest-string-chain](https://github.com/Quoc1509/leetcode/tree/master/1129-longest-string-chain) |
 | [1170-shortest-common-supersequence](https://github.com/Quoc1509/leetcode/tree/master/1170-shortest-common-supersequence) |
 | [1286-constrained-subsequence-sum](https://github.com/Quoc1509/leetcode/tree/master/1286-constrained-subsequence-sum) |
+| [1288-maximum-subarray-sum-with-one-deletion](https://github.com/Quoc1509/leetcode/tree/master/1288-maximum-subarray-sum-with-one-deletion) |
 | [1296-kth-ancestor-of-a-tree-node](https://github.com/Quoc1509/leetcode/tree/master/1296-kth-ancestor-of-a-tree-node) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/Quoc1509/leetcode/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Quoc1509/leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
