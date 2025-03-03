@@ -203,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2206-detonate-the-maximum-bombs](https://github.com/Quoc1509/leetcode/tree/master/2206-detonate-the-maximum-bombs) |
 | [2232-adding-spaces-to-a-string](https://github.com/Quoc1509/leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Quoc1509/leetcode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/Quoc1509/leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2291-maximum-and-sum-of-array](https://github.com/Quoc1509/leetcode/tree/master/2291-maximum-and-sum-of-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Quoc1509/leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2294-minimum-time-to-complete-trips](https://github.com/Quoc1509/leetcode/tree/master/2294-minimum-time-to-complete-trips) |
@@ -420,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1894-merge-strings-alternately](https://github.com/Quoc1509/leetcode/tree/master/1894-merge-strings-alternately) |
 | [1972-rotating-the-box](https://github.com/Quoc1509/leetcode/tree/master/1972-rotating-the-box) |
 | [2232-adding-spaces-to-a-string](https://github.com/Quoc1509/leetcode/tree/master/2232-adding-spaces-to-a-string) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/Quoc1509/leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/Quoc1509/leetcode/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Quoc1509/leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2551-apply-operations-to-an-array](https://github.com/Quoc1509/leetcode/tree/master/2551-apply-operations-to-an-array) |
@@ -767,6 +769,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2132-convert-1d-array-into-2d-array](https://github.com/Quoc1509/leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/Quoc1509/leetcode/tree/master/2155-find-missing-observations) |
 | [2232-adding-spaces-to-a-string](https://github.com/Quoc1509/leetcode/tree/master/2232-adding-spaces-to-a-string) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/Quoc1509/leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/Quoc1509/leetcode/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Quoc1509/leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/Quoc1509/leetcode/tree/master/2408-number-of-people-aware-of-a-secret) |
