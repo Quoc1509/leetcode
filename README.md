@@ -889,6 +889,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2609-distinct-prime-factors-of-product-of-array](https://github.com/Quoc1509/leetcode/tree/master/2609-distinct-prime-factors-of-product-of-array) |
 | [2610-closest-prime-numbers-in-range](https://github.com/Quoc1509/leetcode/tree/master/2610-closest-prime-numbers-in-range) |
 | [2645-pass-the-pillow](https://github.com/Quoc1509/leetcode/tree/master/2645-pass-the-pillow) |
+| [2649-count-total-number-of-colored-cells](https://github.com/Quoc1509/leetcode/tree/master/2649-count-total-number-of-colored-cells) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/Quoc1509/leetcode/tree/master/2696-the-number-of-beautiful-subsets) |
 | [2716-prime-subtraction-operation](https://github.com/Quoc1509/leetcode/tree/master/2716-prime-subtraction-operation) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Quoc1509/leetcode/tree/master/2802-find-the-punishment-number-of-an-integer) |
