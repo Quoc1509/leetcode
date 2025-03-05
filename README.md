@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0221-maximal-square](https://github.com/Quoc1509/leetcode/tree/master/0221-maximal-square) |
 | [0239-sliding-window-maximum](https://github.com/Quoc1509/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0253-meeting-rooms-ii](https://github.com/Quoc1509/leetcode/tree/master/0253-meeting-rooms-ii) |
+| [0256-paint-house](https://github.com/Quoc1509/leetcode/tree/master/0256-paint-house) |
 | [0260-single-number-iii](https://github.com/Quoc1509/leetcode/tree/master/0260-single-number-iii) |
 | [0283-move-zeroes](https://github.com/Quoc1509/leetcode/tree/master/0283-move-zeroes) |
 | [0286-walls-and-gates](https://github.com/Quoc1509/leetcode/tree/master/0286-walls-and-gates) |
@@ -1240,6 +1241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/Quoc1509/leetcode/tree/master/0213-house-robber-ii) |
 | [0221-maximal-square](https://github.com/Quoc1509/leetcode/tree/master/0221-maximal-square) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Quoc1509/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
+| [0256-paint-house](https://github.com/Quoc1509/leetcode/tree/master/0256-paint-house) |
 | [0300-longest-increasing-subsequence](https://github.com/Quoc1509/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Quoc1509/leetcode/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Quoc1509/leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
