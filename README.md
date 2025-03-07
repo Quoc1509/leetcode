@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1741-sort-array-by-increasing-frequency](https://github.com/Quoc1509/leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1755-defuse-the-bomb](https://github.com/Quoc1509/leetcode/tree/master/1755-defuse-the-bomb) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Quoc1509/leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
+| [1768-design-an-expression-tree-with-evaluate-function](https://github.com/Quoc1509/leetcode/tree/master/1768-design-an-expression-tree-with-evaluate-function) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Quoc1509/leetcode/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Quoc1509/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1803-average-waiting-time](https://github.com/Quoc1509/leetcode/tree/master/1803-average-waiting-time) |
@@ -895,6 +896,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1585-the-kth-factor-of-n](https://github.com/Quoc1509/leetcode/tree/master/1585-the-kth-factor-of-n) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Quoc1509/leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1642-water-bottles](https://github.com/Quoc1509/leetcode/tree/master/1642-water-bottles) |
+| [1768-design-an-expression-tree-with-evaluate-function](https://github.com/Quoc1509/leetcode/tree/master/1768-design-an-expression-tree-with-evaluate-function) |
 | [2155-find-missing-observations](https://github.com/Quoc1509/leetcode/tree/master/2155-find-missing-observations) |
 | [2206-detonate-the-maximum-bombs](https://github.com/Quoc1509/leetcode/tree/master/2206-detonate-the-maximum-bombs) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Quoc1509/leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
@@ -1209,6 +1211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1492-time-needed-to-inform-all-employees](https://github.com/Quoc1509/leetcode/tree/master/1492-time-needed-to-inform-all-employees) |
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/Quoc1509/leetcode/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/Quoc1509/leetcode/tree/master/1653-number-of-good-leaf-nodes-pairs) |
+| [1768-design-an-expression-tree-with-evaluate-function](https://github.com/Quoc1509/leetcode/tree/master/1768-design-an-expression-tree-with-evaluate-function) |
 | [1790-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/Quoc1509/leetcode/tree/master/1790-lowest-common-ancestor-of-a-binary-tree-iii) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/Quoc1509/leetcode/tree/master/2445-reachable-nodes-with-restrictions) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Quoc1509/leetcode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
@@ -1351,6 +1354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Quoc1509/leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Quoc1509/leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1720-crawler-log-folder](https://github.com/Quoc1509/leetcode/tree/master/1720-crawler-log-folder) |
+| [1768-design-an-expression-tree-with-evaluate-function](https://github.com/Quoc1509/leetcode/tree/master/1768-design-an-expression-tree-with-evaluate-function) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Quoc1509/leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1985-maximum-subarray-min-product](https://github.com/Quoc1509/leetcode/tree/master/1985-maximum-subarray-min-product) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Quoc1509/leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
@@ -1449,6 +1453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Quoc1509/leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/Quoc1509/leetcode/tree/master/1484-linked-list-in-binary-tree) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/Quoc1509/leetcode/tree/master/1653-number-of-good-leaf-nodes-pairs) |
+| [1768-design-an-expression-tree-with-evaluate-function](https://github.com/Quoc1509/leetcode/tree/master/1768-design-an-expression-tree-with-evaluate-function) |
 | [1790-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/Quoc1509/leetcode/tree/master/1790-lowest-common-ancestor-of-a-binary-tree-iii) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Quoc1509/leetcode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Quoc1509/leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -1635,6 +1640,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Quoc1509/leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Quoc1509/leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Quoc1509/leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
+| [1768-design-an-expression-tree-with-evaluate-function](https://github.com/Quoc1509/leetcode/tree/master/1768-design-an-expression-tree-with-evaluate-function) |
 | [2434-design-a-number-container-system](https://github.com/Quoc1509/leetcode/tree/master/2434-design-a-number-container-system) |
 | [2587-design-memory-allocator](https://github.com/Quoc1509/leetcode/tree/master/2587-design-memory-allocator) |
 ## Randomized
