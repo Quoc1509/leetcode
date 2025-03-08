@@ -6,14 +6,15 @@ class Solution:
         # dpE = [0] * (len(nums)+1)
         dpO = 0
         dpE = 0
+        mod = (10**9+7)
         for i in range(len(nums)):
             if nums[i] % 2 == 1:
                 newDpO = dpE + dpO + 1
                 newDpE = dpE + dpO
             else:
-                newDpO = dpO + dpE + 1 if dpO > 0 else 0
+                newDpO = 2*dpO
                 newDpE = 2*dpE + 1
-            dpO = newDpO
-            dpE = newDpE
+            dpO = newDpO % mod
+            dpE = newDpE % mod
         # print(dpO, dpE)
-        return dpO % (10**9+7)
+        return dpO 
