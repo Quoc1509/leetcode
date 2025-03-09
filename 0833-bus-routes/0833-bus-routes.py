@@ -9,10 +9,12 @@ class Solution:
         # print(graph)
         
         q = deque() 
-        visit = set()
+        bus_visit = set()
+        stop_visit = set()
+        stop_visit.add(source)
         for bus in graph[source]:
             q.append(bus)
-            visit.add(bus)
+            bus_visit.add(bus)
         res = 1
         while q:
             for _ in range(len(q)):
@@ -20,10 +22,13 @@ class Solution:
                 for next_stop in routes[bus]:
                     if next_stop == target:
                         return res
+                    if next_stop in stop_visit:
+                        continue
+                    stop_visit.add(next_stop)
                     for next_bus in graph[next_stop]:
-                        if next_bus in visit:
+                        if next_bus in bus_visit:
                             continue
                         q.append(next_bus)
-                        visit.add(next_bus)
+                        bus_visit.add(next_bus)
             res += 1
         return -1
