@@ -8,6 +8,5 @@ class Solution:
                 res.add(temp)
             else:
                 visit.add(temp)
-        print(res, visit)
         return list(res)
         
