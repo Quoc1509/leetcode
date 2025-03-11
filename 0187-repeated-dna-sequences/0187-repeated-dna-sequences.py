@@ -2,11 +2,16 @@ class Solution:
     def findRepeatedDnaSequences(self, s: str) -> List[str]:
         visit = set()
         res = set()
-        for i in range(len(s)-9):
-            temp = s[i:i+10]
-            if temp in visit:
-                res.add(temp)
-            else:
-                visit.add(temp)
+        temp = deque()
+        for r in range(len(s)):
+            temp.append(s[r])
+            if len(temp) == 10:
+                st = ''.join(temp)
+                if st in visit:
+                    res.add(st)
+                else:
+                    visit.add(st)
+                temp.popleft()
+        
         return list(res)
         
