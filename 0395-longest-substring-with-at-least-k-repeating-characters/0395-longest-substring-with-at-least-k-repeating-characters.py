@@ -2,7 +2,7 @@ class Solution:
     def longestSubstring(self, s: str, k: int) -> int: 
         temp  = set(s)
         res = 0
-        for i in range(len(temp)+1):
+        for i in range(1, len(temp)+1):
             mp = defaultdict(int)
             l = 0
             for r in range(len(s)):
