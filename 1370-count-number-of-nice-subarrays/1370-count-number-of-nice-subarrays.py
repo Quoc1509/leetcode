@@ -1,24 +1,18 @@
 class Solution:
     def numberOfSubarrays(self, nums: List[int], k: int) -> int:
-        l, count = 0, 0
-        tmp = defaultdict(int)
-        save = deque()
-        def add(index):
-            if len(save) < k:
-                save.append(index)
-            else:
-                save.popleft()
-                save.append(index)
-        res = 0
+        count = 0
+        l, res = 0, 0
+        index = deque()
         for r in range(len(nums)):
-            if nums[r] % 2 == 1:
+            if nums[r] % 2 != 0:
                 count += 1
-                add(r)
+                if len(index) >= k:
+                    index.popleft()
+                index.append(r)
             while count > k:
-                if nums[l] % 2 == 1:
+                if nums[l] %2 != 0:
                     count -= 1
                 l += 1
             if count == k:
-                res += (save[0] - l + 1) 
+                res += (index[0]-l+1)
         return res
-
