@@ -240,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2502-sort-the-people](https://github.com/Quoc1509/leetcode/tree/master/2502-sort-the-people) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Quoc1509/leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2505-number-of-good-paths](https://github.com/Quoc1509/leetcode/tree/master/2505-number-of-good-paths) |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/Quoc1509/leetcode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Quoc1509/leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Quoc1509/leetcode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2551-apply-operations-to-an-array](https://github.com/Quoc1509/leetcode/tree/master/2551-apply-operations-to-an-array) |
@@ -1456,6 +1457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Quoc1509/leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Quoc1509/leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2478-longest-nice-subarray](https://github.com/Quoc1509/leetcode/tree/master/2478-longest-nice-subarray) |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/Quoc1509/leetcode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Quoc1509/leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/Quoc1509/leetcode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/Quoc1509/leetcode/tree/master/2618-maximize-the-minimum-powered-city) |
@@ -1762,6 +1764,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1622-max-value-of-equation](https://github.com/Quoc1509/leetcode/tree/master/1622-max-value-of-equation) |
 | [1814-jump-game-vi](https://github.com/Quoc1509/leetcode/tree/master/1814-jump-game-vi) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/Quoc1509/leetcode/tree/master/2408-number-of-people-aware-of-a-secret) |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/Quoc1509/leetcode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/Quoc1509/leetcode/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2868-continuous-subarrays](https://github.com/Quoc1509/leetcode/tree/master/2868-continuous-subarrays) |
 ## Monotonic Queue
@@ -1771,6 +1774,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1286-constrained-subsequence-sum](https://github.com/Quoc1509/leetcode/tree/master/1286-constrained-subsequence-sum) |
 | [1622-max-value-of-equation](https://github.com/Quoc1509/leetcode/tree/master/1622-max-value-of-equation) |
 | [1814-jump-game-vi](https://github.com/Quoc1509/leetcode/tree/master/1814-jump-game-vi) |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/Quoc1509/leetcode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2868-continuous-subarrays](https://github.com/Quoc1509/leetcode/tree/master/2868-continuous-subarrays) |
 ## Database
 |  |
