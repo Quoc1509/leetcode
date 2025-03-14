@@ -5,7 +5,6 @@ class Solution:
         for r in range(len(s)):
             if s[r] == '1':
                 count += 1
-                print(count)
             while count >= k:
                 if not res:
                     res = s[l:r+1]
