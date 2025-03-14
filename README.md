@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1305-number-of-visible-people-in-a-queue](https://github.com/Quoc1509/leetcode/tree/master/1305-number-of-visible-people-in-a-queue) |
 | [1325-path-with-maximum-probability](https://github.com/Quoc1509/leetcode/tree/master/1325-path-with-maximum-probability) |
 | [1333-sort-the-jumbled-numbers](https://github.com/Quoc1509/leetcode/tree/master/1333-sort-the-jumbled-numbers) |
+| [1335-maximum-candies-allocated-to-k-children](https://github.com/Quoc1509/leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Quoc1509/leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/Quoc1509/leetcode/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1364-tuple-with-same-product](https://github.com/Quoc1509/leetcode/tree/master/1364-tuple-with-same-product) |
@@ -479,6 +480,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1296-kth-ancestor-of-a-tree-node](https://github.com/Quoc1509/leetcode/tree/master/1296-kth-ancestor-of-a-tree-node) |
 | [1307-ugly-number-iii](https://github.com/Quoc1509/leetcode/tree/master/1307-ugly-number-iii) |
 | [1321-get-equal-substrings-within-budget](https://github.com/Quoc1509/leetcode/tree/master/1321-get-equal-substrings-within-budget) |
+| [1335-maximum-candies-allocated-to-k-children](https://github.com/Quoc1509/leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/Quoc1509/leetcode/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1397-search-suggestions-system](https://github.com/Quoc1509/leetcode/tree/master/1397-search-suggestions-system) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Quoc1509/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
