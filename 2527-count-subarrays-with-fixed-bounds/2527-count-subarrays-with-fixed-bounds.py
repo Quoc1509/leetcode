@@ -31,7 +31,7 @@ class Solution:
                                 del mp[nums[l]]
                         l += 1
                 if l > 0:
-                    if maxK in mp and nums[l-1] == minK or minK in mp and nums[l-1] == maxK:
+                    if (maxK in mp and nums[l-1] == minK) or (minK in mp and nums[l-1] == maxK):
                         res += (l-pre)
             return res
         if minK == maxK:
