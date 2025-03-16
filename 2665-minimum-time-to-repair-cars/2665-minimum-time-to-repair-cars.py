@@ -6,7 +6,9 @@ class Solution:
             count = 0
             for num in ranks:
                 count += int(sqrt(mid/num))
-            return count >= cars
+                if count >= cars:
+                    return True
+            return False
 
         while l <= r:
             m = (l+r)//2
