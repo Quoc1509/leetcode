@@ -1,13 +1,12 @@
 class Solution:
     def repairCars(self, ranks: List[int], cars: int) -> int:
-        
-        l, r = min(ranks), cars*cars*max(ranks)
+        l, r = 0, max(ranks)*cars*cars
 
-        def check(mins):
-            res = 0
-            for i in ranks:
-                res += floor(sqrt(mins / i))
-            return res >= cars
+        def check(mid):
+            count = 0
+            for num in ranks:
+                count += int(sqrt(mid/num))
+            return count >= cars
 
         while l <= r:
             m = (l+r)//2
