@@ -10,14 +10,13 @@ class Solution:
                 for i in range(len(arr)):
                     if L == 0:
                         dp[L][i] = 1
-                        res += arr[i]
                     else:
-                        
                         if i >= L:
                             dp[L][i] = pre
-                            res += dp[L][i] * arr[i]
+                            
                         pre += dp[L-1][i]
-            
+                    res = (res + dp[L][i] * arr[i]) %N
+                    
             return res % N
 
         return (CountSum(nums) + CountSum(nums[::-1]))%N
