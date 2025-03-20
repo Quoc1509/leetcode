@@ -193,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/Quoc1509/leetcode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Quoc1509/leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1900-closest-dessert-cost](https://github.com/Quoc1509/leetcode/tree/master/1900-closest-dessert-cost) |
+| [1909-buildings-with-an-ocean-view](https://github.com/Quoc1509/leetcode/tree/master/1909-buildings-with-an-ocean-view) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/Quoc1509/leetcode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1940-maximum-xor-for-each-query](https://github.com/Quoc1509/leetcode/tree/master/1940-maximum-xor-for-each-query) |
 | [1972-rotating-the-box](https://github.com/Quoc1509/leetcode/tree/master/1972-rotating-the-box) |
@@ -1444,6 +1445,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1720-crawler-log-folder](https://github.com/Quoc1509/leetcode/tree/master/1720-crawler-log-folder) |
 | [1768-design-an-expression-tree-with-evaluate-function](https://github.com/Quoc1509/leetcode/tree/master/1768-design-an-expression-tree-with-evaluate-function) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Quoc1509/leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
+| [1909-buildings-with-an-ocean-view](https://github.com/Quoc1509/leetcode/tree/master/1909-buildings-with-an-ocean-view) |
 | [1985-maximum-subarray-min-product](https://github.com/Quoc1509/leetcode/tree/master/1985-maximum-subarray-min-product) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Quoc1509/leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Quoc1509/leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
@@ -1646,6 +1648,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1628-count-submatrices-with-all-ones](https://github.com/Quoc1509/leetcode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Quoc1509/leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Quoc1509/leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
+| [1909-buildings-with-an-ocean-view](https://github.com/Quoc1509/leetcode/tree/master/1909-buildings-with-an-ocean-view) |
 | [1985-maximum-subarray-min-product](https://github.com/Quoc1509/leetcode/tree/master/1985-maximum-subarray-min-product) |
 | [2419-subarray-with-elements-greater-than-varying-threshold](https://github.com/Quoc1509/leetcode/tree/master/2419-subarray-with-elements-greater-than-varying-threshold) |
 ## Number Theory
