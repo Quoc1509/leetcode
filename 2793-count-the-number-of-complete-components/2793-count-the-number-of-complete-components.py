@@ -1,31 +1,28 @@
 class Solution:
     def countCompleteComponents(self, n: int, edges: List[List[int]]) -> int:
+        
         graph = defaultdict(list)
         for a, b in edges:
             graph[a].append(b)
             graph[b].append(a)
-        visited = set()
+        visit = set()
 
-        def bfs(node):
-            tmp = set()
-            count = 1
-            q = deque([node])
-            visited.add(node)
-            while q:
-                for _ in range(len(q)):
-                    n = q.popleft()
-                    tmp.add(len(graph[n]))
-                    
-                    for j in graph[n]:
-                        if j not in visited:
-                            visited.add(j)
-                            count += 1
-                            q.append(j)
-            return len(tmp) == 1 and list(tmp)[0] == count -1
+        def dfs(node):
+            if node in visit:
+                return 0, 0
+            v, e = 0, 0
+            visit.add(node)
+            for n in graph[node]:
+                ver, edg = dfs(n)
+                v += ver
+                e += edg
+            return v+1, e+len(graph[node])
+
         res = 0
         for i in range(n):
-            if i not in visited:
-                if bfs(i):
+            if i not in visit:
+                v, e = dfs(i)
+            
+                if v*(v-1) == e:
                     res += 1
         return res
-        
