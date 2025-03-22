@@ -1225,6 +1225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2445-reachable-nodes-with-restrictions](https://github.com/Quoc1509/leetcode/tree/master/2445-reachable-nodes-with-restrictions) |
 | [2505-number-of-good-paths](https://github.com/Quoc1509/leetcode/tree/master/2505-number-of-good-paths) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Quoc1509/leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
+| [2793-count-the-number-of-complete-components](https://github.com/Quoc1509/leetcode/tree/master/2793-count-the-number-of-complete-components) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/Quoc1509/leetcode/tree/master/2914-find-the-safest-path-in-a-grid) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Quoc1509/leetcode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 ## Graph
