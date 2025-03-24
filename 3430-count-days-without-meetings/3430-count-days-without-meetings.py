@@ -6,4 +6,4 @@ class Solution:
         for start, end in meetings:
             res += max(start-endTime-1, 0)
             endTime = max(endTime, end)
-        return res+max(days-endTime, 0)
+        return res+(days-endTime)
