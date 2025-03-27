@@ -5,38 +5,34 @@
 #         self.next = next
 class Solution:
     def addTwoNumbers(self, l1: Optional[ListNode], l2: Optional[ListNode]) -> Optional[ListNode]:
+        cur1, cur2 = l1, l2
         extra = 0
-        cur1 = l1
-        cur2 = l2
-        cur = head = None
+        cur = head = ListNode(inf, None)
 
-        def addMore(h, c, temp, e):
-            x = e
-            while temp:
-                n = (temp.val+x)%10
-                x = (temp.val+x)//10
-                c.next = ListNode(n, None)
-                c = c.next
-                temp = temp.next
-            if x != 0:
-                c.next = ListNode(x, None)
-            return h
+        def addMore(node2, n):
+            nonlocal cur
+            new_extra = n
+            while node2:
+                num = (node2.val+new_extra) % 10
+                new_extra = (node2.val+new_extra) // 10
+                cur.next = ListNode(num, None)
+                cur = cur.next
+                node2 = node2.next
+            return new_extra
+            
 
         while cur1 and cur2:
             num = (cur1.val+cur2.val+extra) % 10
-            extra = (cur1.val+cur2.val+extra) // 10      
-            if not head:
-                head = ListNode(num, None)
-                cur = head
-            else:
-                cur.next = ListNode(num, None)
-                cur = cur.next
+            extra = (cur1.val+cur2.val+extra) // 10
+            cur.next = ListNode(num, None)
             cur1 = cur1.next
             cur2 = cur2.next
-        if extra and not cur1 and not cur2:
-            cur.next = ListNode(extra, None)
+            cur = cur.next
         if cur1:
-            head = addMore(head, cur, cur1, extra)
+            extra = addMore(cur1, extra)
         if cur2:
-            head = addMore(head, cur, cur2, extra)
-        return head
+            extra = addMore(cur2, extra)
+        if extra:
+            cur.next = ListNode(extra, None)
+        return head.next
+        
