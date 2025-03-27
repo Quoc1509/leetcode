@@ -1,21 +1,25 @@
 class Solution:
     def reorganizeString(self, s: str) -> str:
         count = Counter(s)
-        heap = [(-item, key) for key, item in count.items()]
-        heapify(heap)
-        res = ''
-        while len(heap) > 1:
-            num1, alpha1 = heappop(heap)
-            num2, alpha2 = heappop(heap)
-            res += alpha1 + alpha2
-            num1 += 1
-            num2 += 1
-            if num1 != 0:
-                heappush(heap, (num1, alpha1))
-            if num2 != 0:
-                heappush(heap, (num2, alpha2))
-        if not heap: 
-            return res
-        if (res and res[-1] == heap[0][1]) or heap[0][0] < -1:
+        maxF, maxC = 0, ''
+        for ch, fre in count.items():
+            if fre > maxF:
+                maxF = fre
+                maxC = ch
+        if maxF > (len(s)+1)//2:
             return ''
-        return res+heap[0][1]
+        res = [''] * len(s)
+        index = 0
+        while count[maxC] > 0:
+            res[index] = maxC
+            count[maxC] -= 1
+            index += 2
+        
+        for ch, freq in count.items():
+            while freq > 0:
+                if index >= len(s):
+                    index = 1
+                res[index] = ch
+                index += 2
+                freq -= 1
+        return ''.join(res)
