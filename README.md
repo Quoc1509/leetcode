@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Quoc1509/leetcode/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/Quoc1509/leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Quoc1509/leetcode/tree/master/0018-4sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Quoc1509/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Quoc1509/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0036-valid-sudoku](https://github.com/Quoc1509/leetcode/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/Quoc1509/leetcode/tree/master/0039-combination-sum) |
@@ -462,6 +463,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Quoc1509/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/Quoc1509/leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Quoc1509/leetcode/tree/master/0018-4sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Quoc1509/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/Quoc1509/leetcode/tree/master/0042-trapping-rain-water) |
 | [0086-partition-list](https://github.com/Quoc1509/leetcode/tree/master/0086-partition-list) |
 | [0088-merge-sorted-array](https://github.com/Quoc1509/leetcode/tree/master/0088-merge-sorted-array) |
