@@ -1,24 +1,22 @@
 class Solution:
     def canFinish(self, numCourses: int, prerequisites: List[List[int]]) -> bool:
+        count = [0] * numCourses
         graph = defaultdict(list)
-        course = [0] * numCourses
         for a, b in prerequisites:
             graph[b].append(a)
-            course[a] += 1
+            count[a] += 1
         q = deque()
-        for i in range(len(course)):
-            if course[i] == 0:
+        for i, num in enumerate(count):
+            if num == 0:
                 q.append(i)
-
+        
         res = 0
         while q:
+            res += len(q)
             for _ in range(len(q)):
-                n = q.popleft()
-                if course[n] == 0:
-                    res += 1
-                for node in graph[n]:
-                    course[node] -= 1
-                    if course[node] == 0:
-                        q.append(node)
-                        
-        return True if res == numCourses else False
+                course = q.popleft()
+                for next_course in graph[course]:
+                    count[next_course] -= 1
+                    if count[next_course] == 0:
+                        q.append(next_course)
+        return res == numCourses
