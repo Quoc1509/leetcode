@@ -1,10 +1,12 @@
 class Solution:
     def jump(self, nums: List[int]) -> int:
         # if len(nums) == 1: return 0
-        dp = [0] * len(nums)
-        j = 1
+        ne_i = 0
+        j = 0
+        res = 0
         for i in range(len(nums)):
-            while j < min(len(nums), nums[i] + i+1):
-                dp[j] = dp[i] + 1
-                j += 1
-        return dp[-1]
+            j = max(j, nums[i]+i)
+            if i == ne_i:
+                res += 1
+                ne_i = min(len(nums)-1, j)
+        return res-1
