@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Quoc1509/leetcode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Quoc1509/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0456-132-pattern](https://github.com/Quoc1509/leetcode/tree/master/0456-132-pattern) |
+| [0472-concatenated-words](https://github.com/Quoc1509/leetcode/tree/master/0472-concatenated-words) |
 | [0473-matchsticks-to-square](https://github.com/Quoc1509/leetcode/tree/master/0473-matchsticks-to-square) |
 | [0487-max-consecutive-ones-ii](https://github.com/Quoc1509/leetcode/tree/master/0487-max-consecutive-ones-ii) |
 | [0494-target-sum](https://github.com/Quoc1509/leetcode/tree/master/0494-target-sum) |
@@ -755,6 +756,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Quoc1509/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Quoc1509/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/Quoc1509/leetcode/tree/master/0459-repeated-substring-pattern) |
+| [0472-concatenated-words](https://github.com/Quoc1509/leetcode/tree/master/0472-concatenated-words) |
 | [0482-license-key-formatting](https://github.com/Quoc1509/leetcode/tree/master/0482-license-key-formatting) |
 | [0539-minimum-time-difference](https://github.com/Quoc1509/leetcode/tree/master/0539-minimum-time-difference) |
 | [0588-design-in-memory-file-system](https://github.com/Quoc1509/leetcode/tree/master/0588-design-in-memory-file-system) |
@@ -1050,6 +1052,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/Quoc1509/leetcode/tree/master/0399-evaluate-division) |
 | [0419-battleships-in-a-board](https://github.com/Quoc1509/leetcode/tree/master/0419-battleships-in-a-board) |
 | [0437-path-sum-iii](https://github.com/Quoc1509/leetcode/tree/master/0437-path-sum-iii) |
+| [0472-concatenated-words](https://github.com/Quoc1509/leetcode/tree/master/0472-concatenated-words) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Quoc1509/leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0547-number-of-provinces](https://github.com/Quoc1509/leetcode/tree/master/0547-number-of-provinces) |
 | [0572-subtree-of-another-tree](https://github.com/Quoc1509/leetcode/tree/master/0572-subtree-of-another-tree) |
@@ -1398,6 +1401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0403-frog-jump](https://github.com/Quoc1509/leetcode/tree/master/0403-frog-jump) |
 | [0413-arithmetic-slices](https://github.com/Quoc1509/leetcode/tree/master/0413-arithmetic-slices) |
 | [0416-partition-equal-subset-sum](https://github.com/Quoc1509/leetcode/tree/master/0416-partition-equal-subset-sum) |
+| [0472-concatenated-words](https://github.com/Quoc1509/leetcode/tree/master/0472-concatenated-words) |
 | [0473-matchsticks-to-square](https://github.com/Quoc1509/leetcode/tree/master/0473-matchsticks-to-square) |
 | [0487-max-consecutive-ones-ii](https://github.com/Quoc1509/leetcode/tree/master/0487-max-consecutive-ones-ii) |
 | [0494-target-sum](https://github.com/Quoc1509/leetcode/tree/master/0494-target-sum) |
@@ -1780,6 +1784,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0212-word-search-ii](https://github.com/Quoc1509/leetcode/tree/master/0212-word-search-ii) |
 | [0386-lexicographical-numbers](https://github.com/Quoc1509/leetcode/tree/master/0386-lexicographical-numbers) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Quoc1509/leetcode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [0472-concatenated-words](https://github.com/Quoc1509/leetcode/tree/master/0472-concatenated-words) |
 | [0588-design-in-memory-file-system](https://github.com/Quoc1509/leetcode/tree/master/0588-design-in-memory-file-system) |
 | [0720-longest-word-in-dictionary](https://github.com/Quoc1509/leetcode/tree/master/0720-longest-word-in-dictionary) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Quoc1509/leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
