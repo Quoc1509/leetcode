@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-lemonade-change](https://github.com/Quoc1509/leetcode/tree/master/0890-lemonade-change) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Quoc1509/leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0906-walking-robot-simulation](https://github.com/Quoc1509/leetcode/tree/master/0906-walking-robot-simulation) |
+| [0907-koko-eating-bananas](https://github.com/Quoc1509/leetcode/tree/master/0907-koko-eating-bananas) |
 | [0911-profitable-schemes](https://github.com/Quoc1509/leetcode/tree/master/0911-profitable-schemes) |
 | [0943-sum-of-subarray-minimums](https://github.com/Quoc1509/leetcode/tree/master/0943-sum-of-subarray-minimums) |
 | [0948-sort-an-array](https://github.com/Quoc1509/leetcode/tree/master/0948-sort-an-array) |
@@ -513,6 +514,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Quoc1509/leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Quoc1509/leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/Quoc1509/leetcode/tree/master/0792-binary-search) |
+| [0907-koko-eating-bananas](https://github.com/Quoc1509/leetcode/tree/master/0907-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/Quoc1509/leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Quoc1509/leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1296-kth-ancestor-of-a-tree-node](https://github.com/Quoc1509/leetcode/tree/master/1296-kth-ancestor-of-a-tree-node) |
