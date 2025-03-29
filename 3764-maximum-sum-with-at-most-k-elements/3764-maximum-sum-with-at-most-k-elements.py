@@ -3,7 +3,6 @@ class Solution:
         res = []
         M, N = len(grid), len(grid[0])
         for i in range(M):
-            temp = 0
             heap = []
             for j in range(N):
                 heappush(heap, grid[i][j])
