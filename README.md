@@ -334,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/Quoc1509/leetcode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3714-maximum-and-minimum-sums-of-at-most-size-k-subsequences](https://github.com/Quoc1509/leetcode/tree/master/3714-maximum-and-minimum-sums-of-at-most-size-k-subsequences) |
 | [3759-choose-k-elements-with-maximum-sum](https://github.com/Quoc1509/leetcode/tree/master/3759-choose-k-elements-with-maximum-sum) |
+| [3764-maximum-sum-with-at-most-k-elements](https://github.com/Quoc1509/leetcode/tree/master/3764-maximum-sum-with-at-most-k-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -627,6 +628,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/Quoc1509/leetcode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3714-maximum-and-minimum-sums-of-at-most-size-k-subsequences](https://github.com/Quoc1509/leetcode/tree/master/3714-maximum-and-minimum-sums-of-at-most-size-k-subsequences) |
 | [3759-choose-k-elements-with-maximum-sum](https://github.com/Quoc1509/leetcode/tree/master/3759-choose-k-elements-with-maximum-sum) |
+| [3764-maximum-sum-with-at-most-k-elements](https://github.com/Quoc1509/leetcode/tree/master/3764-maximum-sum-with-at-most-k-elements) |
 ## Greedy
 |  |
 | ------- |
@@ -675,6 +677,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3334-apple-redistribution-into-boxes](https://github.com/Quoc1509/leetcode/tree/master/3334-apple-redistribution-into-boxes) |
 | [3552-find-the-largest-palindrome-divisible-by-k](https://github.com/Quoc1509/leetcode/tree/master/3552-find-the-largest-palindrome-divisible-by-k) |
 | [3607-minimum-division-operations-to-make-array-non-decreasing](https://github.com/Quoc1509/leetcode/tree/master/3607-minimum-division-operations-to-make-array-non-decreasing) |
+| [3764-maximum-sum-with-at-most-k-elements](https://github.com/Quoc1509/leetcode/tree/master/3764-maximum-sum-with-at-most-k-elements) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -723,6 +726,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Quoc1509/leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/Quoc1509/leetcode/tree/master/3558-find-a-safe-walk-through-a-grid) |
 | [3759-choose-k-elements-with-maximum-sum](https://github.com/Quoc1509/leetcode/tree/master/3759-choose-k-elements-with-maximum-sum) |
+| [3764-maximum-sum-with-at-most-k-elements](https://github.com/Quoc1509/leetcode/tree/master/3764-maximum-sum-with-at-most-k-elements) |
 ## String
 |  |
 | ------- |
@@ -1233,6 +1237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2914-find-the-safest-path-in-a-grid](https://github.com/Quoc1509/leetcode/tree/master/2914-find-the-safest-path-in-a-grid) |
 | [3227-find-missing-and-repeated-values](https://github.com/Quoc1509/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/Quoc1509/leetcode/tree/master/3558-find-a-safe-walk-through-a-grid) |
+| [3764-maximum-sum-with-at-most-k-elements](https://github.com/Quoc1509/leetcode/tree/master/3764-maximum-sum-with-at-most-k-elements) |
 ## Union Find
 |  |
 | ------- |
