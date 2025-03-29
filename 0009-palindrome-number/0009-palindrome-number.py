@@ -4,8 +4,7 @@ class Solution:
         res = 0
         temp = x
         while temp > 0:
-            res += temp % 10
-            res *= 10
+            num = temp % 10
+            res = res * 10 + num
             temp //= 10
-        res //= 10
         return res == x
