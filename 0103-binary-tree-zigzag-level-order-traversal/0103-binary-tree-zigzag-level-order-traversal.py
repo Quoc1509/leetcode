@@ -11,29 +11,19 @@ class Solution:
         q.append(root)
         direct = 0
         res = []
+        count = 0
         while q:
             temp = []
-            nodes = deque()
             for _ in range(len(q)):
-                cur = q.popleft()
-                temp.append(cur.val)
-                nodes.append(cur)
-            
-            res.append(temp[:])
-
-            while nodes:
-                n = nodes.pop()
-                if direct % 2 != 0:
-                    if n.left:
-                        q.append(n.left)
-                    if n.right:
-                        q.append(n.right)
-                else:
-                
-                    if n.right:
-                        q.append(n.right)
-                    if n.left:
-                        q.append(n.left)    
-            direct += 1
-            
+                node = q.popleft()
+                temp.append(node.val)
+                if node.left:
+                    q.append(node.left)
+                if node.right:
+                    q.append(node.right)
+            if count %2 == 1:
+                res.append(temp[::-1])
+            else:
+                res.append(temp[:])
+            count += 1
         return res
