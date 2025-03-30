@@ -379,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/Quoc1509/leetcode/tree/master/0645-set-mismatch) |
 | [0694-number-of-distinct-islands](https://github.com/Quoc1509/leetcode/tree/master/0694-number-of-distinct-islands) |
 | [0720-longest-word-in-dictionary](https://github.com/Quoc1509/leetcode/tree/master/0720-longest-word-in-dictionary) |
+| [0768-partition-labels](https://github.com/Quoc1509/leetcode/tree/master/0768-partition-labels) |
 | [0778-reorganize-string](https://github.com/Quoc1509/leetcode/tree/master/0778-reorganize-string) |
 | [0817-design-hashmap](https://github.com/Quoc1509/leetcode/tree/master/0817-design-hashmap) |
 | [0833-bus-routes](https://github.com/Quoc1509/leetcode/tree/master/0833-bus-routes) |
@@ -484,6 +485,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/Quoc1509/leetcode/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0658-find-k-closest-elements](https://github.com/Quoc1509/leetcode/tree/master/0658-find-k-closest-elements) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Quoc1509/leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0768-partition-labels](https://github.com/Quoc1509/leetcode/tree/master/0768-partition-labels) |
 | [1129-longest-string-chain](https://github.com/Quoc1509/leetcode/tree/master/1129-longest-string-chain) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Quoc1509/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Quoc1509/leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
@@ -647,6 +649,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0624-maximum-distance-in-arrays](https://github.com/Quoc1509/leetcode/tree/master/0624-maximum-distance-in-arrays) |
 | [0670-maximum-swap](https://github.com/Quoc1509/leetcode/tree/master/0670-maximum-swap) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Quoc1509/leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0768-partition-labels](https://github.com/Quoc1509/leetcode/tree/master/0768-partition-labels) |
 | [0778-reorganize-string](https://github.com/Quoc1509/leetcode/tree/master/0778-reorganize-string) |
 | [0779-max-chunks-to-make-sorted-ii](https://github.com/Quoc1509/leetcode/tree/master/0779-max-chunks-to-make-sorted-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Quoc1509/leetcode/tree/master/0780-max-chunks-to-make-sorted) |
@@ -775,6 +778,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0606-construct-string-from-binary-tree](https://github.com/Quoc1509/leetcode/tree/master/0606-construct-string-from-binary-tree) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Quoc1509/leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0720-longest-word-in-dictionary](https://github.com/Quoc1509/leetcode/tree/master/0720-longest-word-in-dictionary) |
+| [0768-partition-labels](https://github.com/Quoc1509/leetcode/tree/master/0768-partition-labels) |
 | [0778-reorganize-string](https://github.com/Quoc1509/leetcode/tree/master/0778-reorganize-string) |
 | [0837-most-common-word](https://github.com/Quoc1509/leetcode/tree/master/0837-most-common-word) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Quoc1509/leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
