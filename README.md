@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Quoc1509/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Quoc1509/leetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0128-longest-consecutive-sequence](https://github.com/Quoc1509/leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0130-surrounded-regions](https://github.com/Quoc1509/leetcode/tree/master/0130-surrounded-regions) |
 | [0134-gas-station](https://github.com/Quoc1509/leetcode/tree/master/0134-gas-station) |
 | [0139-word-break](https://github.com/Quoc1509/leetcode/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Quoc1509/leetcode/tree/master/0140-word-break-ii) |
@@ -1053,6 +1054,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Quoc1509/leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Quoc1509/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Quoc1509/leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0130-surrounded-regions](https://github.com/Quoc1509/leetcode/tree/master/0130-surrounded-regions) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Quoc1509/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0200-number-of-islands](https://github.com/Quoc1509/leetcode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Quoc1509/leetcode/tree/master/0207-course-schedule) |
@@ -1131,6 +1133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Quoc1509/leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0127-word-ladder](https://github.com/Quoc1509/leetcode/tree/master/0127-word-ladder) |
+| [0130-surrounded-regions](https://github.com/Quoc1509/leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Quoc1509/leetcode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Quoc1509/leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Quoc1509/leetcode/tree/master/0210-course-schedule-ii) |
@@ -1207,6 +1210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/Quoc1509/leetcode/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Quoc1509/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/Quoc1509/leetcode/tree/master/0079-word-search) |
+| [0130-surrounded-regions](https://github.com/Quoc1509/leetcode/tree/master/0130-surrounded-regions) |
 | [0174-dungeon-game](https://github.com/Quoc1509/leetcode/tree/master/0174-dungeon-game) |
 | [0200-number-of-islands](https://github.com/Quoc1509/leetcode/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/Quoc1509/leetcode/tree/master/0212-word-search-ii) |
@@ -1256,6 +1260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Quoc1509/leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0130-surrounded-regions](https://github.com/Quoc1509/leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Quoc1509/leetcode/tree/master/0200-number-of-islands) |
 | [0261-graph-valid-tree](https://github.com/Quoc1509/leetcode/tree/master/0261-graph-valid-tree) |
 | [0305-number-of-islands-ii](https://github.com/Quoc1509/leetcode/tree/master/0305-number-of-islands-ii) |
