@@ -1050,6 +1050,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Quoc1509/leetcode/tree/master/0079-word-search) |
 | [0098-validate-binary-search-tree](https://github.com/Quoc1509/leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0113-path-sum-ii](https://github.com/Quoc1509/leetcode/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Quoc1509/leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
