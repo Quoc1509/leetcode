@@ -41,21 +41,22 @@ class Solution:
 
         # return dp[0][0]
 
-        # res = 0
-        # buy = inf
-        # for num in prices:
-        #     buy = min(buy, num)
-        #     if num > buy:
-        #         res += num-buy
-        #         buy = num
-        # return res
-        @cache
-        def dfs(i, holding):
-            if i >= len(prices):
-                return 0
-            if holding:
-                return max(dfs(i+1, holding), dfs(i+1, False)+prices[i])
-            else:
-                return max(dfs(i+1, holding), dfs(i+1, True)-prices[i])
-        return dfs(0, False)
+        res = 0
+        buy = inf
+        for num in prices:
+            buy = min(buy, num)
+            if num > buy:
+                res += num-buy
+                buy = num
+        return res
+        
+        # @cache
+        # def dfs(i, holding):
+        #     if i >= len(prices):
+        #         return 0
+        #     if holding:
+        #         return max(dfs(i+1, holding), dfs(i+1, False)+prices[i])
+        #     else:
+        #         return max(dfs(i+1, holding), dfs(i+1, True)-prices[i])
+        # return dfs(0, False)
                 
