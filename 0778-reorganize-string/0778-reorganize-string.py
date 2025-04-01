@@ -2,12 +2,12 @@ class Solution:
     def reorganizeString(self, s: str) -> str:
         count = Counter(s)
         maxF, maxC = 0, ''
-        heap = []
+        # heap = []
         for ch, fre in count.items():
             if fre > maxF:
                 maxF = fre
                 maxC = ch
-            heappush(heap, (-fre, ch))
+            # heappush(heap, (-fre, ch))
         if maxF > (len(s)+1)//2:
             return ''
         # res = ''
