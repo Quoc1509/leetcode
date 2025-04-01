@@ -1,24 +1,21 @@
 class Solution:
     def platesBetweenCandles(self, s: str, queries: List[List[int]]) -> List[int]:
-        count = 0
-        plates = []
-        mp = defaultdict(int)
-        for i, e in enumerate(s):
-            if e == '|':
-                mp[i] = count
-                plates.append(i)
+        table = [0] * (len(s)+1)
+        plate = []
+        for i in range(len(s)):
+            if s[i] == '*':
+                table[i+1] = table[i] + 1
             else:
-                count += 1
-        if not plates:
-            return [0]*len(queries)
+                plate.append(i)
+                table[i+1] = table[i]
+        plate.append(len(s))
         res = []
-        # print(plates, mp)
         for a, b in queries:
-            if a == b:
+            
+            l = bisect_left(plate, a)
+            r = bisect_right(plate, b)-1
+            if l >= r:
                 res.append(0)
-                continue
-            idx_left = bisect_left(plates, a)
-            idx_right = bisect_right(plates, b)
-            # print(idx_left, idx_right)
-            res.append(max(0, mp[plates[idx_right-1]]-mp[plates[idx_left]]))
+            else:
+                res.append(table[plate[r]+1]-table[plate[l]])
         return res
