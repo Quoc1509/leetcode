@@ -27,17 +27,26 @@ class Solution:
         # return dfs(0, 0)
 
         #bottom-up
-        N = len(prices)
-        dp = [[-inf] * 2 for _ in range(N+1)]
-        for i in range(2):
-            dp[N][i] = 0 
+        # N = len(prices)
+        # dp = [[-inf] * 2 for _ in range(N+1)]
+        # for i in range(2):
+        #     dp[N][i] = 0 
 
-        for i in range(N-1, -1, -1):
-            for holding in range(2):
-                if holding:
-                    dp[i][holding] = max(dp[i+1][0] + prices[i], dp[i+1][holding])
-                else:
-                    dp[i][holding] = max(dp[i+1][1] - prices[i], dp[i+1][holding])
+        # for i in range(N-1, -1, -1):
+        #     for holding in range(2):
+        #         if holding:
+        #             dp[i][holding] = max(dp[i+1][0] + prices[i], dp[i+1][holding])
+        #         else:
+        #             dp[i][holding] = max(dp[i+1][1] - prices[i], dp[i+1][holding])
 
-        return dp[0][0]
+        # return dp[0][0]
+
+        res = 0
+        buy = inf
+        for num in prices:
+            buy = min(buy, num)
+            if num > buy:
+                res += num-buy
+                buy = num
+        return res
                 
