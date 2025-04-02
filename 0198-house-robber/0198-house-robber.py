@@ -15,9 +15,20 @@ class Solution:
         # for i in range(N-1, -1, -1):
         #     dp[i] = max(dp[i+1], dp[i+2]+nums[i])
         # return dp[0]
-        @cache
-        def dfs(i):
-            if i >= len(nums):
-                return 0
-            return max(dfs(i+1), dfs(i+2)+nums[i])
-        return dfs(0)
+        # @cache
+        # def dfs(i):
+        #     if i >= len(nums):
+        #         return 0
+        #     return max(dfs(i+1), dfs(i+2)+nums[i])
+        # return dfs(0)
+
+        if len(nums)==1:
+            return nums[0]
+        if len(nums) == 2:
+            return max(nums)
+        dp = [0] * (N)
+        dp[0] = nums[0]
+        dp[1] = max(nums[1], nums[0])
+        for i in range(2, N):
+            dp[i] = max(dp[i-1], dp[i-2]+nums[i])
+        return dp[-1]
