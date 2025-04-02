@@ -872,6 +872,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3455-minimum-length-of-string-after-operations](https://github.com/Quoc1509/leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3552-find-the-largest-palindrome-divisible-by-k](https://github.com/Quoc1509/leetcode/tree/master/3552-find-the-largest-palindrome-divisible-by-k) |
 | [3613-maximize-amount-after-two-days-of-conversions](https://github.com/Quoc1509/leetcode/tree/master/3613-maximize-amount-after-two-days-of-conversions) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Quoc1509/leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Linked List
 |  |
 | ------- |
@@ -932,6 +933,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Quoc1509/leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3447-clear-digits](https://github.com/Quoc1509/leetcode/tree/master/3447-clear-digits) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Quoc1509/leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Quoc1509/leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -1065,6 +1067,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Quoc1509/leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3607-minimum-division-operations-to-make-array-non-decreasing](https://github.com/Quoc1509/leetcode/tree/master/3607-minimum-division-operations-to-make-array-non-decreasing) |
 | [3714-maximum-and-minimum-sums-of-at-most-size-k-subsequences](https://github.com/Quoc1509/leetcode/tree/master/3714-maximum-and-minimum-sums-of-at-most-size-k-subsequences) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Quoc1509/leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -1789,6 +1792,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Quoc1509/leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3552-find-the-largest-palindrome-divisible-by-k](https://github.com/Quoc1509/leetcode/tree/master/3552-find-the-largest-palindrome-divisible-by-k) |
 | [3607-minimum-division-operations-to-make-array-non-decreasing](https://github.com/Quoc1509/leetcode/tree/master/3607-minimum-division-operations-to-make-array-non-decreasing) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Quoc1509/leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Memoization
 |  |
 | ------- |
@@ -1840,6 +1844,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2696-the-number-of-beautiful-subsets](https://github.com/Quoc1509/leetcode/tree/master/2696-the-number-of-beautiful-subsets) |
 | [3537-number-of-subsequences-with-odd-sum](https://github.com/Quoc1509/leetcode/tree/master/3537-number-of-subsequences-with-odd-sum) |
 | [3714-maximum-and-minimum-sums-of-at-most-size-k-subsequences](https://github.com/Quoc1509/leetcode/tree/master/3714-maximum-and-minimum-sums-of-at-most-size-k-subsequences) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Quoc1509/leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Brainteaser
 |  |
 | ------- |
