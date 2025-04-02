@@ -254,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Quoc1509/leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/Quoc1509/leetcode/tree/master/2445-reachable-nodes-with-restrictions) |
 | [2449-maximum-number-of-robots-within-budget](https://github.com/Quoc1509/leetcode/tree/master/2449-maximum-number-of-robots-within-budget) |
+| [2458-find-minimum-time-to-finish-all-jobs-ii](https://github.com/Quoc1509/leetcode/tree/master/2458-find-minimum-time-to-finish-all-jobs-ii) |
 | [2465-shifting-letters-ii](https://github.com/Quoc1509/leetcode/tree/master/2465-shifting-letters-ii) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Quoc1509/leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2478-longest-nice-subarray](https://github.com/Quoc1509/leetcode/tree/master/2478-longest-nice-subarray) |
@@ -623,6 +624,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2367-minimum-lines-to-represent-a-line-chart](https://github.com/Quoc1509/leetcode/tree/master/2367-minimum-lines-to-represent-a-line-chart) |
 | [2423-minimum-deletions-to-make-array-divisible](https://github.com/Quoc1509/leetcode/tree/master/2423-minimum-deletions-to-make-array-divisible) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Quoc1509/leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
+| [2458-find-minimum-time-to-finish-all-jobs-ii](https://github.com/Quoc1509/leetcode/tree/master/2458-find-minimum-time-to-finish-all-jobs-ii) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Quoc1509/leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2479-meeting-rooms-iii](https://github.com/Quoc1509/leetcode/tree/master/2479-meeting-rooms-iii) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Quoc1509/leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
@@ -681,6 +683,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2354-minimum-health-to-beat-game](https://github.com/Quoc1509/leetcode/tree/master/2354-minimum-health-to-beat-game) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Quoc1509/leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Quoc1509/leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
+| [2458-find-minimum-time-to-finish-all-jobs-ii](https://github.com/Quoc1509/leetcode/tree/master/2458-find-minimum-time-to-finish-all-jobs-ii) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Quoc1509/leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2509-minimize-xor](https://github.com/Quoc1509/leetcode/tree/master/2509-minimize-xor) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Quoc1509/leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
