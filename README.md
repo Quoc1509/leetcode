@@ -308,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2915-count-of-interesting-subarrays](https://github.com/Quoc1509/leetcode/tree/master/2915-count-of-interesting-subarrays) |
 | [2954-maximum-sum-of-almost-unique-subarray](https://github.com/Quoc1509/leetcode/tree/master/2954-maximum-sum-of-almost-unique-subarray) |
 | [3141-minimum-size-subarray-in-infinite-array](https://github.com/Quoc1509/leetcode/tree/master/3141-minimum-size-subarray-in-infinite-array) |
+| [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/Quoc1509/leetcode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3178-minimum-increment-operations-to-make-array-beautiful](https://github.com/Quoc1509/leetcode/tree/master/3178-minimum-increment-operations-to-make-array-beautiful) |
 | [3227-find-missing-and-repeated-values](https://github.com/Quoc1509/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Quoc1509/leetcode/tree/master/3235-minimum-cost-to-convert-string-i) |
