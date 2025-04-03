@@ -1,15 +1,13 @@
 class Solution:
     def permute(self, nums: List[int]) -> List[List[int]]:
         res = []
-        N = len(nums)
-        
-        def backTracking(path, mask):
-            if mask == (1<<N)-1:
-                res.append(path)
+        def dfs(visit, path):
+            if len(path) == len(nums):
+                res.append(path[:])
                 return
-            for i in range(N):
-                if (1 << i) & mask:
+            for i in range(len(nums)):
+                if (1<<i)&visit:
                     continue
-                backTracking(path + [nums[i]], mask | (1 << i))
-        backTracking([], 0)
+                dfs(visit|(1<<i), path+[nums[i]])
+        dfs(0, [])
         return res
