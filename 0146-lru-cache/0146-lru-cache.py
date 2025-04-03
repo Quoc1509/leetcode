@@ -17,11 +17,11 @@ class LRUCache:
 
 
     def add_node(self, node):
-        temp = self.head.next
-        self.head.next = node
-        node.prev = self.head
-        node.next = temp
-        temp.prev = node
+        p = self.tail.prev
+        node.next = self.tail
+        self.tail.prev = node
+        p.next = node
+        node.prev = p
 
     def connect_node(self, node):
         temp = node
@@ -47,7 +47,7 @@ class LRUCache:
             return
 
         if len(self.mp) == self.capacity:
-            node = self.tail.prev
+            node = self.head.next
             k = node.key
             self.connect_node(node)
             del self.mp[k]
