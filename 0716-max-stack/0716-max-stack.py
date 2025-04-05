@@ -1,84 +1,44 @@
-class Node:
-    def __init__(self, val=0, next=None, prev=None):
-        self.val = val
-        self.next = next
-        self.prev = prev
-
-class DoubleList:
-    def __init__(self):
-        self.head = Node()
-        self.tail = Node()
-        self.head.next = self.tail
-        self.tail.prev = self.head
-    
-
-    def remove(self):
-        node = self.head.next
-        temp = self.head.next.next
-        self.head.next = temp
-        temp.prev = self.head
-        return node
-
-    def add(self, node):
-        temp = self.head.next
-
-        self.head.next = node
-        node.prev = self.head
-        node.next = temp
-        temp.prev = node
-
-    def remove_node(self, node):
-        p, n = node.prev, node.next
-        p.next = n
-        n.prev = p
-    
-    def top(self):
-        return self.head.next.val
-
-    def print(self):
-        cur = self.head.next
-        print('----------------')
-        while cur != self.tail:
-            
-            print(cur.val)
-            cur = cur.next
-
 class MaxStack:
 
     def __init__(self):
-        self.maxStack = SortedList()
-        self.mp = defaultdict(list)
-        self.stack = DoubleList()
+        self.count = 0
+        self.stack = []
+        self.minheap = []
+        self.removed = set()
 
     def push(self, x: int) -> None:
-        self.maxStack.add(x)
-        node = Node(x)
-        self.mp[x].append(node)
-        self.stack.add(node)
-
+        self.stack.append([x, self.count])
+        heapq.heappush(self.minheap, (-x, -self.count))
+        self.count += 1
+        
 
     def pop(self) -> int:
-        node = self.stack.remove()
-        self.maxStack.remove(node.val)
-        self.mp[node.val].pop()
-        if not self.mp[node.val]:
-            del self.mp[node.val]
-        return node.val
-        
+        while self.stack and self.stack[-1][1] in self.removed:
+            self.stack.pop()
+        num, count = self.stack.pop()
+        self.removed.add(count)
+        return num
+
     def top(self) -> int:
-        self.stack.print()
-        return self.stack.top()
+        while self.stack and self.stack[-1][1] in self.removed:
+            self.stack.pop()
+        return self.stack[-1][0]
 
     def peekMax(self) -> int:
-        return self.maxStack[-1]
+        while self.minheap and -self.minheap[0][1] in self.removed:
+            heapq.heappop(self.minheap)
+        return -self.minheap[0][0]
+
+        
 
     def popMax(self) -> int:
-        num = self.maxStack.pop()
-        node = self.mp[num].pop()
-        if not self.mp[num]:
-            del self.mp[num]
-        self.stack.remove_node(node)
-        return num
+        while self.minheap and -self.minheap[0][1] in self.removed:
+            heapq.heappop(self.minheap)
+        num, index = heapq.heappop(self.minheap)
+        self.removed.add(-index)
+        return -num
+        
+
 
 # Your MaxStack object will be instantiated and called as such:
 # obj = MaxStack()
