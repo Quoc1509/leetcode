@@ -7,19 +7,18 @@ class HitCounter:
         self.count = 1
 
     def hit(self, timestamp: int) -> None:
-        self.mp[timestamp] = self.count
-        self.arr.append(timestamp)
+        if timestamp not in self.mp:
+            self.arr.append(timestamp)
+        self.mp[timestamp] = self.count         
         self.count += 1
-        # print(self.mp)
+        
 
     def getHits(self, timestamp: int) -> int:
-        index1 = bisect_right(self.arr, timestamp)
-        index2 = bisect_right(self.arr, timestamp-300)
-        # print(self.mp, self.arr, index1, index2)
-        if index2 <= 0:
-            return self.mp[self.arr[index1-1]]
-        return self.mp[self.arr[index1-1]]-self.mp[self.arr[index2-1]]
-
+        r = bisect_right(self.arr, timestamp)-1
+        l = bisect_right(self.arr, timestamp-300)-1
+        if l < 0:
+            return self.mp[self.arr[r]]
+        return self.mp[self.arr[r]] - self.mp[self.arr[l]]
 
 # Your HitCounter object will be instantiated and called as such:
 # obj = HitCounter()
