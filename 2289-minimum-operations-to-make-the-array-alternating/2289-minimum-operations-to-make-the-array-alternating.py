@@ -10,8 +10,8 @@ class Solution:
             else:
                 odd[nums[i]] += 1
         
-        e = sorted([(item, key) for key, item in even.items()], reverse=True)
-        o = sorted([(item, key) for key, item in odd.items()], reverse=True)
+        # e = sorted([(item, key) for key, item in even.items()], reverse=True)
+        # o = sorted([(item, key) for key, item in odd.items()], reverse=True)
 
         def helper(mp):
             first, second = [0, 0], [0, 0]
@@ -27,7 +27,7 @@ class Solution:
         leno = len(nums)//2 
         e = helper(even)
         o = helper(odd)
-        
+
         if e[0][1] != o[0][1]:
             return lene-e[0][0] + leno-o[0][0]
         else:
