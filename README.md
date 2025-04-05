@@ -911,6 +911,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0432-all-oone-data-structure](https://github.com/Quoc1509/leetcode/tree/master/0432-all-oone-data-structure) |
 | [0460-lfu-cache](https://github.com/Quoc1509/leetcode/tree/master/0460-lfu-cache) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/Quoc1509/leetcode/tree/master/0528-swapping-nodes-in-a-linked-list) |
+| [0716-max-stack](https://github.com/Quoc1509/leetcode/tree/master/0716-max-stack) |
 | [0725-split-linked-list-in-parts](https://github.com/Quoc1509/leetcode/tree/master/0725-split-linked-list-in-parts) |
 | [0817-design-hashmap](https://github.com/Quoc1509/leetcode/tree/master/0817-design-hashmap) |
 | [1484-linked-list-in-binary-tree](https://github.com/Quoc1509/leetcode/tree/master/1484-linked-list-in-binary-tree) |
@@ -1577,6 +1578,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0456-132-pattern](https://github.com/Quoc1509/leetcode/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/Quoc1509/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Quoc1509/leetcode/tree/master/0503-next-greater-element-ii) |
+| [0716-max-stack](https://github.com/Quoc1509/leetcode/tree/master/0716-max-stack) |
 | [0735-asteroid-collision](https://github.com/Quoc1509/leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Quoc1509/leetcode/tree/master/0739-daily-temperatures) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Quoc1509/leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
@@ -1847,6 +1849,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0456-132-pattern](https://github.com/Quoc1509/leetcode/tree/master/0456-132-pattern) |
 | [0635-design-log-storage-system](https://github.com/Quoc1509/leetcode/tree/master/0635-design-log-storage-system) |
+| [0716-max-stack](https://github.com/Quoc1509/leetcode/tree/master/0716-max-stack) |
 | [2434-design-a-number-container-system](https://github.com/Quoc1509/leetcode/tree/master/2434-design-a-number-container-system) |
 | [2868-continuous-subarrays](https://github.com/Quoc1509/leetcode/tree/master/2868-continuous-subarrays) |
 | [3363-most-frequent-ids](https://github.com/Quoc1509/leetcode/tree/master/3363-most-frequent-ids) |
@@ -1934,6 +1937,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0460-lfu-cache](https://github.com/Quoc1509/leetcode/tree/master/0460-lfu-cache) |
 | [0588-design-in-memory-file-system](https://github.com/Quoc1509/leetcode/tree/master/0588-design-in-memory-file-system) |
 | [0635-design-log-storage-system](https://github.com/Quoc1509/leetcode/tree/master/0635-design-log-storage-system) |
+| [0716-max-stack](https://github.com/Quoc1509/leetcode/tree/master/0716-max-stack) |
 | [0817-design-hashmap](https://github.com/Quoc1509/leetcode/tree/master/0817-design-hashmap) |
 | [1125-design-file-system](https://github.com/Quoc1509/leetcode/tree/master/1125-design-file-system) |
 | [1296-kth-ancestor-of-a-tree-node](https://github.com/Quoc1509/leetcode/tree/master/1296-kth-ancestor-of-a-tree-node) |
@@ -2055,6 +2059,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/Quoc1509/leetcode/tree/master/0146-lru-cache) |
 | [0432-all-oone-data-structure](https://github.com/Quoc1509/leetcode/tree/master/0432-all-oone-data-structure) |
 | [0460-lfu-cache](https://github.com/Quoc1509/leetcode/tree/master/0460-lfu-cache) |
+| [0716-max-stack](https://github.com/Quoc1509/leetcode/tree/master/0716-max-stack) |
 ## Eulerian Circuit
 |  |
 | ------- |
