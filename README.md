@@ -434,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Quoc1509/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Quoc1509/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1502-construct-k-palindrome-strings](https://github.com/Quoc1509/leetcode/tree/master/1502-construct-k-palindrome-strings) |
+| [1512-design-underground-system](https://github.com/Quoc1509/leetcode/tree/master/1512-design-underground-system) |
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/Quoc1509/leetcode/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Quoc1509/leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1713-dot-product-of-two-sparse-vectors](https://github.com/Quoc1509/leetcode/tree/master/1713-dot-product-of-two-sparse-vectors) |
@@ -853,6 +854,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1443-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Quoc1509/leetcode/tree/master/1443-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Quoc1509/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1502-construct-k-palindrome-strings](https://github.com/Quoc1509/leetcode/tree/master/1502-construct-k-palindrome-strings) |
+| [1512-design-underground-system](https://github.com/Quoc1509/leetcode/tree/master/1512-design-underground-system) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Quoc1509/leetcode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1524-string-matching-in-an-array](https://github.com/Quoc1509/leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Quoc1509/leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
@@ -1973,6 +1975,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Quoc1509/leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Quoc1509/leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Quoc1509/leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
+| [1512-design-underground-system](https://github.com/Quoc1509/leetcode/tree/master/1512-design-underground-system) |
 | [1713-dot-product-of-two-sparse-vectors](https://github.com/Quoc1509/leetcode/tree/master/1713-dot-product-of-two-sparse-vectors) |
 | [1768-design-an-expression-tree-with-evaluate-function](https://github.com/Quoc1509/leetcode/tree/master/1768-design-an-expression-tree-with-evaluate-function) |
 | [2169-simple-bank-system](https://github.com/Quoc1509/leetcode/tree/master/2169-simple-bank-system) |
