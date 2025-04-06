@@ -6,11 +6,18 @@
 #         self.right = right
 class Solution:
     def buildTree(self, preorder: List[int], inorder: List[int]) -> Optional[TreeNode]:
-
-        if len(preorder) == 0 or len(inorder) == 0: return None
-        root = TreeNode(preorder[0])
-
-        mid = inorder.index(preorder[0])
-        root.left = self.buildTree(preorder[1:1+mid], inorder[:mid])
-        root.right = self.buildTree(preorder[1+mid:], inorder[mid+1:])
-        return root
+        mp = {}
+        for i, e in enumerate(inorder):
+            mp[e] = i
+        pre_index = 0
+        def dfs(in_start, in_end):
+            nonlocal pre_index
+            if in_start > in_end:
+                return None
+            node = TreeNode(preorder[pre_index])
+            mid = mp[preorder[pre_index]]
+            pre_index += 1
+            node.left = dfs(in_start, mid-1)
+            node.right = dfs(mid+1, in_end)
+            return node
+        return dfs(0, len(inorder)-1)
