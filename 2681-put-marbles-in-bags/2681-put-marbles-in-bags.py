@@ -10,5 +10,4 @@ class Solution:
                 heappop(maxHeap)
             if len(minHeap) == k:
                 heappop(minHeap)
-        print(maxHeap, minHeap)
         return sum(maxHeap)+sum(minHeap)
