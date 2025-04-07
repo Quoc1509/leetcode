@@ -21,12 +21,8 @@ class Solution:
         #         return 0
         #     return max(dfs(i+1), dfs(i+2)+nums[i])
         # return dfs(0)
-
         if len(nums)==1:
             return nums[0]
-        if len(nums) == 2:
-            return max(nums)
-        
         dp2 = nums[0]
         dp1 = max(nums[1], nums[0])
         for i in range(2, N):
