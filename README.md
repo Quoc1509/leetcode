@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/Quoc1509/leetcode/tree/master/0216-combination-sum-iii) |
 | [0221-maximal-square](https://github.com/Quoc1509/leetcode/tree/master/0221-maximal-square) |
 | [0239-sliding-window-maximum](https://github.com/Quoc1509/leetcode/tree/master/0239-sliding-window-maximum) |
+| [0251-flatten-2d-vector](https://github.com/Quoc1509/leetcode/tree/master/0251-flatten-2d-vector) |
 | [0253-meeting-rooms-ii](https://github.com/Quoc1509/leetcode/tree/master/0253-meeting-rooms-ii) |
 | [0256-paint-house](https://github.com/Quoc1509/leetcode/tree/master/0256-paint-house) |
 | [0260-single-number-iii](https://github.com/Quoc1509/leetcode/tree/master/0260-single-number-iii) |
@@ -520,6 +521,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Quoc1509/leetcode/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/Quoc1509/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0246-strobogrammatic-number](https://github.com/Quoc1509/leetcode/tree/master/0246-strobogrammatic-number) |
+| [0251-flatten-2d-vector](https://github.com/Quoc1509/leetcode/tree/master/0251-flatten-2d-vector) |
 | [0253-meeting-rooms-ii](https://github.com/Quoc1509/leetcode/tree/master/0253-meeting-rooms-ii) |
 | [0283-move-zeroes](https://github.com/Quoc1509/leetcode/tree/master/0283-move-zeroes) |
 | [0295-find-median-from-data-stream](https://github.com/Quoc1509/leetcode/tree/master/0295-find-median-from-data-stream) |
@@ -1968,6 +1970,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/Quoc1509/leetcode/tree/master/0155-min-stack) |
 | [0170-two-sum-iii-data-structure-design](https://github.com/Quoc1509/leetcode/tree/master/0170-two-sum-iii-data-structure-design) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Quoc1509/leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0251-flatten-2d-vector](https://github.com/Quoc1509/leetcode/tree/master/0251-flatten-2d-vector) |
 | [0295-find-median-from-data-stream](https://github.com/Quoc1509/leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Quoc1509/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0348-design-tic-tac-toe](https://github.com/Quoc1509/leetcode/tree/master/0348-design-tic-tac-toe) |
@@ -2114,4 +2117,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0332-reconstruct-itinerary](https://github.com/Quoc1509/leetcode/tree/master/0332-reconstruct-itinerary) |
+## Iterator
+|  |
+| ------- |
+| [0251-flatten-2d-vector](https://github.com/Quoc1509/leetcode/tree/master/0251-flatten-2d-vector) |
 <!---LeetCode Topics End-->
