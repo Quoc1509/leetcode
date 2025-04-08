@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/Quoc1509/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Quoc1509/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Quoc1509/leetcode/tree/master/0162-find-peak-element) |
+| [0170-two-sum-iii-data-structure-design](https://github.com/Quoc1509/leetcode/tree/master/0170-two-sum-iii-data-structure-design) |
 | [0174-dungeon-game](https://github.com/Quoc1509/leetcode/tree/master/0174-dungeon-game) |
 | [0179-largest-number](https://github.com/Quoc1509/leetcode/tree/master/0179-largest-number) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Quoc1509/leetcode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
@@ -376,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/Quoc1509/leetcode/tree/master/0146-lru-cache) |
 | [0159-longest-substring-with-at-most-two-distinct-characters](https://github.com/Quoc1509/leetcode/tree/master/0159-longest-substring-with-at-most-two-distinct-characters) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Quoc1509/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0170-two-sum-iii-data-structure-design](https://github.com/Quoc1509/leetcode/tree/master/0170-two-sum-iii-data-structure-design) |
 | [0187-repeated-dna-sequences](https://github.com/Quoc1509/leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0246-strobogrammatic-number](https://github.com/Quoc1509/leetcode/tree/master/0246-strobogrammatic-number) |
 | [0305-number-of-islands-ii](https://github.com/Quoc1509/leetcode/tree/master/0305-number-of-islands-ii) |
@@ -514,6 +516,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0086-partition-list](https://github.com/Quoc1509/leetcode/tree/master/0086-partition-list) |
 | [0088-merge-sorted-array](https://github.com/Quoc1509/leetcode/tree/master/0088-merge-sorted-array) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Quoc1509/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0170-two-sum-iii-data-structure-design](https://github.com/Quoc1509/leetcode/tree/master/0170-two-sum-iii-data-structure-design) |
 | [0189-rotate-array](https://github.com/Quoc1509/leetcode/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/Quoc1509/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0246-strobogrammatic-number](https://github.com/Quoc1509/leetcode/tree/master/0246-strobogrammatic-number) |
@@ -1963,6 +1966,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0146-lru-cache](https://github.com/Quoc1509/leetcode/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/Quoc1509/leetcode/tree/master/0155-min-stack) |
+| [0170-two-sum-iii-data-structure-design](https://github.com/Quoc1509/leetcode/tree/master/0170-two-sum-iii-data-structure-design) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Quoc1509/leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0295-find-median-from-data-stream](https://github.com/Quoc1509/leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Quoc1509/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -2049,6 +2053,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Data Stream
 |  |
 | ------- |
+| [0170-two-sum-iii-data-structure-design](https://github.com/Quoc1509/leetcode/tree/master/0170-two-sum-iii-data-structure-design) |
 | [0295-find-median-from-data-stream](https://github.com/Quoc1509/leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0359-logger-rate-limiter](https://github.com/Quoc1509/leetcode/tree/master/0359-logger-rate-limiter) |
 | [0362-design-hit-counter](https://github.com/Quoc1509/leetcode/tree/master/0362-design-hit-counter) |
