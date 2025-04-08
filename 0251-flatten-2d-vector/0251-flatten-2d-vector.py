@@ -11,7 +11,7 @@ class Vector2D:
         #     self.c += 1
         r, c = self.r, self.c
         c += 1
-        while r < len(self.vec) and(not self.vec[r] or c == len(self.vec[r])):
+        while r < len(self.vec) and c == len(self.vec[r]):
             r += 1
             c = 0
         return r, c
