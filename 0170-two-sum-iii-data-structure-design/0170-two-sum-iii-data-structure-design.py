@@ -1,17 +1,20 @@
 class TwoSum:
 
     def __init__(self):
-        self.arr = []
+        self.mp = defaultdict(int)
 
     def add(self, number: int) -> None:
-        self.arr.append(number)
+        self.mp[number] += 1
 
     def find(self, value: int) -> bool:
-        temp = set()
-        for num in self.arr:
-            if value - num in temp:
-                return True
-            temp.add(num)
+        for key, item in self.mp.items():
+            temp = value-key
+            if temp in self.mp:
+                if temp == key:          
+                    if self.mp[value-key] > 1:
+                        return True
+                else:
+                    return True
         return False
 
 
