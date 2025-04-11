@@ -1,36 +1,29 @@
-class Page:
-    def __init__(self, val=0, next=None):
-        self.val = val
-        self.next = next
+
 
 class BrowserHistory:
-
     def __init__(self, homepage: str):
-        self.mp = {}    
-        self.head = Page(0, Page(homepage))
+        self.stack = [homepage]
         self.cur = 0
-        self.mp[self.cur] = self.head
-        self.last = 1
-    
-    def addPage(self, cur, nextPage):
-        cur.next = nextPage
-        self.mp[self.cur] = cur
+        self.length = 1
+
 
     def visit(self, url: str) -> None:
-        newPage = Page(url)
-        curPage = self.mp[self.cur].next
+        if self.cur == len(self.stack)-1:
+            self.stack.append(url)
+        else:
+            self.stack[self.cur+1] = url
         self.cur += 1
-        self.addPage(curPage, newPage)
-        self.last = self.cur + 1
+        self.length = self.cur+1
 
     def back(self, steps: int) -> str:
         self.cur = max(0, self.cur - steps)
-        return self.mp[self.cur].next.val
+        return self.stack[self.cur]
 
     def forward(self, steps: int) -> str:
-        self.cur = min(self.cur+steps, self.last-1)
-        return self.mp[self.cur].next.val
 
+        self.cur = min(self.cur + steps, self.length-1)
+        print(self.length, self.cur)
+        return self.stack[self.cur]
 
 # Your BrowserHistory object will be instantiated and called as such:
 # obj = BrowserHistory(homepage)
