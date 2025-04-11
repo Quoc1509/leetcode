@@ -189,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1559-cherry-pickup-ii](https://github.com/Quoc1509/leetcode/tree/master/1559-cherry-pickup-ii) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Quoc1509/leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1571-allocate-mailboxes](https://github.com/Quoc1509/leetcode/tree/master/1571-allocate-mailboxes) |
+| [1582-design-browser-history](https://github.com/Quoc1509/leetcode/tree/master/1582-design-browser-history) |
 | [1583-paint-house-iii](https://github.com/Quoc1509/leetcode/tree/master/1583-paint-house-iii) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Quoc1509/leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Quoc1509/leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
@@ -958,6 +959,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0725-split-linked-list-in-parts](https://github.com/Quoc1509/leetcode/tree/master/0725-split-linked-list-in-parts) |
 | [0817-design-hashmap](https://github.com/Quoc1509/leetcode/tree/master/0817-design-hashmap) |
 | [1484-linked-list-in-binary-tree](https://github.com/Quoc1509/leetcode/tree/master/1484-linked-list-in-binary-tree) |
+| [1582-design-browser-history](https://github.com/Quoc1509/leetcode/tree/master/1582-design-browser-history) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Quoc1509/leetcode/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/Quoc1509/leetcode/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2411-spiral-matrix-iv](https://github.com/Quoc1509/leetcode/tree/master/2411-spiral-matrix-iv) |
@@ -1650,6 +1652,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Quoc1509/leetcode/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Quoc1509/leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Quoc1509/leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [1582-design-browser-history](https://github.com/Quoc1509/leetcode/tree/master/1582-design-browser-history) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Quoc1509/leetcode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Quoc1509/leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Quoc1509/leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
@@ -2015,6 +2018,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-product-of-the-last-k-numbers](https://github.com/Quoc1509/leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Quoc1509/leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1512-design-underground-system](https://github.com/Quoc1509/leetcode/tree/master/1512-design-underground-system) |
+| [1582-design-browser-history](https://github.com/Quoc1509/leetcode/tree/master/1582-design-browser-history) |
 | [1713-dot-product-of-two-sparse-vectors](https://github.com/Quoc1509/leetcode/tree/master/1713-dot-product-of-two-sparse-vectors) |
 | [1768-design-an-expression-tree-with-evaluate-function](https://github.com/Quoc1509/leetcode/tree/master/1768-design-an-expression-tree-with-evaluate-function) |
 | [2169-simple-bank-system](https://github.com/Quoc1509/leetcode/tree/master/2169-simple-bank-system) |
@@ -2083,6 +2087,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0359-logger-rate-limiter](https://github.com/Quoc1509/leetcode/tree/master/0359-logger-rate-limiter) |
 | [0362-design-hit-counter](https://github.com/Quoc1509/leetcode/tree/master/0362-design-hit-counter) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Quoc1509/leetcode/tree/master/1477-product-of-the-last-k-numbers) |
+| [1582-design-browser-history](https://github.com/Quoc1509/leetcode/tree/master/1582-design-browser-history) |
 ## Enumeration
 |  |
 | ------- |
@@ -2135,6 +2140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0432-all-oone-data-structure](https://github.com/Quoc1509/leetcode/tree/master/0432-all-oone-data-structure) |
 | [0460-lfu-cache](https://github.com/Quoc1509/leetcode/tree/master/0460-lfu-cache) |
 | [0716-max-stack](https://github.com/Quoc1509/leetcode/tree/master/0716-max-stack) |
+| [1582-design-browser-history](https://github.com/Quoc1509/leetcode/tree/master/1582-design-browser-history) |
 ## Eulerian Circuit
 |  |
 | ------- |
