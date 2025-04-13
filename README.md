@@ -536,6 +536,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/Quoc1509/leetcode/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0647-palindromic-substrings](https://github.com/Quoc1509/leetcode/tree/master/0647-palindromic-substrings) |
 | [0658-find-k-closest-elements](https://github.com/Quoc1509/leetcode/tree/master/0658-find-k-closest-elements) |
+| [0696-count-binary-substrings](https://github.com/Quoc1509/leetcode/tree/master/0696-count-binary-substrings) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Quoc1509/leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0768-partition-labels](https://github.com/Quoc1509/leetcode/tree/master/0768-partition-labels) |
 | [1129-longest-string-chain](https://github.com/Quoc1509/leetcode/tree/master/1129-longest-string-chain) |
@@ -856,6 +857,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0606-construct-string-from-binary-tree](https://github.com/Quoc1509/leetcode/tree/master/0606-construct-string-from-binary-tree) |
 | [0635-design-log-storage-system](https://github.com/Quoc1509/leetcode/tree/master/0635-design-log-storage-system) |
 | [0647-palindromic-substrings](https://github.com/Quoc1509/leetcode/tree/master/0647-palindromic-substrings) |
+| [0696-count-binary-substrings](https://github.com/Quoc1509/leetcode/tree/master/0696-count-binary-substrings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Quoc1509/leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0720-longest-word-in-dictionary](https://github.com/Quoc1509/leetcode/tree/master/0720-longest-word-in-dictionary) |
 | [0768-partition-labels](https://github.com/Quoc1509/leetcode/tree/master/0768-partition-labels) |
