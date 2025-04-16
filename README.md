@@ -434,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0999-regions-cut-by-slashes](https://github.com/Quoc1509/leetcode/tree/master/0999-regions-cut-by-slashes) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Quoc1509/leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1023-time-based-key-value-store](https://github.com/Quoc1509/leetcode/tree/master/1023-time-based-key-value-store) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Quoc1509/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1084-find-k-length-substrings-with-no-repeated-characters](https://github.com/Quoc1509/leetcode/tree/master/1084-find-k-length-substrings-with-no-repeated-characters) |
 | [1108-analyze-user-website-visit-pattern](https://github.com/Quoc1509/leetcode/tree/master/1108-analyze-user-website-visit-pattern) |
 | [1125-design-file-system](https://github.com/Quoc1509/leetcode/tree/master/1125-design-file-system) |
@@ -658,6 +659,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0976-minimum-area-rectangle](https://github.com/Quoc1509/leetcode/tree/master/0976-minimum-area-rectangle) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Quoc1509/leetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1014-k-closest-points-to-origin](https://github.com/Quoc1509/leetcode/tree/master/1014-k-closest-points-to-origin) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Quoc1509/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1085-the-earliest-moment-when-everyone-become-friends](https://github.com/Quoc1509/leetcode/tree/master/1085-the-earliest-moment-when-everyone-become-friends) |
 | [1108-analyze-user-website-visit-pattern](https://github.com/Quoc1509/leetcode/tree/master/1108-analyze-user-website-visit-pattern) |
 | [1129-longest-string-chain](https://github.com/Quoc1509/leetcode/tree/master/1129-longest-string-chain) |
@@ -1208,6 +1210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Quoc1509/leetcode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0988-flip-equivalent-binary-trees](https://github.com/Quoc1509/leetcode/tree/master/0988-flip-equivalent-binary-trees) |
 | [0999-regions-cut-by-slashes](https://github.com/Quoc1509/leetcode/tree/master/0999-regions-cut-by-slashes) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Quoc1509/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1157-insufficient-nodes-in-root-to-leaf-paths](https://github.com/Quoc1509/leetcode/tree/master/1157-insufficient-nodes-in-root-to-leaf-paths) |
 | [1177-tree-diameter](https://github.com/Quoc1509/leetcode/tree/master/1177-tree-diameter) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Quoc1509/leetcode/tree/master/1207-delete-nodes-and-return-forest) |
@@ -1285,6 +1288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0971-shortest-bridge](https://github.com/Quoc1509/leetcode/tree/master/0971-shortest-bridge) |
 | [0999-regions-cut-by-slashes](https://github.com/Quoc1509/leetcode/tree/master/0999-regions-cut-by-slashes) |
 | [1007-numbers-with-same-consecutive-differences](https://github.com/Quoc1509/leetcode/tree/master/1007-numbers-with-same-consecutive-differences) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Quoc1509/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1036-rotting-oranges](https://github.com/Quoc1509/leetcode/tree/master/1036-rotting-oranges) |
 | [1117-as-far-from-land-as-possible](https://github.com/Quoc1509/leetcode/tree/master/1117-as-far-from-land-as-possible) |
 | [1177-tree-diameter](https://github.com/Quoc1509/leetcode/tree/master/1177-tree-diameter) |
@@ -1491,6 +1495,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0863-sum-of-distances-in-tree](https://github.com/Quoc1509/leetcode/tree/master/0863-sum-of-distances-in-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Quoc1509/leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0988-flip-equivalent-binary-trees](https://github.com/Quoc1509/leetcode/tree/master/0988-flip-equivalent-binary-trees) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Quoc1509/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1157-insufficient-nodes-in-root-to-leaf-paths](https://github.com/Quoc1509/leetcode/tree/master/1157-insufficient-nodes-in-root-to-leaf-paths) |
 | [1177-tree-diameter](https://github.com/Quoc1509/leetcode/tree/master/1177-tree-diameter) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Quoc1509/leetcode/tree/master/1207-delete-nodes-and-return-forest) |
@@ -1791,6 +1796,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0606-construct-string-from-binary-tree](https://github.com/Quoc1509/leetcode/tree/master/0606-construct-string-from-binary-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Quoc1509/leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0988-flip-equivalent-binary-trees](https://github.com/Quoc1509/leetcode/tree/master/0988-flip-equivalent-binary-trees) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Quoc1509/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1157-insufficient-nodes-in-root-to-leaf-paths](https://github.com/Quoc1509/leetcode/tree/master/1157-insufficient-nodes-in-root-to-leaf-paths) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Quoc1509/leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Quoc1509/leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
