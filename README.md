@@ -206,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1713-dot-product-of-two-sparse-vectors](https://github.com/Quoc1509/leetcode/tree/master/1713-dot-product-of-two-sparse-vectors) |
 | [1720-crawler-log-folder](https://github.com/Quoc1509/leetcode/tree/master/1720-crawler-log-folder) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Quoc1509/leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
+| [1753-path-with-minimum-effort](https://github.com/Quoc1509/leetcode/tree/master/1753-path-with-minimum-effort) |
 | [1755-defuse-the-bomb](https://github.com/Quoc1509/leetcode/tree/master/1755-defuse-the-bomb) |
 | [1762-furthest-building-you-can-reach](https://github.com/Quoc1509/leetcode/tree/master/1762-furthest-building-you-can-reach) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Quoc1509/leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
@@ -595,6 +596,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1468-check-if-n-and-its-double-exist](https://github.com/Quoc1509/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Quoc1509/leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Quoc1509/leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
+| [1753-path-with-minimum-effort](https://github.com/Quoc1509/leetcode/tree/master/1753-path-with-minimum-effort) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Quoc1509/leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Quoc1509/leetcode/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/Quoc1509/leetcode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
@@ -790,6 +792,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1397-search-suggestions-system](https://github.com/Quoc1509/leetcode/tree/master/1397-search-suggestions-system) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Quoc1509/leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1622-max-value-of-equation](https://github.com/Quoc1509/leetcode/tree/master/1622-max-value-of-equation) |
+| [1753-path-with-minimum-effort](https://github.com/Quoc1509/leetcode/tree/master/1753-path-with-minimum-effort) |
 | [1762-furthest-building-you-can-reach](https://github.com/Quoc1509/leetcode/tree/master/1762-furthest-building-you-can-reach) |
 | [1814-jump-game-vi](https://github.com/Quoc1509/leetcode/tree/master/1814-jump-game-vi) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Quoc1509/leetcode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
@@ -1229,6 +1232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Quoc1509/leetcode/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/Quoc1509/leetcode/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/Quoc1509/leetcode/tree/master/1663-detect-cycles-in-2d-grid) |
+| [1753-path-with-minimum-effort](https://github.com/Quoc1509/leetcode/tree/master/1753-path-with-minimum-effort) |
 | [1816-lowest-common-ancestor-of-a-binary-tree-iv](https://github.com/Quoc1509/leetcode/tree/master/1816-lowest-common-ancestor-of-a-binary-tree-iv) |
 | [2035-count-sub-islands](https://github.com/Quoc1509/leetcode/tree/master/2035-count-sub-islands) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Quoc1509/leetcode/tree/master/2121-find-if-path-exists-in-graph) |
@@ -1306,6 +1310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1558-course-schedule-iv](https://github.com/Quoc1509/leetcode/tree/master/1558-course-schedule-iv) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Quoc1509/leetcode/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/Quoc1509/leetcode/tree/master/1663-detect-cycles-in-2d-grid) |
+| [1753-path-with-minimum-effort](https://github.com/Quoc1509/leetcode/tree/master/1753-path-with-minimum-effort) |
 | [1876-map-of-highest-peak](https://github.com/Quoc1509/leetcode/tree/master/1876-map-of-highest-peak) |
 | [2035-count-sub-islands](https://github.com/Quoc1509/leetcode/tree/master/2035-count-sub-islands) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/Quoc1509/leetcode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
@@ -1367,6 +1372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1628-count-submatrices-with-all-ones](https://github.com/Quoc1509/leetcode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1658-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Quoc1509/leetcode/tree/master/1658-minimum-swaps-to-arrange-a-binary-grid) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/Quoc1509/leetcode/tree/master/1663-detect-cycles-in-2d-grid) |
+| [1753-path-with-minimum-effort](https://github.com/Quoc1509/leetcode/tree/master/1753-path-with-minimum-effort) |
 | [1876-map-of-highest-peak](https://github.com/Quoc1509/leetcode/tree/master/1876-map-of-highest-peak) |
 | [1972-rotating-the-box](https://github.com/Quoc1509/leetcode/tree/master/1972-rotating-the-box) |
 | [2035-count-sub-islands](https://github.com/Quoc1509/leetcode/tree/master/2035-count-sub-islands) |
@@ -1410,6 +1416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1380-number-of-closed-islands](https://github.com/Quoc1509/leetcode/tree/master/1380-number-of-closed-islands) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/Quoc1509/leetcode/tree/master/1663-detect-cycles-in-2d-grid) |
 | [1706-min-cost-to-connect-all-points](https://github.com/Quoc1509/leetcode/tree/master/1706-min-cost-to-connect-all-points) |
+| [1753-path-with-minimum-effort](https://github.com/Quoc1509/leetcode/tree/master/1753-path-with-minimum-effort) |
 | [2035-count-sub-islands](https://github.com/Quoc1509/leetcode/tree/master/2035-count-sub-islands) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Quoc1509/leetcode/tree/master/2121-find-if-path-exists-in-graph) |
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/Quoc1509/leetcode/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
