@@ -2,8 +2,6 @@ class Solution:
     def arrayPairSum(self, nums: List[int]) -> int:
         nums.sort()
         res = 0
-        i = 0
-        while i < len(nums):
+        for i in range(0, len(nums), 2):
             res += nums[i]
-            i += 2
         return res
