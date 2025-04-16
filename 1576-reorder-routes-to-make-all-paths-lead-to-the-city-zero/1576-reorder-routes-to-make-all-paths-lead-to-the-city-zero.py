@@ -13,10 +13,10 @@ class Solution:
         res = 0
         while q:
             for _ in range(len(q)):
-                n = q.popleft()
-                for ne in graph[n]:
+                no = q.popleft()
+                for ne in graph[no]:
                     if ne not in visit:
-                        if (n, ne) in valid:
+                        if (no, ne) in valid:
                             res += 1
                         q.append(ne)
                         visit.add(ne)
