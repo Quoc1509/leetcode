@@ -9,7 +9,7 @@ class Solution:
                     graph[s[i]].append(s[j])
                     graph[s[j]].append(s[i])
                 name[s[i]] = s[0]
-                
+
         res = []
         visit = set()
 
@@ -30,8 +30,7 @@ class Solution:
         for key in graph.keys():
             if key not in visit:
                 temp = bfs(key)
-                temp.sort()
-                res.append([name[key]])
-                res[-1].extend(temp)
+                res.append([name[key]]+sorted(temp))
+
             
         return res
