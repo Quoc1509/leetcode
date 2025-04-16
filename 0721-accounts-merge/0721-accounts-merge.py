@@ -1,15 +1,15 @@
 class Solution:
     def accountsMerge(self, accounts: List[List[str]]) -> List[List[str]]:
-        name = defaultdict(str)
+        name = {}
         graph = defaultdict(list)
         for s in accounts:
-            for i in range(1, len(s)):
-                graph[s[i]].append(s[i])
-                for j in range(i+1,len(s)):
-                    graph[s[i]].append(s[j])
-                    graph[s[j]].append(s[i])
-                name[s[i]] = s[0]
-
+            n = s[0]
+            f_email = s[1]
+            for email in s[1:]:
+                name[email] = n
+                graph[f_email].append(email)
+                graph[email].append(f_email)
+                
         res = []
         visit = set()
 
