@@ -201,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1628-count-submatrices-with-all-ones](https://github.com/Quoc1509/leetcode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Quoc1509/leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Quoc1509/leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [1656-count-good-triplets](https://github.com/Quoc1509/leetcode/tree/master/1656-count-good-triplets) |
 | [1658-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Quoc1509/leetcode/tree/master/1658-minimum-swaps-to-arrange-a-binary-grid) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/Quoc1509/leetcode/tree/master/1663-detect-cycles-in-2d-grid) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Quoc1509/leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
@@ -2151,6 +2152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Quoc1509/leetcode/tree/master/0204-count-primes) |
+| [1656-count-good-triplets](https://github.com/Quoc1509/leetcode/tree/master/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Quoc1509/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Quoc1509/leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [3299-find-the-maximum-number-of-elements-in-subset](https://github.com/Quoc1509/leetcode/tree/master/3299-find-the-maximum-number-of-elements-in-subset) |
