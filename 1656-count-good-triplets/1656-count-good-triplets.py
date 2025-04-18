@@ -1,7 +1,7 @@
 class Solution:
     def countGoodTriplets(self, arr: List[int], a: int, b: int, c: int) -> int:
         res = 0
-        nums = SortedList()
+        nums = [0] * 1001
         for j in range(len(arr)):
             for k in range(j+1, len(arr)):
                 if abs(arr[j] - arr[k]) <= b:
@@ -9,14 +9,12 @@ class Solution:
                     left2 = arr[k]-c
                     right1 = arr[j]+a
                     right2 = arr[k]+c
-                    idx_left1 = bisect_left(nums, left1)
-                    idx_left2 = bisect_left(nums, left2)
-                    idx_right1 = bisect_right(nums, right1)
-                    idx_right2 = bisect_right(nums, right2)
 
-                    idx_left = max(idx_left1, idx_left2)
-                    idx_right = min(idx_right1, idx_right2)
-                    res += max(0, idx_right-idx_left)
-                    
-            nums.add(arr[j])
+                    idx_left = max(left1, left2)
+                    idx_right = min(1000, right1, right2)
+                    if idx_right >= idx_left:
+                        res += max(0, nums[idx_right]-(nums[idx_left-1] if idx_left-1 >= 0 else 0))
+
+            for k in range(arr[j], 1001):
+                nums[k] += 1
         return res
