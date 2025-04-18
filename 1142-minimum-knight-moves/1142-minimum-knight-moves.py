@@ -5,13 +5,15 @@ class Solution:
         x = abs(x)
         y = abs(y)
         q = deque()
-        q.append([x+y,0, 0])
+
+        minDis = x+y
+        q.append([0, 0])
         visit = set()
         visit.add((0,  0))
-        minDis = x+y
+        
         while q:
             for _ in range(len(q)):
-                dis, r, c = q.popleft()
+                r, c = q.popleft()
                 if r == x and c == y:
                     return res
                 for ro, co in move:
@@ -20,7 +22,7 @@ class Solution:
                     if new_dis > minDis + 3 or (row, col) in visit:
                         continue
                     minDis = min(new_dis, minDis)
-                    q.append([new_dis,row, col])
+                    q.append([row, col])
                     visit.add((row, col))
             res += 1
         return -1
