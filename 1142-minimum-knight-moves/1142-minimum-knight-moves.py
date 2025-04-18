@@ -2,6 +2,8 @@ class Solution:
     def minKnightMoves(self, x: int, y: int) -> int:
         move = [(-1, -2), (-2, -1), (-2, 1), (-1, 2), (1, 2), (2, 1), (2, -1), (1, -2)]
         res = 0
+        x = abs(x)
+        y = abs(y)
         q = deque()
         q.append([0, 0])
         visit = set()
@@ -13,7 +15,7 @@ class Solution:
                     return res
                 for ro, co in move:
                     row, col = r+ro, c+co
-                    if (row, col) not in visit:
+                    if -x <= row and -y <= col and (row, col) not in visit:
                         q.append([row, col])
                         visit.add((row, col))
             res += 1
