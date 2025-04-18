@@ -652,6 +652,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/Quoc1509/leetcode/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Quoc1509/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Quoc1509/leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0642-design-search-autocomplete-system](https://github.com/Quoc1509/leetcode/tree/master/0642-design-search-autocomplete-system) |
 | [0645-set-mismatch](https://github.com/Quoc1509/leetcode/tree/master/0645-set-mismatch) |
 | [0658-find-k-closest-elements](https://github.com/Quoc1509/leetcode/tree/master/0658-find-k-closest-elements) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Quoc1509/leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
@@ -783,6 +784,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Quoc1509/leetcode/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0621-task-scheduler](https://github.com/Quoc1509/leetcode/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Quoc1509/leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0642-design-search-autocomplete-system](https://github.com/Quoc1509/leetcode/tree/master/0642-design-search-autocomplete-system) |
 | [0658-find-k-closest-elements](https://github.com/Quoc1509/leetcode/tree/master/0658-find-k-closest-elements) |
 | [0675-cut-off-trees-for-golf-event](https://github.com/Quoc1509/leetcode/tree/master/0675-cut-off-trees-for-golf-event) |
 | [0744-network-delay-time](https://github.com/Quoc1509/leetcode/tree/master/0744-network-delay-time) |
@@ -872,6 +874,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0588-design-in-memory-file-system](https://github.com/Quoc1509/leetcode/tree/master/0588-design-in-memory-file-system) |
 | [0606-construct-string-from-binary-tree](https://github.com/Quoc1509/leetcode/tree/master/0606-construct-string-from-binary-tree) |
 | [0635-design-log-storage-system](https://github.com/Quoc1509/leetcode/tree/master/0635-design-log-storage-system) |
+| [0642-design-search-autocomplete-system](https://github.com/Quoc1509/leetcode/tree/master/0642-design-search-autocomplete-system) |
 | [0647-palindromic-substrings](https://github.com/Quoc1509/leetcode/tree/master/0647-palindromic-substrings) |
 | [0696-count-binary-substrings](https://github.com/Quoc1509/leetcode/tree/master/0696-count-binary-substrings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Quoc1509/leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
@@ -1204,6 +1207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/Quoc1509/leetcode/tree/master/0547-number-of-provinces) |
 | [0572-subtree-of-another-tree](https://github.com/Quoc1509/leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0606-construct-string-from-binary-tree](https://github.com/Quoc1509/leetcode/tree/master/0606-construct-string-from-binary-tree) |
+| [0642-design-search-autocomplete-system](https://github.com/Quoc1509/leetcode/tree/master/0642-design-search-autocomplete-system) |
 | [0684-redundant-connection](https://github.com/Quoc1509/leetcode/tree/master/0684-redundant-connection) |
 | [0694-number-of-distinct-islands](https://github.com/Quoc1509/leetcode/tree/master/0694-number-of-distinct-islands) |
 | [0695-max-area-of-island](https://github.com/Quoc1509/leetcode/tree/master/0695-max-area-of-island) |
@@ -2020,6 +2024,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Quoc1509/leetcode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0472-concatenated-words](https://github.com/Quoc1509/leetcode/tree/master/0472-concatenated-words) |
 | [0588-design-in-memory-file-system](https://github.com/Quoc1509/leetcode/tree/master/0588-design-in-memory-file-system) |
+| [0642-design-search-autocomplete-system](https://github.com/Quoc1509/leetcode/tree/master/0642-design-search-autocomplete-system) |
 | [0720-longest-word-in-dictionary](https://github.com/Quoc1509/leetcode/tree/master/0720-longest-word-in-dictionary) |
 | [1125-design-file-system](https://github.com/Quoc1509/leetcode/tree/master/1125-design-file-system) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Quoc1509/leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -2053,6 +2058,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0460-lfu-cache](https://github.com/Quoc1509/leetcode/tree/master/0460-lfu-cache) |
 | [0588-design-in-memory-file-system](https://github.com/Quoc1509/leetcode/tree/master/0588-design-in-memory-file-system) |
 | [0635-design-log-storage-system](https://github.com/Quoc1509/leetcode/tree/master/0635-design-log-storage-system) |
+| [0642-design-search-autocomplete-system](https://github.com/Quoc1509/leetcode/tree/master/0642-design-search-autocomplete-system) |
 | [0716-max-stack](https://github.com/Quoc1509/leetcode/tree/master/0716-max-stack) |
 | [0817-design-hashmap](https://github.com/Quoc1509/leetcode/tree/master/0817-design-hashmap) |
 | [1023-time-based-key-value-store](https://github.com/Quoc1509/leetcode/tree/master/1023-time-based-key-value-store) |
@@ -2130,6 +2136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/Quoc1509/leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0359-logger-rate-limiter](https://github.com/Quoc1509/leetcode/tree/master/0359-logger-rate-limiter) |
 | [0362-design-hit-counter](https://github.com/Quoc1509/leetcode/tree/master/0362-design-hit-counter) |
+| [0642-design-search-autocomplete-system](https://github.com/Quoc1509/leetcode/tree/master/0642-design-search-autocomplete-system) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Quoc1509/leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1582-design-browser-history](https://github.com/Quoc1509/leetcode/tree/master/1582-design-browser-history) |
 ## Enumeration
