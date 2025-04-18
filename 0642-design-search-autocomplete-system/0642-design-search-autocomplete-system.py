@@ -10,7 +10,7 @@ class AutocompleteSystem:
     def __init__(self, sentences: List[str], times: List[int]):
         self.sentences = sentences[:]
         self.times = times[:]
-        self.count = len(times)
+        # self.count = len(times)
         self.root = Node()
         self.curStr = ""
         self.cur = self.root
@@ -46,10 +46,10 @@ class AutocompleteSystem:
     def input(self, c: str) -> List[str]:
         if c == "#":
             if self.cur.end == -1:
-                self.cur.end = self.count
+                self.cur.end = len(self.times)
                 self.times.append(1)
                 self.sentences.append(self.curStr)
-                self.count += 1
+                # self.count += 1
             else:
                 self.times[self.cur.end] += 1
             i = self.cur.end
