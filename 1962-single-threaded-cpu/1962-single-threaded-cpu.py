@@ -1,24 +1,21 @@
 class Solution:
-    def getOrder(self, tasks: List[List[int]]) -> int:
+    def getOrder(self, tasks: List[List[int]]) -> List[int]:
         for i in range(len(tasks)):
             tasks[i].append(i)
-        tasks = sorted(tasks, key=lambda x: x[0])
-
-        endTime = tasks[0][0]
+        tasks.sort()
+        end = tasks[0][0]
+        heap, res = [], []
         i = 0
-        heap,res = [], []
         while heap or i < len(tasks):
-            while i < len(tasks) and tasks[i][0] <= endTime:
-                temp = [tasks[i][1], tasks[i][2]]
-                # tasks[i].append(temp)
-                
-                heapq.heappush(heap, temp)
+            while i < len(tasks) and tasks[i][0] <= end:
+                heappush(heap, (tasks[i][1], tasks[i][2]))
                 i += 1
             if heap:
-                temp = heapq.heappop(heap)
-                endTime += temp[0]
-                res.append(temp[1])
+                process, idx = heappop(heap)
+                res.append(idx)
+                end += process
             else:
-                endTime = tasks[i][0]
-
+                heappush(heap, (tasks[i][1], tasks[i][2]))
+                end = tasks[i][0]
+                i += 1
         return res
