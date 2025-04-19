@@ -1203,6 +1203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0332-reconstruct-itinerary](https://github.com/Quoc1509/leetcode/tree/master/0332-reconstruct-itinerary) |
 | [0333-largest-bst-subtree](https://github.com/Quoc1509/leetcode/tree/master/0333-largest-bst-subtree) |
 | [0337-house-robber-iii](https://github.com/Quoc1509/leetcode/tree/master/0337-house-robber-iii) |
+| [0341-flatten-nested-list-iterator](https://github.com/Quoc1509/leetcode/tree/master/0341-flatten-nested-list-iterator) |
 | [0386-lexicographical-numbers](https://github.com/Quoc1509/leetcode/tree/master/0386-lexicographical-numbers) |
 | [0399-evaluate-division](https://github.com/Quoc1509/leetcode/tree/master/0399-evaluate-division) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Quoc1509/leetcode/tree/master/0417-pacific-atlantic-water-flow) |
@@ -1523,6 +1524,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0314-binary-tree-vertical-order-traversal](https://github.com/Quoc1509/leetcode/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0333-largest-bst-subtree](https://github.com/Quoc1509/leetcode/tree/master/0333-largest-bst-subtree) |
 | [0337-house-robber-iii](https://github.com/Quoc1509/leetcode/tree/master/0337-house-robber-iii) |
+| [0341-flatten-nested-list-iterator](https://github.com/Quoc1509/leetcode/tree/master/0341-flatten-nested-list-iterator) |
 | [0437-path-sum-iii](https://github.com/Quoc1509/leetcode/tree/master/0437-path-sum-iii) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Quoc1509/leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0572-subtree-of-another-tree](https://github.com/Quoc1509/leetcode/tree/master/0572-subtree-of-another-tree) |
@@ -1688,6 +1690,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/Quoc1509/leetcode/tree/master/0155-min-stack) |
 | [0227-basic-calculator-ii](https://github.com/Quoc1509/leetcode/tree/master/0227-basic-calculator-ii) |
 | [0234-palindrome-linked-list](https://github.com/Quoc1509/leetcode/tree/master/0234-palindrome-linked-list) |
+| [0341-flatten-nested-list-iterator](https://github.com/Quoc1509/leetcode/tree/master/0341-flatten-nested-list-iterator) |
 | [0402-remove-k-digits](https://github.com/Quoc1509/leetcode/tree/master/0402-remove-k-digits) |
 | [0456-132-pattern](https://github.com/Quoc1509/leetcode/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/Quoc1509/leetcode/tree/master/0496-next-greater-element-i) |
@@ -2060,6 +2063,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0251-flatten-2d-vector](https://github.com/Quoc1509/leetcode/tree/master/0251-flatten-2d-vector) |
 | [0295-find-median-from-data-stream](https://github.com/Quoc1509/leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Quoc1509/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0341-flatten-nested-list-iterator](https://github.com/Quoc1509/leetcode/tree/master/0341-flatten-nested-list-iterator) |
 | [0348-design-tic-tac-toe](https://github.com/Quoc1509/leetcode/tree/master/0348-design-tic-tac-toe) |
 | [0353-design-snake-game](https://github.com/Quoc1509/leetcode/tree/master/0353-design-snake-game) |
 | [0355-design-twitter](https://github.com/Quoc1509/leetcode/tree/master/0355-design-twitter) |
@@ -2116,6 +2120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Quoc1509/leetcode/tree/master/0239-sliding-window-maximum) |
+| [0341-flatten-nested-list-iterator](https://github.com/Quoc1509/leetcode/tree/master/0341-flatten-nested-list-iterator) |
 | [0353-design-snake-game](https://github.com/Quoc1509/leetcode/tree/master/0353-design-snake-game) |
 | [0362-design-hit-counter](https://github.com/Quoc1509/leetcode/tree/master/0362-design-hit-counter) |
 | [0379-design-phone-directory](https://github.com/Quoc1509/leetcode/tree/master/0379-design-phone-directory) |
@@ -2215,4 +2220,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0251-flatten-2d-vector](https://github.com/Quoc1509/leetcode/tree/master/0251-flatten-2d-vector) |
+| [0341-flatten-nested-list-iterator](https://github.com/Quoc1509/leetcode/tree/master/0341-flatten-nested-list-iterator) |
 <!---LeetCode Topics End-->
