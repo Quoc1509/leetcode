@@ -1,41 +1,38 @@
 class SnakeGame:
-
     def __init__(self, width: int, height: int, food: List[List[int]]):
         self.visit = set()
-        self.length = deque()
+        self.snake = deque()
         self.w = width
         self.h = height 
-        self.head = [0, 0]
-        self.food = food
-        self.visit.add(tuple([0, 0]))
-        self.length.append([0, 0])
-        self.idx = 0
-
+        # self.head = [0, 0]
+        self.food = deque([(r, c) for r, c in food])
+        self.visit.add((0, 0))
+        self.snake.append((0, 0))
+        print(self.food)
     def move(self, direction: str) -> int:
+        headX, headY = self.snake[-1]
         if direction == 'U':
-            self.head[0] -= 1
+            headX -= 1
         elif direction == 'D':
-            self.head[0] += 1
+            headX += 1
         elif direction == 'L':
-            self.head[1] -= 1
+            headY -= 1
         else:
-            self.head[1] += 1
-        if self.head[0] < 0 or self.head[0] >= self.h or self.head[1] < 0 or self.head[1] >= self.w:
+            headY += 1
+        next_move = (headX, headY)
+        if headX < 0 or headX >= self.h or headY < 0 or headY >= self.w:
             return -1
-
-        if self.idx < len(self.food) and self.head == self.food[self.idx]:
-            self.length.append(self.head[:])
-            self.visit.add(tuple(self.head))
-            self.idx += 1
+         
+        if self.food and next_move == self.food[0]:
+            self.food.popleft()
         else:
-            cord = self.length.popleft()
-            self.visit.remove(tuple(cord))
-            self.length.append(self.head[:])
-            if tuple(self.head) in self.visit:
-                return -1
-            self.visit.add(tuple(self.head))
-
-        return len(self.length)-1
+            cord = self.snake.popleft()
+            self.visit.remove(cord)
+        self.snake.append(next_move)
+        if next_move in self.visit:
+            return -1
+        self.visit.add(next_move)
+        return len(self.snake)-1
 
 
 # Your SnakeGame object will be instantiated and called as such:
