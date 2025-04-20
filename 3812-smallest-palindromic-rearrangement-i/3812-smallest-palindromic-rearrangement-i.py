@@ -3,14 +3,12 @@ class Solution:
         arr = [0] * 26
         for c in s:
             arr[ord(c)-ord("a")] += 1
-        first = ""
-        second = "" 
+        res = ""
         extra = ""
         for i in range(26):
             while arr[i] > 1:
-                first += chr(i+97)
-                second += chr(i+97)
+                res += chr(i+97)
                 arr[i] -= 2
             if arr[i] == 1:
                 extra = chr(i+97)
-        return first + extra + second[::-1]
+        return res + extra + res[::-1]
