@@ -2,7 +2,7 @@ class Solution:
     def smallestPalindrome(self, s: str) -> str:
         arr = [0] * 26
         for c in s:
-            arr[ord(c)-ord("a")] += 1
+            arr[ord(c)-97] += 1
         res = ""
         extra = ""
         for i in range(26):
