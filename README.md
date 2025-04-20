@@ -718,6 +718,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3714-maximum-and-minimum-sums-of-at-most-size-k-subsequences](https://github.com/Quoc1509/leetcode/tree/master/3714-maximum-and-minimum-sums-of-at-most-size-k-subsequences) |
 | [3759-choose-k-elements-with-maximum-sum](https://github.com/Quoc1509/leetcode/tree/master/3759-choose-k-elements-with-maximum-sum) |
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/Quoc1509/leetcode/tree/master/3764-maximum-sum-with-at-most-k-elements) |
+| [3812-smallest-palindromic-rearrangement-i](https://github.com/Quoc1509/leetcode/tree/master/3812-smallest-palindromic-rearrangement-i) |
 ## Greedy
 |  |
 | ------- |
@@ -969,6 +970,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3552-find-the-largest-palindrome-divisible-by-k](https://github.com/Quoc1509/leetcode/tree/master/3552-find-the-largest-palindrome-divisible-by-k) |
 | [3613-maximize-amount-after-two-days-of-conversions](https://github.com/Quoc1509/leetcode/tree/master/3613-maximize-amount-after-two-days-of-conversions) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Quoc1509/leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+| [3812-smallest-palindromic-rearrangement-i](https://github.com/Quoc1509/leetcode/tree/master/3812-smallest-palindromic-rearrangement-i) |
 ## Linked List
 |  |
 | ------- |
@@ -2207,6 +2209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0561-array-partition](https://github.com/Quoc1509/leetcode/tree/master/0561-array-partition) |
 | [0948-sort-an-array](https://github.com/Quoc1509/leetcode/tree/master/0948-sort-an-array) |
+| [3812-smallest-palindromic-rearrangement-i](https://github.com/Quoc1509/leetcode/tree/master/3812-smallest-palindromic-rearrangement-i) |
 ## Doubly-Linked List
 |  |
 | ------- |
