@@ -16,11 +16,12 @@ class Solution:
         def backTracking(r, c, tree):
             if 'target' in tree:
                 res.add(tree['target'])
+            
             temp = board[r][c]
             board[r][c] = '.'
             for x, y in surround:
                 ro, co = r+x, c+y
-                if 0 <= ro < M and 0 <= co < N and board[ro][co] in tree and board[ro][co] != '.':
+                if 0 <= ro < M and 0 <= co < N and board[ro][co] in tree:
                     backTracking(ro, co, tree[board[ro][co]])
             board[r][c] = temp
 
