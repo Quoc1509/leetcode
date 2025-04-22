@@ -4,7 +4,6 @@ class Solution:
         total = sum(nums[:2*k+1])
         
         for i in range(k, len(nums)-k):
-            print(total)
             res[i] = floor(total/(2*k+1))
             if i + k + 1 < len(nums):
                 total += nums[i+k+1]
