@@ -8,14 +8,14 @@ class Solution:
         visited = set()
 
         def dfs(city):
-            if city in visited: return False
-            temp = True
             visited.add(city)
             for j in graph[city]:
                 if j not in visited:
                    temp = dfs(j)
-            return temp
+
         res = 0
         for i in graph:
-           if dfs(i): res += 1
+           if i not in visited:
+            dfs(i)
+            res += 1
         return res
