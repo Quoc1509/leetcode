@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-koko-eating-bananas](https://github.com/Quoc1509/leetcode/tree/master/0907-koko-eating-bananas) |
 | [0911-profitable-schemes](https://github.com/Quoc1509/leetcode/tree/master/0911-profitable-schemes) |
 | [0943-sum-of-subarray-minimums](https://github.com/Quoc1509/leetcode/tree/master/0943-sum-of-subarray-minimums) |
+| [0945-snakes-and-ladders](https://github.com/Quoc1509/leetcode/tree/master/0945-snakes-and-ladders) |
 | [0948-sort-an-array](https://github.com/Quoc1509/leetcode/tree/master/0948-sort-an-array) |
 | [0951-partition-array-into-disjoint-intervals](https://github.com/Quoc1509/leetcode/tree/master/0951-partition-array-into-disjoint-intervals) |
 | [0952-word-subsets](https://github.com/Quoc1509/leetcode/tree/master/0952-word-subsets) |
@@ -1322,6 +1323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0871-keys-and-rooms](https://github.com/Quoc1509/leetcode/tree/master/0871-keys-and-rooms) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Quoc1509/leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0922-possible-bipartition](https://github.com/Quoc1509/leetcode/tree/master/0922-possible-bipartition) |
+| [0945-snakes-and-ladders](https://github.com/Quoc1509/leetcode/tree/master/0945-snakes-and-ladders) |
 | [0971-shortest-bridge](https://github.com/Quoc1509/leetcode/tree/master/0971-shortest-bridge) |
 | [0999-regions-cut-by-slashes](https://github.com/Quoc1509/leetcode/tree/master/0999-regions-cut-by-slashes) |
 | [1007-numbers-with-same-consecutive-differences](https://github.com/Quoc1509/leetcode/tree/master/1007-numbers-with-same-consecutive-differences) |
@@ -1391,6 +1393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Quoc1509/leetcode/tree/master/0733-flood-fill) |
 | [0794-swim-in-rising-water](https://github.com/Quoc1509/leetcode/tree/master/0794-swim-in-rising-water) |
 | [0854-making-a-large-island](https://github.com/Quoc1509/leetcode/tree/master/0854-making-a-large-island) |
+| [0945-snakes-and-ladders](https://github.com/Quoc1509/leetcode/tree/master/0945-snakes-and-ladders) |
 | [0971-shortest-bridge](https://github.com/Quoc1509/leetcode/tree/master/0971-shortest-bridge) |
 | [0999-regions-cut-by-slashes](https://github.com/Quoc1509/leetcode/tree/master/0999-regions-cut-by-slashes) |
 | [1022-unique-paths-iii](https://github.com/Quoc1509/leetcode/tree/master/1022-unique-paths-iii) |
