@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0833-bus-routes](https://github.com/Quoc1509/leetcode/tree/master/0833-bus-routes) |
 | [0837-most-common-word](https://github.com/Quoc1509/leetcode/tree/master/0837-most-common-word) |
 | [0854-making-a-large-island](https://github.com/Quoc1509/leetcode/tree/master/0854-making-a-large-island) |
+| [0860-design-circular-queue](https://github.com/Quoc1509/leetcode/tree/master/0860-design-circular-queue) |
 | [0876-hand-of-straights](https://github.com/Quoc1509/leetcode/tree/master/0876-hand-of-straights) |
 | [0879-maximize-distance-to-closest-person](https://github.com/Quoc1509/leetcode/tree/master/0879-maximize-distance-to-closest-person) |
 | [0881-loud-and-rich](https://github.com/Quoc1509/leetcode/tree/master/0881-loud-and-rich) |
@@ -1000,6 +1001,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0716-max-stack](https://github.com/Quoc1509/leetcode/tree/master/0716-max-stack) |
 | [0725-split-linked-list-in-parts](https://github.com/Quoc1509/leetcode/tree/master/0725-split-linked-list-in-parts) |
 | [0817-design-hashmap](https://github.com/Quoc1509/leetcode/tree/master/0817-design-hashmap) |
+| [0860-design-circular-queue](https://github.com/Quoc1509/leetcode/tree/master/0860-design-circular-queue) |
 | [1484-linked-list-in-binary-tree](https://github.com/Quoc1509/leetcode/tree/master/1484-linked-list-in-binary-tree) |
 | [1582-design-browser-history](https://github.com/Quoc1509/leetcode/tree/master/1582-design-browser-history) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Quoc1509/leetcode/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
@@ -2102,6 +2104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0642-design-search-autocomplete-system](https://github.com/Quoc1509/leetcode/tree/master/0642-design-search-autocomplete-system) |
 | [0716-max-stack](https://github.com/Quoc1509/leetcode/tree/master/0716-max-stack) |
 | [0817-design-hashmap](https://github.com/Quoc1509/leetcode/tree/master/0817-design-hashmap) |
+| [0860-design-circular-queue](https://github.com/Quoc1509/leetcode/tree/master/0860-design-circular-queue) |
 | [1023-time-based-key-value-store](https://github.com/Quoc1509/leetcode/tree/master/1023-time-based-key-value-store) |
 | [1125-design-file-system](https://github.com/Quoc1509/leetcode/tree/master/1125-design-file-system) |
 | [1296-kth-ancestor-of-a-tree-node](https://github.com/Quoc1509/leetcode/tree/master/1296-kth-ancestor-of-a-tree-node) |
@@ -2149,6 +2152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0353-design-snake-game](https://github.com/Quoc1509/leetcode/tree/master/0353-design-snake-game) |
 | [0362-design-hit-counter](https://github.com/Quoc1509/leetcode/tree/master/0362-design-hit-counter) |
 | [0379-design-phone-directory](https://github.com/Quoc1509/leetcode/tree/master/0379-design-phone-directory) |
+| [0860-design-circular-queue](https://github.com/Quoc1509/leetcode/tree/master/0860-design-circular-queue) |
 | [1286-constrained-subsequence-sum](https://github.com/Quoc1509/leetcode/tree/master/1286-constrained-subsequence-sum) |
 | [1622-max-value-of-equation](https://github.com/Quoc1509/leetcode/tree/master/1622-max-value-of-equation) |
 | [1814-jump-game-vi](https://github.com/Quoc1509/leetcode/tree/master/1814-jump-game-vi) |
