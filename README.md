@@ -298,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Quoc1509/leetcode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2551-apply-operations-to-an-array](https://github.com/Quoc1509/leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Quoc1509/leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2555-design-sql](https://github.com/Quoc1509/leetcode/tree/master/2555-design-sql) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/Quoc1509/leetcode/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Quoc1509/leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2587-design-memory-allocator](https://github.com/Quoc1509/leetcode/tree/master/2587-design-memory-allocator) |
@@ -495,6 +496,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2502-sort-the-people](https://github.com/Quoc1509/leetcode/tree/master/2502-sort-the-people) |
 | [2505-number-of-good-paths](https://github.com/Quoc1509/leetcode/tree/master/2505-number-of-good-paths) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Quoc1509/leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2555-design-sql](https://github.com/Quoc1509/leetcode/tree/master/2555-design-sql) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Quoc1509/leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2587-design-memory-allocator](https://github.com/Quoc1509/leetcode/tree/master/2587-design-memory-allocator) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/Quoc1509/leetcode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
@@ -957,6 +959,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Quoc1509/leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2465-shifting-letters-ii](https://github.com/Quoc1509/leetcode/tree/master/2465-shifting-letters-ii) |
 | [2502-sort-the-people](https://github.com/Quoc1509/leetcode/tree/master/2502-sort-the-people) |
+| [2555-design-sql](https://github.com/Quoc1509/leetcode/tree/master/2555-design-sql) |
 | [2580-circular-sentence](https://github.com/Quoc1509/leetcode/tree/master/2580-circular-sentence) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/Quoc1509/leetcode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Quoc1509/leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
@@ -2121,6 +2124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1768-design-an-expression-tree-with-evaluate-function](https://github.com/Quoc1509/leetcode/tree/master/1768-design-an-expression-tree-with-evaluate-function) |
 | [2169-simple-bank-system](https://github.com/Quoc1509/leetcode/tree/master/2169-simple-bank-system) |
 | [2434-design-a-number-container-system](https://github.com/Quoc1509/leetcode/tree/master/2434-design-a-number-container-system) |
+| [2555-design-sql](https://github.com/Quoc1509/leetcode/tree/master/2555-design-sql) |
 | [2587-design-memory-allocator](https://github.com/Quoc1509/leetcode/tree/master/2587-design-memory-allocator) |
 ## Randomized
 |  |
