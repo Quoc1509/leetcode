@@ -47,5 +47,7 @@ class Solution:
                 R = i+dp[i]
         ma = max(dp)
         center = dp.index(ma)
-        return s[(center-ma)//2:((center+ma)//2)-1]
+        start = (center-ma)//2
+        max_length = (ma*2-1)//2
+        return s[start:start+max_length]
             
