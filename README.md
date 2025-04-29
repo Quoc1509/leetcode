@@ -195,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Quoc1509/leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Quoc1509/leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1524-string-matching-in-an-array](https://github.com/Quoc1509/leetcode/tree/master/1524-string-matching-in-an-array) |
+| [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Quoc1509/leetcode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Quoc1509/leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1559-cherry-pickup-ii](https://github.com/Quoc1509/leetcode/tree/master/1559-cherry-pickup-ii) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Quoc1509/leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
@@ -820,6 +821,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1325-path-with-maximum-probability](https://github.com/Quoc1509/leetcode/tree/master/1325-path-with-maximum-probability) |
 | [1397-search-suggestions-system](https://github.com/Quoc1509/leetcode/tree/master/1397-search-suggestions-system) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Quoc1509/leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Quoc1509/leetcode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1622-max-value-of-equation](https://github.com/Quoc1509/leetcode/tree/master/1622-max-value-of-equation) |
 | [1753-path-with-minimum-effort](https://github.com/Quoc1509/leetcode/tree/master/1753-path-with-minimum-effort) |
 | [1762-furthest-building-you-can-reach](https://github.com/Quoc1509/leetcode/tree/master/1762-furthest-building-you-can-reach) |
@@ -1781,6 +1783,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1321-get-equal-substrings-within-budget](https://github.com/Quoc1509/leetcode/tree/master/1321-get-equal-substrings-within-budget) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Quoc1509/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Quoc1509/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Quoc1509/leetcode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1622-max-value-of-equation](https://github.com/Quoc1509/leetcode/tree/master/1622-max-value-of-equation) |
 | [1755-defuse-the-bomb](https://github.com/Quoc1509/leetcode/tree/master/1755-defuse-the-bomb) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Quoc1509/leetcode/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
@@ -2016,6 +2019,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0456-132-pattern](https://github.com/Quoc1509/leetcode/tree/master/0456-132-pattern) |
 | [0635-design-log-storage-system](https://github.com/Quoc1509/leetcode/tree/master/0635-design-log-storage-system) |
 | [0716-max-stack](https://github.com/Quoc1509/leetcode/tree/master/0716-max-stack) |
+| [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Quoc1509/leetcode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [2434-design-a-number-container-system](https://github.com/Quoc1509/leetcode/tree/master/2434-design-a-number-container-system) |
 | [2868-continuous-subarrays](https://github.com/Quoc1509/leetcode/tree/master/2868-continuous-subarrays) |
 | [3363-most-frequent-ids](https://github.com/Quoc1509/leetcode/tree/master/3363-most-frequent-ids) |
@@ -2168,6 +2172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0379-design-phone-directory](https://github.com/Quoc1509/leetcode/tree/master/0379-design-phone-directory) |
 | [0860-design-circular-queue](https://github.com/Quoc1509/leetcode/tree/master/0860-design-circular-queue) |
 | [1286-constrained-subsequence-sum](https://github.com/Quoc1509/leetcode/tree/master/1286-constrained-subsequence-sum) |
+| [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Quoc1509/leetcode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1622-max-value-of-equation](https://github.com/Quoc1509/leetcode/tree/master/1622-max-value-of-equation) |
 | [1814-jump-game-vi](https://github.com/Quoc1509/leetcode/tree/master/1814-jump-game-vi) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/Quoc1509/leetcode/tree/master/2408-number-of-people-aware-of-a-secret) |
@@ -2181,6 +2186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Quoc1509/leetcode/tree/master/0239-sliding-window-maximum) |
 | [1286-constrained-subsequence-sum](https://github.com/Quoc1509/leetcode/tree/master/1286-constrained-subsequence-sum) |
+| [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Quoc1509/leetcode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1622-max-value-of-equation](https://github.com/Quoc1509/leetcode/tree/master/1622-max-value-of-equation) |
 | [1814-jump-game-vi](https://github.com/Quoc1509/leetcode/tree/master/1814-jump-game-vi) |
 | [2449-maximum-number-of-robots-within-budget](https://github.com/Quoc1509/leetcode/tree/master/2449-maximum-number-of-robots-within-budget) |
