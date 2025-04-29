@@ -343,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3141-minimum-size-subarray-in-infinite-array](https://github.com/Quoc1509/leetcode/tree/master/3141-minimum-size-subarray-in-infinite-array) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/Quoc1509/leetcode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3178-minimum-increment-operations-to-make-array-beautiful](https://github.com/Quoc1509/leetcode/tree/master/3178-minimum-increment-operations-to-make-array-beautiful) |
+| [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Quoc1509/leetcode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3227-find-missing-and-repeated-values](https://github.com/Quoc1509/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Quoc1509/leetcode/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3247-number-of-same-end-substrings](https://github.com/Quoc1509/leetcode/tree/master/3247-number-of-same-end-substrings) |
@@ -1801,6 +1802,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2954-maximum-sum-of-almost-unique-subarray](https://github.com/Quoc1509/leetcode/tree/master/2954-maximum-sum-of-almost-unique-subarray) |
 | [3141-minimum-size-subarray-in-infinite-array](https://github.com/Quoc1509/leetcode/tree/master/3141-minimum-size-subarray-in-infinite-array) |
 | [3150-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Quoc1509/leetcode/tree/master/3150-shortest-and-lexicographically-smallest-beautiful-string) |
+| [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Quoc1509/leetcode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Quoc1509/leetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Quoc1509/leetcode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Quoc1509/leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
