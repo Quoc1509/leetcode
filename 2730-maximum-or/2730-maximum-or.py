@@ -3,7 +3,7 @@ class Solution:
         sur_fix = [0] * (len(nums)+1)
         for i in range(len(nums)-1, -1, -1):
             sur_fix[i] = (nums[i] | sur_fix[i+1])
-        
+            
         pre_fix,res = 0, 0
         for i in range(len(nums)):
             tmp = pre_fix|(nums[i]*pow(2,k))|sur_fix[i+1]
