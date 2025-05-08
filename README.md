@@ -375,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3594-identify-the-largest-outlier-in-an-array](https://github.com/Quoc1509/leetcode/tree/master/3594-identify-the-largest-outlier-in-an-array) |
 | [3607-minimum-division-operations-to-make-array-non-decreasing](https://github.com/Quoc1509/leetcode/tree/master/3607-minimum-division-operations-to-make-array-non-decreasing) |
 | [3613-maximize-amount-after-two-days-of-conversions](https://github.com/Quoc1509/leetcode/tree/master/3613-maximize-amount-after-two-days-of-conversions) |
+| [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Quoc1509/leetcode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/Quoc1509/leetcode/tree/master/3643-zero-array-transformation-ii) |
 | [3654-minimum-array-sum](https://github.com/Quoc1509/leetcode/tree/master/3654-minimum-array-sum) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Quoc1509/leetcode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
@@ -856,6 +857,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3363-most-frequent-ids](https://github.com/Quoc1509/leetcode/tree/master/3363-most-frequent-ids) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Quoc1509/leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/Quoc1509/leetcode/tree/master/3558-find-a-safe-walk-through-a-grid) |
+| [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Quoc1509/leetcode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3759-choose-k-elements-with-maximum-sum](https://github.com/Quoc1509/leetcode/tree/master/3759-choose-k-elements-with-maximum-sum) |
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/Quoc1509/leetcode/tree/master/3764-maximum-sum-with-at-most-k-elements) |
 ## String
@@ -1455,6 +1457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2914-find-the-safest-path-in-a-grid](https://github.com/Quoc1509/leetcode/tree/master/2914-find-the-safest-path-in-a-grid) |
 | [3227-find-missing-and-repeated-values](https://github.com/Quoc1509/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/Quoc1509/leetcode/tree/master/3558-find-a-safe-walk-through-a-grid) |
+| [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Quoc1509/leetcode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/Quoc1509/leetcode/tree/master/3764-maximum-sum-with-at-most-k-elements) |
 ## Union Find
 |  |
@@ -1543,6 +1546,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3532-time-taken-to-mark-all-nodes](https://github.com/Quoc1509/leetcode/tree/master/3532-time-taken-to-mark-all-nodes) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/Quoc1509/leetcode/tree/master/3558-find-a-safe-walk-through-a-grid) |
 | [3613-maximize-amount-after-two-days-of-conversions](https://github.com/Quoc1509/leetcode/tree/master/3613-maximize-amount-after-two-days-of-conversions) |
+| [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Quoc1509/leetcode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Tree
 |  |
 | ------- |
@@ -1941,6 +1945,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Quoc1509/leetcode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Quoc1509/leetcode/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/Quoc1509/leetcode/tree/master/3558-find-a-safe-walk-through-a-grid) |
+| [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Quoc1509/leetcode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Interactive
 |  |
 | ------- |
