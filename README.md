@@ -1000,6 +1000,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3455-minimum-length-of-string-after-operations](https://github.com/Quoc1509/leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3552-find-the-largest-palindrome-divisible-by-k](https://github.com/Quoc1509/leetcode/tree/master/3552-find-the-largest-palindrome-divisible-by-k) |
 | [3613-maximize-amount-after-two-days-of-conversions](https://github.com/Quoc1509/leetcode/tree/master/3613-maximize-amount-after-two-days-of-conversions) |
+| [3637-count-number-of-balanced-permutations](https://github.com/Quoc1509/leetcode/tree/master/3637-count-number-of-balanced-permutations) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Quoc1509/leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3812-smallest-palindromic-rearrangement-i](https://github.com/Quoc1509/leetcode/tree/master/3812-smallest-palindromic-rearrangement-i) |
 ## Linked List
@@ -1212,6 +1213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3552-find-the-largest-palindrome-divisible-by-k](https://github.com/Quoc1509/leetcode/tree/master/3552-find-the-largest-palindrome-divisible-by-k) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Quoc1509/leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3607-minimum-division-operations-to-make-array-non-decreasing](https://github.com/Quoc1509/leetcode/tree/master/3607-minimum-division-operations-to-make-array-non-decreasing) |
+| [3637-count-number-of-balanced-permutations](https://github.com/Quoc1509/leetcode/tree/master/3637-count-number-of-balanced-permutations) |
 | [3714-maximum-and-minimum-sums-of-at-most-size-k-subsequences](https://github.com/Quoc1509/leetcode/tree/master/3714-maximum-and-minimum-sums-of-at-most-size-k-subsequences) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Quoc1509/leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Depth-First Search
@@ -1719,6 +1721,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3532-time-taken-to-mark-all-nodes](https://github.com/Quoc1509/leetcode/tree/master/3532-time-taken-to-mark-all-nodes) |
 | [3537-number-of-subsequences-with-odd-sum](https://github.com/Quoc1509/leetcode/tree/master/3537-number-of-subsequences-with-odd-sum) |
 | [3552-find-the-largest-palindrome-divisible-by-k](https://github.com/Quoc1509/leetcode/tree/master/3552-find-the-largest-palindrome-divisible-by-k) |
+| [3637-count-number-of-balanced-permutations](https://github.com/Quoc1509/leetcode/tree/master/3637-count-number-of-balanced-permutations) |
 | [3654-minimum-array-sum](https://github.com/Quoc1509/leetcode/tree/master/3654-minimum-array-sum) |
 | [3714-maximum-and-minimum-sums-of-at-most-size-k-subsequences](https://github.com/Quoc1509/leetcode/tree/master/3714-maximum-and-minimum-sums-of-at-most-size-k-subsequences) |
 ## Geometry
@@ -2081,6 +2084,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2324-find-triangular-sum-of-an-array](https://github.com/Quoc1509/leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/Quoc1509/leetcode/tree/master/2696-the-number-of-beautiful-subsets) |
 | [3537-number-of-subsequences-with-odd-sum](https://github.com/Quoc1509/leetcode/tree/master/3537-number-of-subsequences-with-odd-sum) |
+| [3637-count-number-of-balanced-permutations](https://github.com/Quoc1509/leetcode/tree/master/3637-count-number-of-balanced-permutations) |
 | [3714-maximum-and-minimum-sums-of-at-most-size-k-subsequences](https://github.com/Quoc1509/leetcode/tree/master/3714-maximum-and-minimum-sums-of-at-most-size-k-subsequences) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Quoc1509/leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Brainteaser
