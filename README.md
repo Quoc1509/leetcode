@@ -1684,6 +1684,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Quoc1509/leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0911-profitable-schemes](https://github.com/Quoc1509/leetcode/tree/master/0911-profitable-schemes) |
 | [0943-sum-of-subarray-minimums](https://github.com/Quoc1509/leetcode/tree/master/0943-sum-of-subarray-minimums) |
+| [0972-knight-dialer](https://github.com/Quoc1509/leetcode/tree/master/0972-knight-dialer) |
 | [0993-tallest-billboard](https://github.com/Quoc1509/leetcode/tree/master/0993-tallest-billboard) |
 | [1025-minimum-cost-for-tickets](https://github.com/Quoc1509/leetcode/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/Quoc1509/leetcode/tree/master/1063-best-sightseeing-pair) |
