@@ -1718,6 +1718,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Quoc1509/leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1893-maximum-subarray-sum-after-one-operation](https://github.com/Quoc1509/leetcode/tree/master/1893-maximum-subarray-sum-after-one-operation) |
 | [1900-closest-dessert-cost](https://github.com/Quoc1509/leetcode/tree/master/1900-closest-dessert-cost) |
+| [2061-painting-a-grid-with-three-different-colors](https://github.com/Quoc1509/leetcode/tree/master/2061-painting-a-grid-with-three-different-colors) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Quoc1509/leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2130-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/Quoc1509/leetcode/tree/master/2130-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 | [2164-two-best-non-overlapping-events](https://github.com/Quoc1509/leetcode/tree/master/2164-two-best-non-overlapping-events) |
