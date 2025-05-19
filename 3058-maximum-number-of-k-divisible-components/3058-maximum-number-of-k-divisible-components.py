@@ -2,7 +2,6 @@ class Solution:
     def maxKDivisibleComponents(self, n: int, edges: List[List[int]], values: List[int], k: int) -> int:
         mp = defaultdict(list)
         for a, b in edges:
-            val =  + values[b]
             mp[a].append(b)
             mp[b].append(a)
         res= [0]
