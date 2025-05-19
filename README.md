@@ -357,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3291-find-if-array-can-be-sorted](https://github.com/Quoc1509/leetcode/tree/master/3291-find-if-array-can-be-sorted) |
 | [3299-find-the-maximum-number-of-elements-in-subset](https://github.com/Quoc1509/leetcode/tree/master/3299-find-the-maximum-number-of-elements-in-subset) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Quoc1509/leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3321-type-of-triangle](https://github.com/Quoc1509/leetcode/tree/master/3321-type-of-triangle) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Quoc1509/leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Quoc1509/leetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3334-apple-redistribution-into-boxes](https://github.com/Quoc1509/leetcode/tree/master/3334-apple-redistribution-into-boxes) |
@@ -740,6 +741,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Quoc1509/leetcode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Quoc1509/leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Quoc1509/leetcode/tree/master/3291-find-if-array-can-be-sorted) |
+| [3321-type-of-triangle](https://github.com/Quoc1509/leetcode/tree/master/3321-type-of-triangle) |
 | [3334-apple-redistribution-into-boxes](https://github.com/Quoc1509/leetcode/tree/master/3334-apple-redistribution-into-boxes) |
 | [3430-count-days-without-meetings](https://github.com/Quoc1509/leetcode/tree/master/3430-count-days-without-meetings) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/Quoc1509/leetcode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
@@ -1219,6 +1221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Quoc1509/leetcode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Quoc1509/leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3227-find-missing-and-repeated-values](https://github.com/Quoc1509/leetcode/tree/master/3227-find-missing-and-repeated-values) |
+| [3321-type-of-triangle](https://github.com/Quoc1509/leetcode/tree/master/3321-type-of-triangle) |
 | [3537-number-of-subsequences-with-odd-sum](https://github.com/Quoc1509/leetcode/tree/master/3537-number-of-subsequences-with-odd-sum) |
 | [3552-find-the-largest-palindrome-divisible-by-k](https://github.com/Quoc1509/leetcode/tree/master/3552-find-the-largest-palindrome-divisible-by-k) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Quoc1509/leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
