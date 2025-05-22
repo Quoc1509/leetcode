@@ -1,6 +1,6 @@
 class Solution:
     def maxRemoval(self, nums: List[int], queries: List[List[int]]) -> int:
-        queries.sort(key=lambda x: (x[0], -x[1]))
+        queries.sort()
         heap = []
         q = 0
         diff = [0] * (len(nums)+1)
