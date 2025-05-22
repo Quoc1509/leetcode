@@ -383,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Quoc1509/leetcode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3639-zero-array-transformation-i](https://github.com/Quoc1509/leetcode/tree/master/3639-zero-array-transformation-i) |
 | [3643-zero-array-transformation-ii](https://github.com/Quoc1509/leetcode/tree/master/3643-zero-array-transformation-ii) |
+| [3647-zero-array-transformation-iii](https://github.com/Quoc1509/leetcode/tree/master/3647-zero-array-transformation-iii) |
 | [3654-minimum-array-sum](https://github.com/Quoc1509/leetcode/tree/master/3654-minimum-array-sum) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Quoc1509/leetcode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/Quoc1509/leetcode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
@@ -745,6 +746,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3321-type-of-triangle](https://github.com/Quoc1509/leetcode/tree/master/3321-type-of-triangle) |
 | [3334-apple-redistribution-into-boxes](https://github.com/Quoc1509/leetcode/tree/master/3334-apple-redistribution-into-boxes) |
 | [3430-count-days-without-meetings](https://github.com/Quoc1509/leetcode/tree/master/3430-count-days-without-meetings) |
+| [3647-zero-array-transformation-iii](https://github.com/Quoc1509/leetcode/tree/master/3647-zero-array-transformation-iii) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/Quoc1509/leetcode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3714-maximum-and-minimum-sums-of-at-most-size-k-subsequences](https://github.com/Quoc1509/leetcode/tree/master/3714-maximum-and-minimum-sums-of-at-most-size-k-subsequences) |
 | [3759-choose-k-elements-with-maximum-sum](https://github.com/Quoc1509/leetcode/tree/master/3759-choose-k-elements-with-maximum-sum) |
@@ -811,6 +813,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3334-apple-redistribution-into-boxes](https://github.com/Quoc1509/leetcode/tree/master/3334-apple-redistribution-into-boxes) |
 | [3552-find-the-largest-palindrome-divisible-by-k](https://github.com/Quoc1509/leetcode/tree/master/3552-find-the-largest-palindrome-divisible-by-k) |
 | [3607-minimum-division-operations-to-make-array-non-decreasing](https://github.com/Quoc1509/leetcode/tree/master/3607-minimum-division-operations-to-make-array-non-decreasing) |
+| [3647-zero-array-transformation-iii](https://github.com/Quoc1509/leetcode/tree/master/3647-zero-array-transformation-iii) |
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/Quoc1509/leetcode/tree/master/3764-maximum-sum-with-at-most-k-elements) |
 ## Heap (Priority Queue)
 |  |
@@ -871,6 +874,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Quoc1509/leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/Quoc1509/leetcode/tree/master/3558-find-a-safe-walk-through-a-grid) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Quoc1509/leetcode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
+| [3647-zero-array-transformation-iii](https://github.com/Quoc1509/leetcode/tree/master/3647-zero-array-transformation-iii) |
 | [3759-choose-k-elements-with-maximum-sum](https://github.com/Quoc1509/leetcode/tree/master/3759-choose-k-elements-with-maximum-sum) |
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/Quoc1509/leetcode/tree/master/3764-maximum-sum-with-at-most-k-elements) |
 ## String
@@ -1166,6 +1170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Quoc1509/leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3639-zero-array-transformation-i](https://github.com/Quoc1509/leetcode/tree/master/3639-zero-array-transformation-i) |
 | [3643-zero-array-transformation-ii](https://github.com/Quoc1509/leetcode/tree/master/3643-zero-array-transformation-ii) |
+| [3647-zero-array-transformation-iii](https://github.com/Quoc1509/leetcode/tree/master/3647-zero-array-transformation-iii) |
 ## Math
 |  |
 | ------- |
