@@ -392,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3714-maximum-and-minimum-sums-of-at-most-size-k-subsequences](https://github.com/Quoc1509/leetcode/tree/master/3714-maximum-and-minimum-sums-of-at-most-size-k-subsequences) |
 | [3759-choose-k-elements-with-maximum-sum](https://github.com/Quoc1509/leetcode/tree/master/3759-choose-k-elements-with-maximum-sum) |
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/Quoc1509/leetcode/tree/master/3764-maximum-sum-with-at-most-k-elements) |
+| [3829-shortest-path-in-a-weighted-tree](https://github.com/Quoc1509/leetcode/tree/master/3829-shortest-path-in-a-weighted-tree) |
 ## Hash Table
 |  |
 | ------- |
@@ -1341,6 +1342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/Quoc1509/leetcode/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 | [3532-time-taken-to-mark-all-nodes](https://github.com/Quoc1509/leetcode/tree/master/3532-time-taken-to-mark-all-nodes) |
 | [3613-maximize-amount-after-two-days-of-conversions](https://github.com/Quoc1509/leetcode/tree/master/3613-maximize-amount-after-two-days-of-conversions) |
+| [3829-shortest-path-in-a-weighted-tree](https://github.com/Quoc1509/leetcode/tree/master/3829-shortest-path-in-a-weighted-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -1638,6 +1640,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3058-maximum-number-of-k-divisible-components](https://github.com/Quoc1509/leetcode/tree/master/3058-maximum-number-of-k-divisible-components) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/Quoc1509/leetcode/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 | [3532-time-taken-to-mark-all-nodes](https://github.com/Quoc1509/leetcode/tree/master/3532-time-taken-to-mark-all-nodes) |
+| [3829-shortest-path-in-a-weighted-tree](https://github.com/Quoc1509/leetcode/tree/master/3829-shortest-path-in-a-weighted-tree) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -2334,4 +2337,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0251-flatten-2d-vector](https://github.com/Quoc1509/leetcode/tree/master/0251-flatten-2d-vector) |
 | [0281-zigzag-iterator](https://github.com/Quoc1509/leetcode/tree/master/0281-zigzag-iterator) |
 | [0341-flatten-nested-list-iterator](https://github.com/Quoc1509/leetcode/tree/master/0341-flatten-nested-list-iterator) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [3829-shortest-path-in-a-weighted-tree](https://github.com/Quoc1509/leetcode/tree/master/3829-shortest-path-in-a-weighted-tree) |
+## Segment Tree
+|  |
+| ------- |
+| [3829-shortest-path-in-a-weighted-tree](https://github.com/Quoc1509/leetcode/tree/master/3829-shortest-path-in-a-weighted-tree) |
 <!---LeetCode Topics End-->
