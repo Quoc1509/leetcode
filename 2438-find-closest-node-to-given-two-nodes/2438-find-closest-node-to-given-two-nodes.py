@@ -12,7 +12,6 @@ class Solution:
         
         arr1 = dfs(node1, len(edges))
         arr2 = dfs(node2, len(edges))
-        print(arr1, arr2)
         res = -1
         maxStep = inf
         for i in range(len(edges)):
