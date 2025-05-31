@@ -4,21 +4,16 @@ class Solution:
         move = defaultdict(int)
         
         count = 1
-        direct = 0
+        direct = 1
         for i in range(M-1, -1, -1):
-            
-            if direct % 2 == 0:
-                for j in range(N):
-                    if board[i][j] != -1:
-                        move[count] = board[i][j]
-                    count += 1
-            else:
-                for j in range(N-1, -1, -1):
-                    if board[i][j] != -1:
-                        move[count] = board[i][j]
-                    count += 1
-            direct += 1
-        # print(move)
+            a = 0 if direct > 0 else N-1
+            b = -1 if direct < 0 else N
+            for j in range(a, b, direct):
+                if board[i][j] != -1:
+                    move[count] = board[i][j]
+                count += 1
+
+            direct *= -1
         
         res = 0
         q = deque()
