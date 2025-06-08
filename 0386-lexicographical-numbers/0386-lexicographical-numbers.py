@@ -1,6 +1,6 @@
 class Solution:
     def lexicalOrder(self, n: int) -> List[int]:
-        res = deque()
+        res = []
         def dfs(num):
 
             if num > n:
