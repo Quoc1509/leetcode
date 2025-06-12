@@ -391,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/Quoc1509/leetcode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/Quoc1509/leetcode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3714-maximum-and-minimum-sums-of-at-most-size-k-subsequences](https://github.com/Quoc1509/leetcode/tree/master/3714-maximum-and-minimum-sums-of-at-most-size-k-subsequences) |
+| [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Quoc1509/leetcode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3759-choose-k-elements-with-maximum-sum](https://github.com/Quoc1509/leetcode/tree/master/3759-choose-k-elements-with-maximum-sum) |
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/Quoc1509/leetcode/tree/master/3764-maximum-sum-with-at-most-k-elements) |
 | [3829-shortest-path-in-a-weighted-tree](https://github.com/Quoc1509/leetcode/tree/master/3829-shortest-path-in-a-weighted-tree) |
