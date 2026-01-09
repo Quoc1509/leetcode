@@ -458,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0817-design-hashmap](https://github.com/Quoc1509/leetcode/tree/master/0817-design-hashmap) |
 | [0833-bus-routes](https://github.com/Quoc1509/leetcode/tree/master/0833-bus-routes) |
 | [0837-most-common-word](https://github.com/Quoc1509/leetcode/tree/master/0837-most-common-word) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Quoc1509/leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0876-hand-of-straights](https://github.com/Quoc1509/leetcode/tree/master/0876-hand-of-straights) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Quoc1509/leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Quoc1509/leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
@@ -1318,6 +1319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0820-find-eventual-safe-states](https://github.com/Quoc1509/leetcode/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/Quoc1509/leetcode/tree/master/0854-making-a-large-island) |
 | [0863-sum-of-distances-in-tree](https://github.com/Quoc1509/leetcode/tree/master/0863-sum-of-distances-in-tree) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Quoc1509/leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0871-keys-and-rooms](https://github.com/Quoc1509/leetcode/tree/master/0871-keys-and-rooms) |
 | [0881-loud-and-rich](https://github.com/Quoc1509/leetcode/tree/master/0881-loud-and-rich) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Quoc1509/leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
@@ -1408,6 +1410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0820-find-eventual-safe-states](https://github.com/Quoc1509/leetcode/tree/master/0820-find-eventual-safe-states) |
 | [0833-bus-routes](https://github.com/Quoc1509/leetcode/tree/master/0833-bus-routes) |
 | [0854-making-a-large-island](https://github.com/Quoc1509/leetcode/tree/master/0854-making-a-large-island) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Quoc1509/leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0871-keys-and-rooms](https://github.com/Quoc1509/leetcode/tree/master/0871-keys-and-rooms) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Quoc1509/leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0922-possible-bipartition](https://github.com/Quoc1509/leetcode/tree/master/0922-possible-bipartition) |
@@ -1638,6 +1641,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0773-logical-or-of-two-binary-grids-represented-as-quad-trees](https://github.com/Quoc1509/leetcode/tree/master/0773-logical-or-of-two-binary-grids-represented-as-quad-trees) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Quoc1509/leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0863-sum-of-distances-in-tree](https://github.com/Quoc1509/leetcode/tree/master/0863-sum-of-distances-in-tree) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Quoc1509/leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Quoc1509/leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0988-flip-equivalent-binary-trees](https://github.com/Quoc1509/leetcode/tree/master/0988-flip-equivalent-binary-trees) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Quoc1509/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -1966,6 +1970,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Quoc1509/leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0572-subtree-of-another-tree](https://github.com/Quoc1509/leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0606-construct-string-from-binary-tree](https://github.com/Quoc1509/leetcode/tree/master/0606-construct-string-from-binary-tree) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Quoc1509/leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Quoc1509/leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0988-flip-equivalent-binary-trees](https://github.com/Quoc1509/leetcode/tree/master/0988-flip-equivalent-binary-trees) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Quoc1509/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
