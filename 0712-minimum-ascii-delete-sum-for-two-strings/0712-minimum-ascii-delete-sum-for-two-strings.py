@@ -17,8 +17,8 @@ class Solution:
             if s1[i1] == s2[i2]:
                 return dfs(i1+1, i2+1)
 
-            one = dfs(i1+1, i2) + ord(s1[i1]) if s1[i1] != s2[i2] else 0
-            two = dfs(i1, i2+1) + ord(s2[i2]) if s1[i1] != s2[i2] else 0
+            one = dfs(i1+1, i2) + ord(s1[i1])
+            two = dfs(i1, i2+1) + ord(s2[i2])
             return min(one, two)
             
 
