@@ -18,9 +18,8 @@ class Solution:
                 return dfs(i1+1, i2+1)
 
             one = dfs(i1+1, i2) + ord(s1[i1]) if s1[i1] != s2[i2] else 0
-            # two = dfs(i1+1, i2+1) + (ord(s1[i1]) + ord(s2[i2])) if s1[i1] != s2[i2] else 0 
-            three = dfs(i1, i2+1) + ord(s2[i2]) if s1[i1] != s2[i2] else 0
-            return min(one, three)
+            two = dfs(i1, i2+1) + ord(s2[i2]) if s1[i1] != s2[i2] else 0
+            return min(one, two)
             
 
         return dfs(0, 0)
