@@ -374,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3429-special-array-i](https://github.com/Quoc1509/leetcode/tree/master/3429-special-array-i) |
 | [3430-count-days-without-meetings](https://github.com/Quoc1509/leetcode/tree/master/3430-count-days-without-meetings) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Quoc1509/leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3453-separate-squares-i](https://github.com/Quoc1509/leetcode/tree/master/3453-separate-squares-i) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Quoc1509/leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/Quoc1509/leetcode/tree/master/3483-alternating-groups-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Quoc1509/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -676,6 +677,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2914-find-the-safest-path-in-a-grid](https://github.com/Quoc1509/leetcode/tree/master/2914-find-the-safest-path-in-a-grid) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Quoc1509/leetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3427-special-array-ii](https://github.com/Quoc1509/leetcode/tree/master/3427-special-array-ii) |
+| [3453-separate-squares-i](https://github.com/Quoc1509/leetcode/tree/master/3453-separate-squares-i) |
 | [3643-zero-array-transformation-ii](https://github.com/Quoc1509/leetcode/tree/master/3643-zero-array-transformation-ii) |
 ## Sorting
 |  |
