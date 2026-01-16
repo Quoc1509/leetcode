@@ -349,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2914-find-the-safest-path-in-a-grid](https://github.com/Quoc1509/leetcode/tree/master/2914-find-the-safest-path-in-a-grid) |
 | [2915-count-of-interesting-subarrays](https://github.com/Quoc1509/leetcode/tree/master/2915-count-of-interesting-subarrays) |
 | [2954-maximum-sum-of-almost-unique-subarray](https://github.com/Quoc1509/leetcode/tree/master/2954-maximum-sum-of-almost-unique-subarray) |
+| [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Quoc1509/leetcode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3141-minimum-size-subarray-in-infinite-array](https://github.com/Quoc1509/leetcode/tree/master/3141-minimum-size-subarray-in-infinite-array) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Quoc1509/leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/Quoc1509/leetcode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
@@ -545,6 +546,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Quoc1509/leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2915-count-of-interesting-subarrays](https://github.com/Quoc1509/leetcode/tree/master/2915-count-of-interesting-subarrays) |
 | [2954-maximum-sum-of-almost-unique-subarray](https://github.com/Quoc1509/leetcode/tree/master/2954-maximum-sum-of-almost-unique-subarray) |
+| [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Quoc1509/leetcode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3141-minimum-size-subarray-in-infinite-array](https://github.com/Quoc1509/leetcode/tree/master/3141-minimum-size-subarray-in-infinite-array) |
 | [3227-find-missing-and-repeated-values](https://github.com/Quoc1509/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3237-number-of-divisible-substrings](https://github.com/Quoc1509/leetcode/tree/master/3237-number-of-divisible-substrings) |
@@ -2329,6 +2331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Quoc1509/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Quoc1509/leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Quoc1509/leetcode/tree/master/2215-finding-3-digit-even-numbers) |
+| [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Quoc1509/leetcode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3299-find-the-maximum-number-of-elements-in-subset](https://github.com/Quoc1509/leetcode/tree/master/3299-find-the-maximum-number-of-elements-in-subset) |
 | [3594-identify-the-largest-outlier-in-an-array](https://github.com/Quoc1509/leetcode/tree/master/3594-identify-the-largest-outlier-in-an-array) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Quoc1509/leetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
