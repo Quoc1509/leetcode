@@ -233,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1829-maximum-units-on-a-truck](https://github.com/Quoc1509/leetcode/tree/master/1829-maximum-units-on-a-truck) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Quoc1509/leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1876-map-of-highest-peak](https://github.com/Quoc1509/leetcode/tree/master/1876-map-of-highest-peak) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/Quoc1509/leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Quoc1509/leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/Quoc1509/leetcode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [1893-maximum-subarray-sum-after-one-operation](https://github.com/Quoc1509/leetcode/tree/master/1893-maximum-subarray-sum-after-one-operation) |
@@ -604,6 +605,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Quoc1509/leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1713-dot-product-of-two-sparse-vectors](https://github.com/Quoc1509/leetcode/tree/master/1713-dot-product-of-two-sparse-vectors) |
 | [1790-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/Quoc1509/leetcode/tree/master/1790-lowest-common-ancestor-of-a-binary-tree-iii) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/Quoc1509/leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1894-merge-strings-alternately](https://github.com/Quoc1509/leetcode/tree/master/1894-merge-strings-alternately) |
 | [1972-rotating-the-box](https://github.com/Quoc1509/leetcode/tree/master/1972-rotating-the-box) |
 | [2232-adding-spaces-to-a-string](https://github.com/Quoc1509/leetcode/tree/master/2232-adding-spaces-to-a-string) |
@@ -737,6 +739,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Quoc1509/leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Quoc1509/leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1829-maximum-units-on-a-truck](https://github.com/Quoc1509/leetcode/tree/master/1829-maximum-units-on-a-truck) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/Quoc1509/leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1962-single-threaded-cpu](https://github.com/Quoc1509/leetcode/tree/master/1962-single-threaded-cpu) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Quoc1509/leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2164-two-best-non-overlapping-events](https://github.com/Quoc1509/leetcode/tree/master/2164-two-best-non-overlapping-events) |
@@ -810,6 +813,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Quoc1509/leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Quoc1509/leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1829-maximum-units-on-a-truck](https://github.com/Quoc1509/leetcode/tree/master/1829-maximum-units-on-a-truck) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/Quoc1509/leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1929-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/Quoc1509/leetcode/tree/master/1929-maximum-value-at-a-given-index-in-a-bounded-array) |
 | [2084-maximum-number-of-weeks-for-which-you-can-work](https://github.com/Quoc1509/leetcode/tree/master/2084-maximum-number-of-weeks-for-which-you-can-work) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Quoc1509/leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
