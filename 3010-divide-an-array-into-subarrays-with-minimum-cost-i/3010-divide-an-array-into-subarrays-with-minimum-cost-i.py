@@ -7,5 +7,4 @@ class Solution:
                 min1 = nums[i]
             elif nums[i] < min2:
                 min2 = nums[i]
-        print(min1, min2)
         return nums[0] + min1 + min2
