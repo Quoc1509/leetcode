@@ -352,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2915-count-of-interesting-subarrays](https://github.com/Quoc1509/leetcode/tree/master/2915-count-of-interesting-subarrays) |
 | [2954-maximum-sum-of-almost-unique-subarray](https://github.com/Quoc1509/leetcode/tree/master/2954-maximum-sum-of-almost-unique-subarray) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Quoc1509/leetcode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Quoc1509/leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3141-minimum-size-subarray-in-infinite-array](https://github.com/Quoc1509/leetcode/tree/master/3141-minimum-size-subarray-in-infinite-array) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Quoc1509/leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/Quoc1509/leetcode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
@@ -766,6 +767,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2699-count-the-number-of-fair-pairs](https://github.com/Quoc1509/leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2718-minimum-operations-to-make-all-array-elements-equal](https://github.com/Quoc1509/leetcode/tree/master/2718-minimum-operations-to-make-all-array-elements-equal) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Quoc1509/leetcode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Quoc1509/leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Quoc1509/leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Quoc1509/leetcode/tree/master/3291-find-if-array-can-be-sorted) |
 | [3321-type-of-triangle](https://github.com/Quoc1509/leetcode/tree/master/3321-type-of-triangle) |
@@ -2340,6 +2342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Quoc1509/leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Quoc1509/leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Quoc1509/leetcode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Quoc1509/leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3299-find-the-maximum-number-of-elements-in-subset](https://github.com/Quoc1509/leetcode/tree/master/3299-find-the-maximum-number-of-elements-in-subset) |
 | [3594-identify-the-largest-outlier-in-an-array](https://github.com/Quoc1509/leetcode/tree/master/3594-identify-the-largest-outlier-in-an-array) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Quoc1509/leetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
