@@ -392,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3607-minimum-division-operations-to-make-array-non-decreasing](https://github.com/Quoc1509/leetcode/tree/master/3607-minimum-division-operations-to-make-array-non-decreasing) |
 | [3613-maximize-amount-after-two-days-of-conversions](https://github.com/Quoc1509/leetcode/tree/master/3613-maximize-amount-after-two-days-of-conversions) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Quoc1509/leetcode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
+| [3637-trionic-array-i](https://github.com/Quoc1509/leetcode/tree/master/3637-trionic-array-i) |
 | [3639-zero-array-transformation-i](https://github.com/Quoc1509/leetcode/tree/master/3639-zero-array-transformation-i) |
 | [3643-zero-array-transformation-ii](https://github.com/Quoc1509/leetcode/tree/master/3643-zero-array-transformation-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/Quoc1509/leetcode/tree/master/3647-zero-array-transformation-iii) |
