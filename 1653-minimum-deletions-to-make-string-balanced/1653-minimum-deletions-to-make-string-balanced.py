@@ -3,8 +3,8 @@ class Solution:
         m = Counter(s)
         t = defaultdict(int)
         res = max(m['a'], m['b'])
-        for i in range(len(s)):
-            t[s[i]] += 1
+        for c in s:
+            t[c] += 1
             res = max(res, t['a'] + m['b'] - t['b'])
         return len(s) - res
         
